@@ -17,12 +17,22 @@ SECTIONS = {
     "tech-en-innovatie",
 }
 
+TITLE_EXCLUDE = [
+    "Vandaag in Dagkoers:",
+    "Personalia ",
+]
+
 
 def section_from_url(url: str) -> str | None:
     parts = url.split("/")
     if len(parts) >= 4:
         return parts[3]
     return None
+
+
+def should_exclude(item) -> bool:
+    title = item.findtext("title", "")
+    return any(title.startswith(prefix) for prefix in TITLE_EXCLUDE)
 
 
 def main() -> None:
@@ -40,7 +50,7 @@ def main() -> None:
 
     for item in channel.findall("item"):
         link = item.findtext("link", "")
-        if section_from_url(link) not in SECTIONS:
+        if section_from_url(link) not in SECTIONS or should_exclude(item):
             channel.remove(item)
 
     xml = ET.tostring(root, encoding="unicode", xml_declaration=True)
