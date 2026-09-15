@@ -6,8 +6,8 @@
     <description>Gefilterd op: bedrijfsleven, economie, politiek, samenleving, tech-en-innovatie</description>
     <language>nl</language>
     <copyright>2026 Het Financieele Dagblad Amsterdam. This RSS feed is intended solely for personal, non-commercial use. All use of RSS feeds from Het Financieele Dagblad is subject to the General Terms and Conditions for Subscriptions, Services, and Registrations: https://fdmg.nl/wp-content/uploads/AV_Abonnementen.pdf.</copyright>
-    <pubDate>Tue, 15 Sep 2026 20:51:52 GMT</pubDate>
-    <lastBuildDate>Tue, 15 Sep 2026 20:11:06 GMT</lastBuildDate>
+    <pubDate>Tue, 15 Sep 2026 23:23:37 GMT</pubDate>
+    <lastBuildDate>Tue, 15 Sep 2026 22:30:00 GMT</lastBuildDate>
     <webMaster>webmaster@fd.nl</webMaster>
     <ttl>10</ttl>
     <category>Laatste nieuws</category>
@@ -180,13 +180,5 @@
       <pubDate>Tue, 15 Sep 2026 12:26:47 GMT</pubDate>
       <guid>https://fd.nl/politiek/1612150/live-koning-roept-op-prinsjesdag-op-tot-toekomstbestendigheid-kabinet-jetten-wacht-stevige-onderhandelingen</guid>
     </item>
-    <item>
-      <title>Nieuwe kapitaalinjectie voor bouw van Utrechtse spooktoren Galaxy Tower</title>
-      <link>https://fd.nl/economie/1612280/nieuwe-kapitaalinjectie-voor-bouw-van-utrechtse-spooktoren-galaxy-tower</link>
-      <description>Vastgoedfinancier Jupiter Capital stelt €33,1 mln beschikbaar voor de afbouw van de woon- en hoteltoren bij station Utrecht Centraal. Na jarenlange vertraging moet het probleemproject eind 2027 zijn afgerond.</description>
-      <enclosure url="https://images.fd.nl/875681-875972.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
-      <pubDate>Tue, 15 Sep 2026 11:08:07 GMT</pubDate>
-      <guid>https://fd.nl/economie/1612280/nieuwe-kapitaalinjectie-voor-bouw-van-utrechtse-spooktoren-galaxy-tower</guid>
-    </item>
-    </channel>
+  </channel>
 </rss>
