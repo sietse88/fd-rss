@@ -32,7 +32,9 @@ def section_from_url(url: str) -> str | None:
 
 def should_exclude(item) -> bool:
     title = item.findtext("title", "")
-    return any(title.startswith(prefix) for prefix in TITLE_EXCLUDE)
+    desc = item.findtext("description", "")
+    text = title + " " + desc
+    return any(prefix in text for prefix in TITLE_EXCLUDE)
 
 
 def main() -> None:
