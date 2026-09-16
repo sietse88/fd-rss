@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <rss version="2.0">
   <channel>
     <title>FD – Selectie</title>
@@ -6,11 +6,27 @@
     <description>Gefilterd op: bedrijfsleven, economie, politiek, samenleving, tech-en-innovatie</description>
     <language>nl</language>
     <copyright>2026 Het Financieele Dagblad Amsterdam. This RSS feed is intended solely for personal, non-commercial use. All use of RSS feeds from Het Financieele Dagblad is subject to the General Terms and Conditions for Subscriptions, Services, and Registrations: https://fdmg.nl/wp-content/uploads/AV_Abonnementen.pdf.</copyright>
-    <pubDate>Wed, 16 Sep 2026 06:46:28 GMT</pubDate>
-    <lastBuildDate>Wed, 16 Sep 2026 05:53:26 GMT</lastBuildDate>
+    <pubDate>Wed, 16 Sep 2026 08:06:47 GMT</pubDate>
+    <lastBuildDate>Wed, 16 Sep 2026 07:30:00 GMT</lastBuildDate>
     <webMaster>webmaster@fd.nl</webMaster>
     <ttl>10</ttl>
     <category>Laatste nieuws</category>
+    <item>
+      <title>RDW-directeur Jantine Woudstra: ‘Dat ik dit soort banen kan krijgen, verbaast me weleens’</title>
+      <link>https://fd.nl/samenleving/1612285/rdw-directeur-jantine-woudstra-dat-ik-dit-soort-banen-kan-krijgen-verbaast-me-weleens</link>
+      <description>Jantine Woudstra, directeur van de RWD, heeft ‘een atypisch profiel voor een overheidsbestuurder’: ‘Ik heb het liever over resultaten dan over processen.’</description>
+      <enclosure url="https://images.fd.nl/875874-875876.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
+      <pubDate>Wed, 16 Sep 2026 07:30:00 GMT</pubDate>
+      <guid>https://fd.nl/samenleving/1612285/rdw-directeur-jantine-woudstra-dat-ik-dit-soort-banen-kan-krijgen-verbaast-me-weleens</guid>
+    </item>
+    <item>
+      <title>Wapengekletter rond Arcadis en belager WSP Global neemt toe</title>
+      <link>https://fd.nl/bedrijfsleven/1612392/wapengekletter-rond-arcadis-en-belager-wsp-global-neemt-toe</link>
+      <description>Twee stichtingen, die zijn verbonden aan het ingenieursadviesbureau, hebben juridisch adviseurs in de hand genomen voor raad over de overnamepoging door het Canadese WSP Global.</description>
+      <enclosure url="https://images.fd.nl/876494-876497.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
+      <pubDate>Wed, 16 Sep 2026 07:19:13 GMT</pubDate>
+      <guid>https://fd.nl/bedrijfsleven/1612392/wapengekletter-rond-arcadis-en-belager-wsp-global-neemt-toe</guid>
+    </item>
     <item>
       <title>Nvidia-ceo Huang: geen nieuwe regels nodig voor veilige groei van AI-industrie</title>
       <link>https://fd.nl/bedrijfsleven/1612334/nvidia-ceo-huang-geen-nieuwe-regels-nodig-voor-veilige-groei-van-ai-industrie</link>
@@ -41,14 +57,6 @@
       <enclosure url="https://images.fd.nl/870520-876144.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
       <pubDate>Wed, 16 Sep 2026 04:00:00 GMT</pubDate>
       <guid>https://fd.nl/bedrijfsleven/1612118/bram-tankink-impactinvesteren-is-hardcore-downhill-mountainbiken</guid>
-    </item>
-    <item>
-      <title>Werkenden krijgen ‘het bonnetje’ van de miljoenennota</title>
-      <link>https://fd.nl/economie/1612303/werkenden-krijgen-het-bonnetje-van-de-miljoenennota</link>
-      <description>Vandaag in Dagkoers: extra veel aandacht voor Prinsjesdag en de miljoenennota. Wat zijn de economische gevolgen van de kabinetsplannen en wat doen ze voor werkenden specifiek? Ook is er weer een villa gekraakt aan de Amstel, tot onvrede van buurtbewoners. </description>
-      <enclosure url="https://images.fd.nl/876328-876333.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
-      <pubDate>Wed, 16 Sep 2026 03:00:00 GMT</pubDate>
-      <guid>https://fd.nl/economie/1612303/werkenden-krijgen-het-bonnetje-van-de-miljoenennota</guid>
     </item>
     <item>
       <title>Premier Jetten: ‘Als we de begroting niet hadden aangepast, waren we toondoof genoemd’</title>
@@ -164,22 +172,6 @@
       <enclosure url="https://images.fd.nl/875579-875756.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
       <pubDate>Tue, 15 Sep 2026 14:00:00 GMT</pubDate>
       <guid>https://fd.nl/politiek/1612235/staatssecretaris-eerenberg-snelle-invoering-nieuw-stelsel-box-3-is-een-groot-risico</guid>
-    </item>
-    <item>
-      <title>Koopkrachtreparatie én investeren? Dat gaat knellen, stellen economen</title>
-      <link>https://fd.nl/economie/1612287/koopkrachtreparatie-en-investeren-dat-gaat-knellen-stellen-economen</link>
-      <description>Het kabinet-Jetten kiest inhoudelijk de juiste koers, vinden economen. Maar investeren in Nederland gaat volgens hen niet samen met koopkrachtreparatie. </description>
-      <enclosure url="https://images.fd.nl/875931-876207.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
-      <pubDate>Tue, 15 Sep 2026 13:45:18 GMT</pubDate>
-      <guid>https://fd.nl/economie/1612287/koopkrachtreparatie-en-investeren-dat-gaat-knellen-stellen-economen</guid>
-    </item>
-    <item>
-      <title>Raad van State: kabinet stelt grote ingrepen uit en schuift rekening door naar volgende generaties</title>
-      <link>https://fd.nl/politiek/1612157/raad-van-state-kabinet-stelt-grote-ingrepen-uit-en-schuift-rekening-door-naar-volgende-generaties</link>
-      <description>De Raad van State prijst de analyse van het kabinet, maar fileert de begroting: grote hervormingen blijven uit, kortetermijnuitgaven krijgen voorrang.</description>
-      <enclosure url="https://images.fd.nl/875934-876139.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
-      <pubDate>Tue, 15 Sep 2026 13:35:00 GMT</pubDate>
-      <guid>https://fd.nl/politiek/1612157/raad-van-state-kabinet-stelt-grote-ingrepen-uit-en-schuift-rekening-door-naar-volgende-generaties</guid>
     </item>
   </channel>
 </rss>
