@@ -6,11 +6,25 @@
     <description>Gefilterd op: bedrijfsleven, economie, politiek, samenleving, tech-en-innovatie</description>
     <language>nl</language>
     <copyright>2026 Het Financieele Dagblad Amsterdam. This RSS feed is intended solely for personal, non-commercial use. All use of RSS feeds from Het Financieele Dagblad is subject to the General Terms and Conditions for Subscriptions, Services, and Registrations: https://fdmg.nl/wp-content/uploads/AV_Abonnementen.pdf.</copyright>
-    <pubDate>Thu, 17 Sep 2026 19:16:32 GMT</pubDate>
-    <lastBuildDate>Thu, 17 Sep 2026 19:15:00 GMT</lastBuildDate>
+    <pubDate>Thu, 17 Sep 2026 22:20:18 GMT</pubDate>
+    <lastBuildDate>Thu, 17 Sep 2026 22:01:00 GMT</lastBuildDate>
     <webMaster>webmaster@fd.nl</webMaster>
     <ttl>10</ttl>
     <category>Laatste nieuws</category>
+    <item>
+      <title>CBS: één op tien huishoudens heeft minder dan €1000 aan spaartegoeden</title>
+      <link>https://fd.nl/economie/1612524/cbs-een-op-tien-huishoudens-heeft-minder-dan-1000-aan-spaartegoeden</link>
+      <description>Hierachter zitten duidelijke verschillen in leeftijd.</description>
+      <pubDate>Thu, 17 Sep 2026 22:01:00 GMT</pubDate>
+      <guid>https://fd.nl/economie/1612524/cbs-een-op-tien-huishoudens-heeft-minder-dan-1000-aan-spaartegoeden</guid>
+    </item>
+    <item>
+      <title>New York Times: OpenAI wist dat kopiëren materiaal uitgevers bedreigde</title>
+      <link>https://fd.nl/bedrijfsleven/1612541/new-york-times-openai-wist-dat-kopieren-materiaal-uitgevers-bedreigde</link>
+      <description>Het bedrijf zou miljoenen artikelen zonder toestemming hebben gekopieerd om commerciële AI-producten te ontwikkelen, die volgens de krant een vervanger kunnen vormen voor de oorspronkelijke publicaties.</description>
+      <pubDate>Thu, 17 Sep 2026 19:30:17 GMT</pubDate>
+      <guid>https://fd.nl/bedrijfsleven/1612541/new-york-times-openai-wist-dat-kopieren-materiaal-uitgevers-bedreigde</guid>
+    </item>
     <item>
       <title>Topvrouw voelt het onrecht, maar dempt de emotie</title>
       <link>https://fd.nl/samenleving/1612533/topvrouw-voelt-het-onrecht-maar-dempt-de-emotie</link>
@@ -170,14 +184,6 @@
       <description>Zo zou de politie boeren moeilijker in verband kunnen brengen met brandstichtingen eerder deze week.</description>
       <pubDate>Thu, 17 Sep 2026 11:56:26 GMT</pubDate>
       <guid>https://fd.nl/samenleving/1612520/fdf-voorman-roept-boeren-op-telefoons-te-legen-na-hooibaalbranden</guid>
-    </item>
-    <item>
-      <title>Canadese premier Carney: ‘We zijn niet alleen bondgenoten bij mooi weer’</title>
-      <link>https://fd.nl/politiek/1612519/canadese-premier-carney-toenadering-tot-eu-maakt-van-ons-ook-betere-partner-voor-vs</link>
-      <description>De Canadese premier legde in Straatsburg een wensenlijstje op tafel, maar maakte ook duidelijk waar de voordelen voor de EU liggen: op het gebied van zeldzame mineralen, aardgas en waterstof. </description>
-      <enclosure url="https://images.fd.nl/877328-877429.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
-      <pubDate>Thu, 17 Sep 2026 11:28:37 GMT</pubDate>
-      <guid>https://fd.nl/politiek/1612519/canadese-premier-carney-toenadering-tot-eu-maakt-van-ons-ook-betere-partner-voor-vs</guid>
     </item>
   </channel>
 </rss>
