@@ -6,11 +6,27 @@
     <description>Gefilterd op: bedrijfsleven, economie, politiek, samenleving, tech-en-innovatie</description>
     <language>nl</language>
     <copyright>2026 Het Financieele Dagblad Amsterdam. This RSS feed is intended solely for personal, non-commercial use. All use of RSS feeds from Het Financieele Dagblad is subject to the General Terms and Conditions for Subscriptions, Services, and Registrations: https://fdmg.nl/wp-content/uploads/AV_Abonnementen.pdf.</copyright>
-    <pubDate>Thu, 17 Sep 2026 22:20:18 GMT</pubDate>
-    <lastBuildDate>Thu, 17 Sep 2026 22:01:00 GMT</lastBuildDate>
+    <pubDate>Fri, 18 Sep 2026 00:36:31 GMT</pubDate>
+    <lastBuildDate>Thu, 17 Sep 2026 22:30:01 GMT</lastBuildDate>
     <webMaster>webmaster@fd.nl</webMaster>
     <ttl>10</ttl>
     <category>Laatste nieuws</category>
+    <item>
+      <title>Deloitte slankt af onder invloed van AI en offshoring</title>
+      <link>https://fd.nl/bedrijfsleven/1612530/deloitte-slankt-af-onder-invloed-van-ai-en-offshoring</link>
+      <description>De daling komt naar voren in de jongste jaarcijfers van het accountants- en advieskantoor. Sectoreconoom Katinka Jongkind van ING verwacht dat meer consultants hun personeelsbestand gaan inkrimpen.</description>
+      <enclosure url="https://images.fd.nl/877380-877424.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
+      <pubDate>Thu, 17 Sep 2026 22:30:00 GMT</pubDate>
+      <guid>https://fd.nl/bedrijfsleven/1612530/deloitte-slankt-af-onder-invloed-van-ai-en-offshoring</guid>
+    </item>
+    <item>
+      <title>Planbureau: ‘Nationale investerings­bank moet jonge bedrijven helpen, geen brugonderhoud financieren’</title>
+      <link>https://fd.nl/tech-en-innovatie/1612441/planbureau-nationale-investeringsbank-moet-jonge-bedrijven-helpen-geen-brugonderhoud-financieren</link>
+      <description>Een beoogde nationale investeringsinstelling heeft zich te beperken tot leningen aan start-ups en scale-ups. Maatschappelijk nuttige projecten horen daar niet bij. Dat schrijft het Centraal Planbureau.</description>
+      <enclosure url="https://images.fd.nl/877693-877817.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
+      <pubDate>Thu, 17 Sep 2026 22:30:00 GMT</pubDate>
+      <guid>https://fd.nl/tech-en-innovatie/1612441/planbureau-nationale-investeringsbank-moet-jonge-bedrijven-helpen-geen-brugonderhoud-financieren</guid>
+    </item>
     <item>
       <title>CBS: één op tien huishoudens heeft minder dan €1000 aan spaartegoeden</title>
       <link>https://fd.nl/economie/1612524/cbs-een-op-tien-huishoudens-heeft-minder-dan-1000-aan-spaartegoeden</link>
@@ -161,29 +177,6 @@
       <description>De gemiddelde Nederlandse werkweek is iets korter geworden. Dat komt vooral op het conto van mannen. Vrouwen zijn juist meer uren per week aan de slag gegaan.</description>
       <pubDate>Thu, 17 Sep 2026 12:46:15 GMT</pubDate>
       <guid>https://fd.nl/economie/1612426/mannen-zijn-de-laatste-jaren-minder-uren-gaan-werken</guid>
-    </item>
-    <item>
-      <title>Nexperia gaat deel chipproductie onderbrengen bij Tata in India</title>
-      <link>https://fd.nl/bedrijfsleven/1612521/nexperia-gaat-deel-chipproductie-onderbrengen-bij-tata-in-india</link>
-      <description>De Nijmeegse chipmaker gaat strategisch samenwerken met Tata Electronics op het gebied van chipproductie, assemblage en technologische ontwikkeling.</description>
-      <enclosure url="https://images.fd.nl/877570-877613.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
-      <pubDate>Thu, 17 Sep 2026 12:38:01 GMT</pubDate>
-      <guid>https://fd.nl/bedrijfsleven/1612521/nexperia-gaat-deel-chipproductie-onderbrengen-bij-tata-in-india</guid>
-    </item>
-    <item>
-      <title>Mensen met dementie kunnen nu zelf bepalen of ze luisteren naar Bach of Metallica</title>
-      <link>https://fd.nl/tech-en-innovatie/1612109/mensen-met-dementie-kunnen-nu-zelf-bepalen-of-ze-luisteren-naar-bach-of-metallica</link>
-      <description>Een bluetoothspeaker aan de praat krijgen is een veel te grote opgave voor mensen met dementie. Met Clef’r kunnen zij nu zelf eenvoudig hun favoriete muziek opzetten.</description>
-      <enclosure url="https://images.fd.nl/874704-875895.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
-      <pubDate>Thu, 17 Sep 2026 12:00:00 GMT</pubDate>
-      <guid>https://fd.nl/tech-en-innovatie/1612109/mensen-met-dementie-kunnen-nu-zelf-bepalen-of-ze-luisteren-naar-bach-of-metallica</guid>
-    </item>
-    <item>
-      <title>FDF-voorman roept boeren op telefoons te legen na hooibaalbranden</title>
-      <link>https://fd.nl/samenleving/1612520/fdf-voorman-roept-boeren-op-telefoons-te-legen-na-hooibaalbranden</link>
-      <description>Zo zou de politie boeren moeilijker in verband kunnen brengen met brandstichtingen eerder deze week.</description>
-      <pubDate>Thu, 17 Sep 2026 11:56:26 GMT</pubDate>
-      <guid>https://fd.nl/samenleving/1612520/fdf-voorman-roept-boeren-op-telefoons-te-legen-na-hooibaalbranden</guid>
     </item>
   </channel>
 </rss>
