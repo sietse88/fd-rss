@@ -6,11 +6,18 @@
     <description>Gefilterd op: bedrijfsleven, economie, politiek, samenleving, tech-en-innovatie</description>
     <language>nl</language>
     <copyright>2026 Het Financieele Dagblad Amsterdam. This RSS feed is intended solely for personal, non-commercial use. All use of RSS feeds from Het Financieele Dagblad is subject to the General Terms and Conditions for Subscriptions, Services, and Registrations: https://fdmg.nl/wp-content/uploads/AV_Abonnementen.pdf.</copyright>
-    <pubDate>Fri, 18 Sep 2026 19:57:51 GMT</pubDate>
-    <lastBuildDate>Fri, 18 Sep 2026 18:00:00 GMT</lastBuildDate>
+    <pubDate>Fri, 18 Sep 2026 22:25:14 GMT</pubDate>
+    <lastBuildDate>Fri, 18 Sep 2026 20:51:00 GMT</lastBuildDate>
     <webMaster>webmaster@fd.nl</webMaster>
     <ttl>10</ttl>
     <category>Laatste nieuws</category>
+    <item>
+      <title>Duitsland grijpt opnieuw in om benzineprijs te drukken</title>
+      <link>https://fd.nl/economie/1612694/duitsland-grijpt-opnieuw-in-om-benzineprijs-te-drukken</link>
+      <description>Regering-Merz en deelstaten steken €2,5 mrd om automobilisten en transporteurs tegemoet te komen.</description>
+      <pubDate>Fri, 18 Sep 2026 20:51:00 GMT</pubDate>
+      <guid>https://fd.nl/economie/1612694/duitsland-grijpt-opnieuw-in-om-benzineprijs-te-drukken</guid>
+    </item>
     <item>
       <title>Winstwaarschuwing VW na verlies marktaandeel in China</title>
       <link>https://fd.nl/bedrijfsleven/1612639/winstwaarschuwing-vw-na-verlies-marktaandeel-in-china</link>
@@ -165,21 +172,6 @@
       <enclosure url="https://images.fd.nl/877918-877999.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
       <pubDate>Fri, 18 Sep 2026 08:50:05 GMT</pubDate>
       <guid>https://fd.nl/bedrijfsleven/1612558/poetin-legt-beslag-op-russische-tak-nestle-en-auchan</guid>
-    </item>
-    <item>
-      <title>Als je naar Italië en Slovenië kijkt, heeft Europa nog altijd harde grenzen</title>
-      <link>https://fd.nl/politiek/1612397/als-je-naar-italie-en-slovenie-kijkt-heeft-europa-nog-altijd-harde-grenzen</link>
-      <description>Italië lijkt op papier rijker, maar laat al jaren de financiën uit de klauwen lopen; het bescheiden Slovenië past beter op de portemonnee, waarvan de bevolking profiteert.</description>
-      <enclosure url="https://images.fd.nl/875824-877412.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
-      <pubDate>Fri, 18 Sep 2026 08:00:00 GMT</pubDate>
-      <guid>https://fd.nl/politiek/1612397/als-je-naar-italie-en-slovenie-kijkt-heeft-europa-nog-altijd-harde-grenzen</guid>
-    </item>
-    <item>
-      <title>Hoe red je een woestijn­moordenaar van de dood?</title>
-      <link>https://fd.nl/samenleving/1611957/hoe-red-je-een-woestijnmoordenaar-van-de-dood</link>
-      <description>Advocaten hebben twaalf weken om de onschuld van een moordverdachte op death row te bewijzen. Wat doen ze? Truecrimepodcast The Last Twelve Weeks biedt een uniek inkijkje.</description>
-      <pubDate>Fri, 18 Sep 2026 08:00:00 GMT</pubDate>
-      <guid>https://fd.nl/samenleving/1611957/hoe-red-je-een-woestijnmoordenaar-van-de-dood</guid>
     </item>
   </channel>
 </rss>
