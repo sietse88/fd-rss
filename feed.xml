@@ -6,11 +6,19 @@
     <description>Gefilterd op: bedrijfsleven, economie, politiek, samenleving, tech-en-innovatie</description>
     <language>nl</language>
     <copyright>2026 Het Financieele Dagblad Amsterdam. This RSS feed is intended solely for personal, non-commercial use. All use of RSS feeds from Het Financieele Dagblad is subject to the General Terms and Conditions for Subscriptions, Services, and Registrations: https://fdmg.nl/wp-content/uploads/AV_Abonnementen.pdf.</copyright>
-    <pubDate>Sat, 19 Sep 2026 00:29:23 GMT</pubDate>
-    <lastBuildDate>Fri, 18 Sep 2026 22:30:01 GMT</lastBuildDate>
+    <pubDate>Sat, 19 Sep 2026 04:56:52 GMT</pubDate>
+    <lastBuildDate>Sat, 19 Sep 2026 03:00:00 GMT</lastBuildDate>
     <webMaster>webmaster@fd.nl</webMaster>
     <ttl>10</ttl>
     <category>Laatste nieuws</category>
+    <item>
+      <title>Wat is het geheim van onze tefloneconomie? En kan beter boekhouden afbrokkelende bruggen voorkomen?</title>
+      <link>https://fd.nl/economie/1612571/wat-is-het-geheim-van-onze-tefloneconomie-en-kan-beter-boekhouden-afbrokkelende-bruggen-voorkomen</link>
+      <description>Waarom blijft Nederland zo opvallend overeind terwijl de rest van Europa wankelt? En wat hebben afbrokkelende bruggen te maken met de manier waarop de overheid haar geld bijhoudt?</description>
+      <enclosure url="https://images.fd.nl/878321-878334.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
+      <pubDate>Sat, 19 Sep 2026 03:00:00 GMT</pubDate>
+      <guid>https://fd.nl/economie/1612571/wat-is-het-geheim-van-onze-tefloneconomie-en-kan-beter-boekhouden-afbrokkelende-bruggen-voorkomen</guid>
+    </item>
     <item>
       <title>Met managers kijken naar docu ‘De Manager’: ‘Het systeem moet op de schop? Hoezo?’</title>
       <link>https://fd.nl/samenleving/1612526/met-managers-kijken-naar-docu-de-manager-het-systeem-moet-op-de-schop-hoezo</link>
@@ -157,13 +165,5 @@
       <pubDate>Fri, 18 Sep 2026 11:22:20 GMT</pubDate>
       <guid>https://fd.nl/bedrijfsleven/1612593/bedrijven-spelen-traag-in-op-de-onrust-in-de-wereld</guid>
     </item>
-    <item>
-      <title>Energiebedrijven bereiden zich voor op fysieke aanvallen op hun infrastructuur</title>
-      <link>https://fd.nl/bedrijfsleven/1611813/energiebedrijven-zetten-zich-schrap-tegen-aanvallen-op-fysieke-infrastructuur</link>
-      <description>Nederlandse energiecentrales en hoogspannings­stations zijn nu nog een makkelijk doelwit. Bedrijven kijken naar inzet van dronenetten en bewapende beveiligers omdat het dreigingsniveau toeneemt.</description>
-      <enclosure url="https://images.fd.nl/873376-877655.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
-      <pubDate>Fri, 18 Sep 2026 10:00:00 GMT</pubDate>
-      <guid>https://fd.nl/bedrijfsleven/1611813/energiebedrijven-zetten-zich-schrap-tegen-aanvallen-op-fysieke-infrastructuur</guid>
-    </item>
-  </channel>
+    </channel>
 </rss>
