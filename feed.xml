@@ -6,11 +6,26 @@
     <description>Gefilterd op: bedrijfsleven, economie, politiek, samenleving, tech-en-innovatie</description>
     <language>nl</language>
     <copyright>2026 Het Financieele Dagblad Amsterdam. This RSS feed is intended solely for personal, non-commercial use. All use of RSS feeds from Het Financieele Dagblad is subject to the General Terms and Conditions for Subscriptions, Services, and Registrations: https://fdmg.nl/wp-content/uploads/AV_Abonnementen.pdf.</copyright>
-    <pubDate>Sat, 19 Sep 2026 13:12:37 GMT</pubDate>
-    <lastBuildDate>Sat, 19 Sep 2026 12:29:40 GMT</lastBuildDate>
+    <pubDate>Sat, 19 Sep 2026 16:31:27 GMT</pubDate>
+    <lastBuildDate>Sat, 19 Sep 2026 16:13:05 GMT</lastBuildDate>
     <webMaster>webmaster@fd.nl</webMaster>
     <ttl>10</ttl>
     <category>Laatste nieuws</category>
+    <item>
+      <title>Amerikaanse media: ‘VS overwegen minstens 25.000 troepen uit Europa terug te trekken’</title>
+      <link>https://fd.nl/politiek/1612697/amerikaanse-media-vs-overwegen-minstens-25-000-troepen-uit-europa-terug-te-trekken</link>
+      <description>Navo bevestigt dat Washington aan een ‘herschikking’ van zijn troepen in Europa werkt. Dit gebeurt wel in samenwerking met de bondgenoten, zodat die niet overrompeld worden in een tijd van Russische dreiging.</description>
+      <enclosure url="https://images.fd.nl/878470-878505.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
+      <pubDate>Sat, 19 Sep 2026 16:13:05 GMT</pubDate>
+      <guid>https://fd.nl/politiek/1612697/amerikaanse-media-vs-overwegen-minstens-25-000-troepen-uit-europa-terug-te-trekken</guid>
+    </item>
+    <item>
+      <title>Extreemrechtse mars verboden en demonstratie beëindigd in Den Haag</title>
+      <link>https://fd.nl/politiek/1612696/extreemrechtse-mars-verboden-en-demonstratie-beeindigd-in-den-haag</link>
+      <description>Minister van Justitie en Veiligheid David van Weel wil dat tegen de demonstranten ‘snoeihard’ wordt opgetreden. </description>
+      <pubDate>Sat, 19 Sep 2026 14:22:06 GMT</pubDate>
+      <guid>https://fd.nl/politiek/1612696/extreemrechtse-mars-verboden-en-demonstratie-beeindigd-in-den-haag</guid>
+    </item>
     <item>
       <title>Groep Nobelprijswinnende economen steunt vermogensbelasting Californië in open brief</title>
       <link>https://fd.nl/economie/1612664/groep-nobelprijswinnende-economen-steunen-vermogensbelasting-californie-in-open-brief</link>
@@ -163,14 +178,6 @@
       <enclosure url="https://images.fd.nl/875224-875228.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
       <pubDate>Fri, 18 Sep 2026 13:30:00 GMT</pubDate>
       <guid>https://fd.nl/samenleving/1612132/de-indonesische-klassieker-rendang-roer-en-relax</guid>
-    </item>
-    <item>
-      <title>Activistische acteur Mark Ruffalo heeft het aan de stok met studiobazen</title>
-      <link>https://fd.nl/tech-en-innovatie/1612364/activistische-acteur-mark-ruffalo-heeft-het-aan-de-stok-met-studiobazen</link>
-      <description>In tegenstelling tot veel Hollywood-collega’s mengt Mark Ruffalo zich regelmatig in politieke kwesties. Kritiek op de software die Oracle levert aan het Israëlische leger kwam hem duur te staan.</description>
-      <enclosure url="https://images.fd.nl/875828-877737.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
-      <pubDate>Fri, 18 Sep 2026 12:29:00 GMT</pubDate>
-      <guid>https://fd.nl/tech-en-innovatie/1612364/activistische-acteur-mark-ruffalo-heeft-het-aan-de-stok-met-studiobazen</guid>
     </item>
   </channel>
 </rss>
