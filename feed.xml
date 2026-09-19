@@ -6,11 +6,33 @@
     <description>Gefilterd op: bedrijfsleven, economie, politiek, samenleving, tech-en-innovatie</description>
     <language>nl</language>
     <copyright>2026 Het Financieele Dagblad Amsterdam. This RSS feed is intended solely for personal, non-commercial use. All use of RSS feeds from Het Financieele Dagblad is subject to the General Terms and Conditions for Subscriptions, Services, and Registrations: https://fdmg.nl/wp-content/uploads/AV_Abonnementen.pdf.</copyright>
-    <pubDate>Sat, 19 Sep 2026 04:56:52 GMT</pubDate>
-    <lastBuildDate>Sat, 19 Sep 2026 03:00:00 GMT</lastBuildDate>
+    <pubDate>Sat, 19 Sep 2026 09:15:35 GMT</pubDate>
+    <lastBuildDate>Sat, 19 Sep 2026 09:14:22 GMT</lastBuildDate>
     <webMaster>webmaster@fd.nl</webMaster>
     <ttl>10</ttl>
     <category>Laatste nieuws</category>
+    <item>
+      <title>Trump ondertekent sanctiewet tegen Rusland</title>
+      <link>https://fd.nl/politiek/1612663/trump-ondertekent-sanctiewet-tegen-rusland</link>
+      <description>Eerder deze week keurde het Congres de wet al goed. Zelensky hoopt op volledig gebruik van de wet, maar of Trump zijn bevoegdheden gaat inzetten is onzeker. </description>
+      <pubDate>Sat, 19 Sep 2026 09:14:22 GMT</pubDate>
+      <guid>https://fd.nl/politiek/1612663/trump-ondertekent-sanctiewet-tegen-rusland</guid>
+    </item>
+    <item>
+      <title>Ook AI-model van Google heeft bedrijven gehackt</title>
+      <link>https://fd.nl/bedrijfsleven/1612662/ook-ai-model-van-google-heeft-bedrijven-gehackt</link>
+      <description>Google bevestigt aan The Wall Street Journal dat ook zijn AI-model Gemini zonder toestemming drie bedrijven heeft gehackt. Eerder gebeurde dat door modellen van OpenAI, Anthropic en Meta.</description>
+      <pubDate>Sat, 19 Sep 2026 07:50:38 GMT</pubDate>
+      <guid>https://fd.nl/bedrijfsleven/1612662/ook-ai-model-van-google-heeft-bedrijven-gehackt</guid>
+    </item>
+    <item>
+      <title>VS en Denemarken zijn het eens over Groenland</title>
+      <link>https://fd.nl/politiek/1612695/vs-en-denemarken-zijn-het-eens-over-groenland</link>
+      <description>Volgens Trump krijgen de VS de controle over de veiligheid van Groenland. De Denen benadrukken de eigen soevereiniteit en het zelfbeschikkingsrecht van Groenland. </description>
+      <enclosure url="https://images.fd.nl/878427-878434.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
+      <pubDate>Sat, 19 Sep 2026 07:21:21 GMT</pubDate>
+      <guid>https://fd.nl/politiek/1612695/vs-en-denemarken-zijn-het-eens-over-groenland</guid>
+    </item>
     <item>
       <title>Wat is het geheim van onze tefloneconomie? En kan beter boekhouden afbrokkelende bruggen voorkomen?</title>
       <link>https://fd.nl/economie/1612571/wat-is-het-geheim-van-onze-tefloneconomie-en-kan-beter-boekhouden-afbrokkelende-bruggen-voorkomen</link>
@@ -151,19 +173,5 @@
       <pubDate>Fri, 18 Sep 2026 12:04:00 GMT</pubDate>
       <guid>https://fd.nl/bedrijfsleven/1612215/suiker-suiker-suiker-dat-is-het-geheim-van-mentos-snoep-uit-breda</guid>
     </item>
-    <item>
-      <title>FrieslandCampina krijgt controlerend belang in grootste Indonesische drankenfabrikant</title>
-      <link>https://fd.nl/bedrijfsleven/1612595/frieslandcampina-krijgt-controlerend-belang-in-grootste-indonesische-drankenfabrikant</link>
-      <description>Door de deal met Ultrajaya vergroot FrieslandCampina zijn aanwezigheid in het Aziatische land, zo stelt het bedrijf in een persbericht.</description>
-      <pubDate>Fri, 18 Sep 2026 11:48:27 GMT</pubDate>
-      <guid>https://fd.nl/bedrijfsleven/1612595/frieslandcampina-krijgt-controlerend-belang-in-grootste-indonesische-drankenfabrikant</guid>
-    </item>
-    <item>
-      <title>Bedrijven spelen traag in op de onrust in de wereld</title>
-      <link>https://fd.nl/bedrijfsleven/1612593/bedrijven-spelen-traag-in-op-de-onrust-in-de-wereld</link>
-      <description>De helft van ondervraagde Europese bedrijven bespreekt geopolitieke risico's slechts één keer per kwartaal, minder vaak of nooit.</description>
-      <pubDate>Fri, 18 Sep 2026 11:22:20 GMT</pubDate>
-      <guid>https://fd.nl/bedrijfsleven/1612593/bedrijven-spelen-traag-in-op-de-onrust-in-de-wereld</guid>
-    </item>
-    </channel>
+  </channel>
 </rss>
