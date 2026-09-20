@@ -6,15 +6,22 @@
     <description>Gefilterd op: bedrijfsleven, economie, politiek, samenleving, tech-en-innovatie</description>
     <language>nl</language>
     <copyright>2026 Het Financieele Dagblad Amsterdam. This RSS feed is intended solely for personal, non-commercial use. All use of RSS feeds from Het Financieele Dagblad is subject to the General Terms and Conditions for Subscriptions, Services, and Registrations: https://fdmg.nl/wp-content/uploads/AV_Abonnementen.pdf.</copyright>
-    <pubDate>Sun, 20 Sep 2026 18:15:54 GMT</pubDate>
-    <lastBuildDate>Sun, 20 Sep 2026 18:00:00 GMT</lastBuildDate>
+    <pubDate>Sun, 20 Sep 2026 20:58:40 GMT</pubDate>
+    <lastBuildDate>Sun, 20 Sep 2026 18:22:05 GMT</lastBuildDate>
     <webMaster>webmaster@fd.nl</webMaster>
     <ttl>10</ttl>
     <category>Laatste nieuws</category>
     <item>
+      <title>Meta start nieuwe juridische procedure tegen Britse mediatoezichthouder</title>
+      <link>https://fd.nl/bedrijfsleven/1612701/meta-start-nieuwe-juridische-procedure-tegen-britse-mediatoezichthouder</link>
+      <description>Het moederbedrijf van WhatsApp en Instagram tekent beroep aan tegen de extra verplichtingen waaraan de socialemediaplatforms moeten gaan voldoen.</description>
+      <pubDate>Sun, 20 Sep 2026 18:22:05 GMT</pubDate>
+      <guid>https://fd.nl/bedrijfsleven/1612701/meta-start-nieuwe-juridische-procedure-tegen-britse-mediatoezichthouder</guid>
+    </item>
+    <item>
       <title>Merz houdt na nieuw debacle vast aan hervormingskoers</title>
       <link>https://fd.nl/politiek/1612665/afd-wint-volgens-exitpolls-ook-in-mecklenburg-voor-pommeren</link>
-      <description>Bondskanselier spreekt van ‘ramp’ in Mecklenburg-Voor-Pommeren, maar wil na verlies bij verkiezingen niet van wijken weten. </description>
+      <description>Bondskanselier spreekt van een ‘ramp’ in Mecklenburg-Voor-Pommeren, maar wil na verlies bij verkiezingen niet van wijken weten. </description>
       <enclosure url="https://images.fd.nl/878544-878617.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
       <pubDate>Sun, 20 Sep 2026 16:16:10 GMT</pubDate>
       <guid>https://fd.nl/politiek/1612665/afd-wint-volgens-exitpolls-ook-in-mecklenburg-voor-pommeren</guid>
@@ -171,12 +178,5 @@
       <pubDate>Sat, 19 Sep 2026 09:14:22 GMT</pubDate>
       <guid>https://fd.nl/politiek/1612663/trump-ondertekent-sanctiewet-tegen-rusland</guid>
     </item>
-    <item>
-      <title>Ook AI-model van Google heeft bedrijven gehackt</title>
-      <link>https://fd.nl/bedrijfsleven/1612662/ook-ai-model-van-google-heeft-bedrijven-gehackt</link>
-      <description>Google bevestigt aan The Wall Street Journal dat ook zijn AI-model Gemini zonder toestemming drie bedrijven heeft gehackt. Eerder gebeurde dat door modellen van OpenAI, Anthropic en Meta.</description>
-      <pubDate>Sat, 19 Sep 2026 07:50:38 GMT</pubDate>
-      <guid>https://fd.nl/bedrijfsleven/1612662/ook-ai-model-van-google-heeft-bedrijven-gehackt</guid>
-    </item>
-  </channel>
+    </channel>
 </rss>
