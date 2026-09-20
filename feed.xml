@@ -6,11 +6,19 @@
     <description>Gefilterd op: bedrijfsleven, economie, politiek, samenleving, tech-en-innovatie</description>
     <language>nl</language>
     <copyright>2026 Het Financieele Dagblad Amsterdam. This RSS feed is intended solely for personal, non-commercial use. All use of RSS feeds from Het Financieele Dagblad is subject to the General Terms and Conditions for Subscriptions, Services, and Registrations: https://fdmg.nl/wp-content/uploads/AV_Abonnementen.pdf.</copyright>
-    <pubDate>Sun, 20 Sep 2026 20:58:40 GMT</pubDate>
-    <lastBuildDate>Sun, 20 Sep 2026 18:22:05 GMT</lastBuildDate>
+    <pubDate>Sun, 20 Sep 2026 23:08:22 GMT</pubDate>
+    <lastBuildDate>Sun, 20 Sep 2026 22:30:00 GMT</lastBuildDate>
     <webMaster>webmaster@fd.nl</webMaster>
     <ttl>10</ttl>
     <category>Laatste nieuws</category>
+    <item>
+      <title>Defensie koopt 3D-printers bij Chinese ‘kleine reus’, industrie slaat alarm</title>
+      <link>https://fd.nl/bedrijfsleven/1612428/defensie-koopt-3d-printers-bij-chinese-kleine-reus-industrie-slaat-alarm</link>
+      <description>Het ministerie laat 3D-metaalprinters maken bij een Chinees bedrijf dat de grootste defensieconcerns in het communistische land als klant heeft. De Nederlandse maakindustrie noemt de aanschaf ‘schokkend’.</description>
+      <enclosure url="https://images.fd.nl/877467-878149.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
+      <pubDate>Sun, 20 Sep 2026 22:30:00 GMT</pubDate>
+      <guid>https://fd.nl/bedrijfsleven/1612428/defensie-koopt-3d-printers-bij-chinese-kleine-reus-industrie-slaat-alarm</guid>
+    </item>
     <item>
       <title>Meta start nieuwe juridische procedure tegen Britse mediatoezichthouder</title>
       <link>https://fd.nl/bedrijfsleven/1612701/meta-start-nieuwe-juridische-procedure-tegen-britse-mediatoezichthouder</link>
@@ -149,34 +157,5 @@
       <pubDate>Sat, 19 Sep 2026 16:13:05 GMT</pubDate>
       <guid>https://fd.nl/politiek/1612697/amerikaanse-media-vs-overwegen-minstens-25-000-troepen-uit-europa-terug-te-trekken</guid>
     </item>
-    <item>
-      <title>Extreemrechtse mars verboden en demonstratie beëindigd in Den Haag</title>
-      <link>https://fd.nl/politiek/1612696/extreemrechtse-mars-verboden-en-demonstratie-beeindigd-in-den-haag</link>
-      <description>Minister van Justitie en Veiligheid David van Weel wil dat tegen de demonstranten ‘snoeihard’ wordt opgetreden. </description>
-      <pubDate>Sat, 19 Sep 2026 14:22:06 GMT</pubDate>
-      <guid>https://fd.nl/politiek/1612696/extreemrechtse-mars-verboden-en-demonstratie-beeindigd-in-den-haag</guid>
-    </item>
-    <item>
-      <title>Groep Nobelprijswinnende economen steunt vermogensbelasting Californië in open brief</title>
-      <link>https://fd.nl/economie/1612664/groep-nobelprijswinnende-economen-steunen-vermogensbelasting-californie-in-open-brief</link>
-      <description>Kiezers beslissen in november over een eenmalige heffing van 5% op miljardairs. Die zou de staat Californië $100 mrd opleveren.</description>
-      <pubDate>Sat, 19 Sep 2026 12:29:40 GMT</pubDate>
-      <guid>https://fd.nl/economie/1612664/groep-nobelprijswinnende-economen-steunen-vermogensbelasting-californie-in-open-brief</guid>
-    </item>
-    <item>
-      <title>Innovatie-aanvoerder Jelle Prins: ‘Bedenk hoe iets honderd keer groter kan zijn’</title>
-      <link>https://fd.nl/tech-en-innovatie/1612596/innovatie-aanvoerder-jelle-prins-bedenk-hoe-iets-honderd-keer-groter-kan-zijn</link>
-      <description>Het nieuwe Nederlandse agentschap Nadi voor grensverleggende innovaties heeft een budget van €500 mln. ‘Dit werk is voor veel mensen de absolute droom.’</description>
-      <enclosure url="https://images.fd.nl/877400-878258.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
-      <pubDate>Sat, 19 Sep 2026 10:46:00 GMT</pubDate>
-      <guid>https://fd.nl/tech-en-innovatie/1612596/innovatie-aanvoerder-jelle-prins-bedenk-hoe-iets-honderd-keer-groter-kan-zijn</guid>
-    </item>
-    <item>
-      <title>Trump tekent sanctiewet: heffingen tot 100% mogelijk voor kopers van Russische energie</title>
-      <link>https://fd.nl/politiek/1612663/trump-ondertekent-sanctiewet-tegen-rusland</link>
-      <description>Het Congres keurde de wet al goed. Zelensky hoopt op volledig gebruik van de wet, maar of Trump zijn bevoegdheden gaat inzetten is onzeker. </description>
-      <pubDate>Sat, 19 Sep 2026 09:14:22 GMT</pubDate>
-      <guid>https://fd.nl/politiek/1612663/trump-ondertekent-sanctiewet-tegen-rusland</guid>
-    </item>
-    </channel>
+  </channel>
 </rss>
