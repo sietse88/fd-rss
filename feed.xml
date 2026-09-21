@@ -6,13 +6,20 @@
     <description>Gefilterd op: bedrijfsleven, economie, politiek, samenleving, tech-en-innovatie</description>
     <language>nl</language>
     <copyright>2026 Het Financieele Dagblad Amsterdam. This RSS feed is intended solely for personal, non-commercial use. All use of RSS feeds from Het Financieele Dagblad is subject to the General Terms and Conditions for Subscriptions, Services, and Registrations: https://fdmg.nl/wp-content/uploads/AV_Abonnementen.pdf.</copyright>
-    <pubDate>Mon, 21 Sep 2026 18:41:25 GMT</pubDate>
-    <lastBuildDate>Mon, 21 Sep 2026 18:33:12 GMT</lastBuildDate>
+    <pubDate>Mon, 21 Sep 2026 22:15:28 GMT</pubDate>
+    <lastBuildDate>Mon, 21 Sep 2026 20:12:35 GMT</lastBuildDate>
     <webMaster>webmaster@fd.nl</webMaster>
     <ttl>10</ttl>
     <category>Laatste nieuws</category>
     <item>
-      <title>‘Grootste aandeelhouder Heijmans verkoopt gehele belang’</title>
+      <title>Weg vrij voor overname Warner Bros. na schikking met Amerikaanse staten</title>
+      <link>https://fd.nl/bedrijfsleven/1612757/weg-vrij-voor-overname-warner-bros-na-schikking-met-amerikaanse-staten</link>
+      <description>De fusie werd tegengehouden door twaalf Amerikaanse staten, die allemaal geleid worden door Democraten. </description>
+      <pubDate>Mon, 21 Sep 2026 18:51:28 GMT</pubDate>
+      <guid>https://fd.nl/bedrijfsleven/1612757/weg-vrij-voor-overname-warner-bros-na-schikking-met-amerikaanse-staten</guid>
+    </item>
+    <item>
+      <title>Grootste aandeelhouder Heijmans verkoopt gehele belang</title>
       <link>https://fd.nl/bedrijfsleven/1612821/grootste-aandeelhouder-heijmans-verkoopt-gehele-belang</link>
       <description>Volgens Bloomberg verkoopt de familie Van Wanrooij het gehele 8,4%-belang. Dat is tegen de huidige beurswaarde €205 mln waard.</description>
       <pubDate>Mon, 21 Sep 2026 18:33:12 GMT</pubDate>
@@ -171,22 +178,6 @@
       <description>Opnieuw zorgt een storing bij de Britse luchtverkeersleiding voor hinder. Verschillende vliegvelden melden vertragingen. </description>
       <pubDate>Mon, 21 Sep 2026 11:01:14 GMT</pubDate>
       <guid>https://fd.nl/economie/1612739/vertraging-britse-vliegvelden-door-nieuwe-storing</guid>
-    </item>
-    <item>
-      <title>Wat moet Europa zonder Macron?</title>
-      <link>https://fd.nl/politiek/1612731/wat-moet-europa-zonder-macron</link>
-      <description>Sterke, luide stemmen zijn er genoeg in Europa. Maar wie neemt het over als de Franse president Emmanuel Macron van het politieke toneel verdwijnt?</description>
-      <enclosure url="https://images.fd.nl/878654-878775.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
-      <pubDate>Mon, 21 Sep 2026 10:00:01 GMT</pubDate>
-      <guid>https://fd.nl/politiek/1612731/wat-moet-europa-zonder-macron</guid>
-    </item>
-    <item>
-      <title>Nieuwe regels voor ‘groene’ reclame zijn zorg voor ondernemers</title>
-      <link>https://fd.nl/bedrijfsleven/1612562/nieuwe-regels-voor-groene-reclame-zijn-zorg-voor-ondernemers</link>
-      <description>Een product duurzaam noemen, daarvoor gelden vanaf eind deze maand strenge eisen. Bedrijven passen verpakkingen en websiteteksten aan. ‘De claim klopt nu, maar tja: je wilt ook dat het lekker bekt.’</description>
-      <enclosure url="https://images.fd.nl/876788-878804.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
-      <pubDate>Mon, 21 Sep 2026 10:00:01 GMT</pubDate>
-      <guid>https://fd.nl/bedrijfsleven/1612562/nieuwe-regels-voor-groene-reclame-zijn-zorg-voor-ondernemers</guid>
     </item>
   </channel>
 </rss>
