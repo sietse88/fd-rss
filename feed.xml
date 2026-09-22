@@ -6,11 +6,27 @@
     <description>Gefilterd op: bedrijfsleven, economie, politiek, samenleving, tech-en-innovatie</description>
     <language>nl</language>
     <copyright>2026 Het Financieele Dagblad Amsterdam. This RSS feed is intended solely for personal, non-commercial use. All use of RSS feeds from Het Financieele Dagblad is subject to the General Terms and Conditions for Subscriptions, Services, and Registrations: https://fdmg.nl/wp-content/uploads/AV_Abonnementen.pdf.</copyright>
-    <pubDate>Mon, 21 Sep 2026 22:15:28 GMT</pubDate>
-    <lastBuildDate>Mon, 21 Sep 2026 20:12:35 GMT</lastBuildDate>
+    <pubDate>Tue, 22 Sep 2026 00:59:34 GMT</pubDate>
+    <lastBuildDate>Mon, 21 Sep 2026 22:30:00 GMT</lastBuildDate>
     <webMaster>webmaster@fd.nl</webMaster>
     <ttl>10</ttl>
     <category>Laatste nieuws</category>
+    <item>
+      <title>Europese datacenters krijgen energielabels, ondanks gebrekkige data</title>
+      <link>https://fd.nl/politiek/1612747/europese-datacenters-krijgen-energielabels-ondanks-gebrekkige-data</link>
+      <description>Brussel introduceert vanaf volgend jaar energielabels voor datacenters. Een gemiddelde Nederlandse versie daarvan zou laag scoren, vooral als het gaat om efficiënt watergebruik. </description>
+      <enclosure url="https://images.fd.nl/878944-879056.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
+      <pubDate>Mon, 21 Sep 2026 22:30:00 GMT</pubDate>
+      <guid>https://fd.nl/politiek/1612747/europese-datacenters-krijgen-energielabels-ondanks-gebrekkige-data</guid>
+    </item>
+    <item>
+      <title>Veronique Roos-Emonds, van een zwaarbevochten zes naar de top van PwC</title>
+      <link>https://fd.nl/bedrijfsleven/1610966/veronique-roos-emonds-van-een-zwaarbevochten-zes-naar-de-top-van-pwc</link>
+      <description>De nieuwe topvrouw van PwC neemt liever te veel dan te weinig hooi op haar vork. Veronique Roos-Emonds kreeg van huis uit mee dat hard werken belangrijk is, maar dat je de successen onderweg ook moet vieren. </description>
+      <enclosure url="https://images.fd.nl/864605-878961.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
+      <pubDate>Mon, 21 Sep 2026 22:30:00 GMT</pubDate>
+      <guid>https://fd.nl/bedrijfsleven/1610966/veronique-roos-emonds-van-een-zwaarbevochten-zes-naar-de-top-van-pwc</guid>
+    </item>
     <item>
       <title>Weg vrij voor overname Warner Bros. na schikking met Amerikaanse staten</title>
       <link>https://fd.nl/bedrijfsleven/1612757/weg-vrij-voor-overname-warner-bros-na-schikking-met-amerikaanse-staten</link>
@@ -155,29 +171,6 @@
       <description>De terugkerende verhoging is volgens het kabinet nodig om de begroting rond te krijgen. De Raad van State vindt dat geen geldige reden.</description>
       <pubDate>Mon, 21 Sep 2026 12:07:06 GMT</pubDate>
       <guid>https://fd.nl/politiek/1612804/raad-van-state-adviseert-kabinet-heroverweeg-verhoging-verkeersboetes</guid>
-    </item>
-    <item>
-      <title>Klimaatexperts kritisch over Nederlands plan om olie en gas af te bouwen</title>
-      <link>https://fd.nl/politiek/1612740/klimaatexperts-kritisch-op-nederlands-plan-om-olie-en-gas-af-te-bouwen</link>
-      <description>Nederland ‘streeft’ naar ‘minimalisatie’ van fossiele brandstoffen in 2050, maar een harde einddatum ontbreekt in de jongste kabinetsplannen.</description>
-      <enclosure url="https://images.fd.nl/878922-879005.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
-      <pubDate>Mon, 21 Sep 2026 11:50:24 GMT</pubDate>
-      <guid>https://fd.nl/politiek/1612740/klimaatexperts-kritisch-op-nederlands-plan-om-olie-en-gas-af-te-bouwen</guid>
-    </item>
-    <item>
-      <title>Société Générale wil komende jaren €21 mrd uitkeren aan aandeelhouders</title>
-      <link>https://fd.nl/bedrijfsleven/1612801/societe-generale-wil-komende-jaren-21-mrd-uitkeren-aan-aandeelhouders</link>
-      <description>Mede door de inzet van kunstmatige intelligentie kunnen de kosten bij de Franse grootbank verder omlaag. Daardoor kunnen de uitkeringen aan aandeelhouders omhoog.</description>
-      <enclosure url="https://images.fd.nl/878715-878972.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
-      <pubDate>Mon, 21 Sep 2026 11:20:38 GMT</pubDate>
-      <guid>https://fd.nl/bedrijfsleven/1612801/societe-generale-wil-komende-jaren-21-mrd-uitkeren-aan-aandeelhouders</guid>
-    </item>
-    <item>
-      <title>Vertraging Britse vliegvelden door nieuwe storing</title>
-      <link>https://fd.nl/economie/1612739/vertraging-britse-vliegvelden-door-nieuwe-storing</link>
-      <description>Opnieuw zorgt een storing bij de Britse luchtverkeersleiding voor hinder. Verschillende vliegvelden melden vertragingen. </description>
-      <pubDate>Mon, 21 Sep 2026 11:01:14 GMT</pubDate>
-      <guid>https://fd.nl/economie/1612739/vertraging-britse-vliegvelden-door-nieuwe-storing</guid>
     </item>
   </channel>
 </rss>
