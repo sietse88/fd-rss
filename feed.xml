@@ -6,11 +6,27 @@
     <description>Gefilterd op: bedrijfsleven, economie, politiek, samenleving, tech-en-innovatie</description>
     <language>nl</language>
     <copyright>2026 Het Financieele Dagblad Amsterdam. This RSS feed is intended solely for personal, non-commercial use. All use of RSS feeds from Het Financieele Dagblad is subject to the General Terms and Conditions for Subscriptions, Services, and Registrations: https://fdmg.nl/wp-content/uploads/AV_Abonnementen.pdf.</copyright>
-    <pubDate>Thu, 24 Sep 2026 00:42:12 GMT</pubDate>
-    <lastBuildDate>Wed, 23 Sep 2026 22:30:00 GMT</lastBuildDate>
+    <pubDate>Thu, 24 Sep 2026 05:28:42 GMT</pubDate>
+    <lastBuildDate>Thu, 24 Sep 2026 05:05:02 GMT</lastBuildDate>
     <webMaster>webmaster@fd.nl</webMaster>
     <ttl>10</ttl>
     <category>Laatste nieuws</category>
+    <item>
+      <title>Op blote voeten naar het basiskamp van de Mount Everest: ‘Ik zag het als een nieuwe missie’</title>
+      <link>https://fd.nl/samenleving/1612948/op-blote-voeten-naar-het-basiskamp-van-de-mount-everest-ik-zag-het-als-een-nieuwe-missie</link>
+      <description>Anton Nootenboom, oftewel The Barefoot Dutchman, behaalde als eerste ooit het basiskamp van de Mount Everest op blote voeten. ‘Ik had mezelf tot de rand gebracht.’</description>
+      <enclosure url="https://images.fd.nl/880409-880414.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
+      <pubDate>Thu, 24 Sep 2026 04:00:00 GMT</pubDate>
+      <guid>https://fd.nl/samenleving/1612948/op-blote-voeten-naar-het-basiskamp-van-de-mount-everest-ik-zag-het-als-een-nieuwe-missie</guid>
+    </item>
+    <item>
+      <title>The Vegetarian Butcher Collective wil ‘voedselrevolutie’ ontketenen binnen ’s werelds grootste vleesbedrijf</title>
+      <link>https://fd.nl/bedrijfsleven/1612283/the-vegetarian-butcher-collective-wil-voedselrevolutie-ontketenen-binnen-s-werelds-grootste-vleesbedrijf</link>
+      <description>Na jaren van dalende verkopen trekt de markt voor vegetarisch vlees weer aan. ‘Nederlanders eten te veel eiwitten en te weinig vezels’, zegt de ceo van het nieuwe bedrijf The Vegetarian Butcher Collective. </description>
+      <enclosure url="https://images.fd.nl/875032-878744.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
+      <pubDate>Thu, 24 Sep 2026 04:00:00 GMT</pubDate>
+      <guid>https://fd.nl/bedrijfsleven/1612283/the-vegetarian-butcher-collective-wil-voedselrevolutie-ontketenen-binnen-s-werelds-grootste-vleesbedrijf</guid>
+    </item>
     <item>
       <title>Vesteda wil, opnieuw,  obligatievoorwaarden aanpassen om massale uitstroom te voorkomen</title>
       <link>https://fd.nl/bedrijfsleven/1613009/vesteda-wil-opnieuw-obligatievoorwaarden-aanpassen-om-massale-uitstroom-te-voorkomen</link>
@@ -124,12 +140,5 @@
       <pubDate>Wed, 23 Sep 2026 12:10:07 GMT</pubDate>
       <guid>https://fd.nl/economie/1612956/positieve-inkoopmanagers-in-eurozone-wijzen-op-verdere-groei-van-economie</guid>
     </item>
-    <item>
-      <title>‘Washington steunt bod van investeerder Boehly op wereldwijde activa Lukoil’</title>
-      <link>https://fd.nl/bedrijfsleven/1612955/washington-steunt-bod-van-investeerder-boehly-op-wereldwijde-activa-lukoil</link>
-      <description>Boehly, eigenaar van investeringsmaatschappij Eldridge, heeft steun verworven van de Amerikaanse regering en invloedrijke partijen uit de Golfstaten. </description>
-      <pubDate>Wed, 23 Sep 2026 12:08:56 GMT</pubDate>
-      <guid>https://fd.nl/bedrijfsleven/1612955/washington-steunt-bod-van-investeerder-boehly-op-wereldwijde-activa-lukoil</guid>
-    </item>
-    </channel>
+  </channel>
 </rss>
