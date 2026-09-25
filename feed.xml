@@ -6,11 +6,41 @@
     <description>Gefilterd op: bedrijfsleven, economie, politiek, samenleving, tech-en-innovatie</description>
     <language>nl</language>
     <copyright>2026 Het Financieele Dagblad Amsterdam. This RSS feed is intended solely for personal, non-commercial use. All use of RSS feeds from Het Financieele Dagblad is subject to the General Terms and Conditions for Subscriptions, Services, and Registrations: https://fdmg.nl/wp-content/uploads/AV_Abonnementen.pdf.</copyright>
-    <pubDate>Fri, 25 Sep 2026 15:48:58 GMT</pubDate>
-    <lastBuildDate>Fri, 25 Sep 2026 15:32:06 GMT</lastBuildDate>
+    <pubDate>Fri, 25 Sep 2026 19:49:03 GMT</pubDate>
+    <lastBuildDate>Fri, 25 Sep 2026 18:51:29 GMT</lastBuildDate>
     <webMaster>webmaster@fd.nl</webMaster>
     <ttl>10</ttl>
     <category>Laatste nieuws</category>
+    <item>
+      <title>Regering-Trump koopt wapens voor Oekraïne</title>
+      <link>https://fd.nl/politiek/1613321/regering-trump-koopt-wapens-voor-oekraine</link>
+      <description>Het geld was al eerder door het Congres vrijgemaakt, maar het Pentagon liet het lang op de plank liggen. </description>
+      <pubDate>Fri, 25 Sep 2026 18:51:29 GMT</pubDate>
+      <guid>https://fd.nl/politiek/1613321/regering-trump-koopt-wapens-voor-oekraine</guid>
+    </item>
+    <item>
+      <title>Minder uitgeven, meer investeren</title>
+      <link>https://fd.nl/economie/1613135/minder-uitgeven-meer-investeren</link>
+      <description>Welk boekhoudstelsel de overheid ook kiest: er is politieke moed voor nodig om geld te spenderen aan zaken waarvan de vruchten pas over jaren worden geplukt.</description>
+      <pubDate>Fri, 25 Sep 2026 18:00:00 GMT</pubDate>
+      <guid>https://fd.nl/economie/1613135/minder-uitgeven-meer-investeren</guid>
+    </item>
+    <item>
+      <title>Het gaat weer écht over belastingen in Den Haag</title>
+      <link>https://fd.nl/politiek/1613284/het-gaat-weer-echt-over-belastingen-in-den-haag</link>
+      <description>Deze week konden Tweede Kamer en politiek even ademhalen, in aanloop naar de volgende grote test van het kabinet-Jetten. Haalt het belastingplan de finishlijn?</description>
+      <enclosure url="https://images.fd.nl/881777-882281.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
+      <pubDate>Fri, 25 Sep 2026 17:08:52 GMT</pubDate>
+      <guid>https://fd.nl/politiek/1613284/het-gaat-weer-echt-over-belastingen-in-den-haag</guid>
+    </item>
+    <item>
+      <title>In zijn kruistocht tegen kritische media ondergraaft Donald Trump zijn zichtbaarheid</title>
+      <link>https://fd.nl/politiek/1613158/in-zijn-kruistocht-tegen-kritische-media-ondergraaft-donald-trump-zijn-zichtbaarheid</link>
+      <description>Een week geleden weerde de Amerikaanse president CNN, MS NOW en Politico uit het Witte Huis. Een rechter stak er een stokje voor, maar de strijd tussen Trump en de pers lijkt nog lang niet voorbij.</description>
+      <enclosure url="https://images.fd.nl/882191-882354.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
+      <pubDate>Fri, 25 Sep 2026 16:59:05 GMT</pubDate>
+      <guid>https://fd.nl/politiek/1613158/in-zijn-kruistocht-tegen-kritische-media-ondergraaft-donald-trump-zijn-zichtbaarheid</guid>
+    </item>
     <item>
       <title>Energieleveranciers krijgen toch langer de tijd rond strenge methaanregels</title>
       <link>https://fd.nl/politiek/1613155/energieleveranciers-krijgen-toch-langer-de-tijd-rond-strenge-methaanregels</link>
@@ -27,9 +57,9 @@
       <guid>https://fd.nl/bedrijfsleven/1613318/basf-doet-overnamebod-op-duits-chemiebedrijf-evonik</guid>
     </item>
     <item>
-      <title>Coalitie onderling eens over box 3, nu nog akkoord met oppositie</title>
+      <title>Coalitie onderling eens over pakket box 3, nu nog akkoord met oppositie</title>
       <link>https://fd.nl/politiek/1613153/coalitie-onderling-eens-over-box-3-nu-nog-akkoord-met-oppositie</link>
-      <description>Na ruim een maand steggelen zijn D66, VVD en CDA het eens over de vraag hoe de vermogensbelasting in box 3 snel kan worden aangepast. Steun vinden bij de oppositie is de volgende stap.</description>
+      <description>Na ruim een maand steggelen zijn D66, VVD en CDA het eens over de vraag hoe box 3 betrokken moet worden bij de begrotingsonderhandelingen. Steun vinden bij de oppositie is de volgende stap.</description>
       <enclosure url="https://images.fd.nl/882277-882329.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
       <pubDate>Fri, 25 Sep 2026 15:11:42 GMT</pubDate>
       <guid>https://fd.nl/politiek/1613153/coalitie-onderling-eens-over-box-3-nu-nog-akkoord-met-oppositie</guid>
@@ -74,7 +104,7 @@
       <title>Investeringsbank krijgt miljarden om economische motor aan te jagen</title>
       <link>https://fd.nl/economie/1613145/investeringsbank-krijgt-miljarden-om-economische-motor-aan-te-jagen</link>
       <description>Het kabinet wil voorkomen dat veelbelovende bedrijven hun heil in de VS zoeken en trekt daar €3,3 mrd voor uit. Banken, verzekeraars en vermogensbeheerders investeren mee.</description>
-      <enclosure url="https://images.fd.nl/881840-882087.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
+      <enclosure url="https://images.fd.nl/881840-882350.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
       <pubDate>Fri, 25 Sep 2026 13:59:29 GMT</pubDate>
       <guid>https://fd.nl/economie/1613145/investeringsbank-krijgt-miljarden-om-economische-motor-aan-te-jagen</guid>
     </item>
@@ -145,37 +175,6 @@
       <description>Voor de derde keer in een kwartaal doet het ingenieursbureau een acquisitie van een specialistische branchegenoot.</description>
       <pubDate>Fri, 25 Sep 2026 10:25:00 GMT</pubDate>
       <guid>https://fd.nl/bedrijfsleven/1613137/ingenieurskantoor-movares-koopt-in-de-bouw-gespecialiseerde-nieman-groep</guid>
-    </item>
-    <item>
-      <title>Start-ups vrezen dat Europese bedrijfsvorm EU Inc vastloopt in Brusselse compromissen</title>
-      <link>https://fd.nl/politiek/1613098/start-ups-vrezen-dat-de-europese-bedrijfsvorm-eu-inc-vastloopt-in-brusselse-compromissen</link>
-      <description>Het zou dé manier zijn om innovatieve start-ups in Europa te houden. Maar diezelfde start-ups zijn bang dat het voorstel voor één Europese bedrijfsvorm wordt ontdaan van de belangrijkste voordelen.</description>
-      <enclosure url="https://images.fd.nl/879668-881922.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
-      <pubDate>Fri, 25 Sep 2026 10:09:30 GMT</pubDate>
-      <guid>https://fd.nl/politiek/1613098/start-ups-vrezen-dat-de-europese-bedrijfsvorm-eu-inc-vastloopt-in-brusselse-compromissen</guid>
-    </item>
-    <item>
-      <title>Roadtrip door de Amerikaanse democratie in de voetsporen van Tocqueville</title>
-      <link>https://fd.nl/samenleving/1612864/roadtrip-door-de-amerikaanse-democratie-in-de-voetsporen-van-tocqueville</link>
-      <description>Tweehonderd jaar geleden schreef de Franse aristocraat Tocqueville misschien wel het beste boek ooit over Amerika. Een journalist van The Economist reisde hem achterna.</description>
-      <pubDate>Fri, 25 Sep 2026 09:49:41 GMT</pubDate>
-      <guid>https://fd.nl/samenleving/1612864/roadtrip-door-de-amerikaanse-democratie-in-de-voetsporen-van-tocqueville</guid>
-    </item>
-    <item>
-      <title>Met man en vacht: het welig tierende borsthaar is terug</title>
-      <link>https://fd.nl/samenleving/1612813/met-man-en-vacht-het-weelderig-tierende-borsthaar-is-terug</link>
-      <description>Een borst vol onbekommerd groeiend haar: lang geleden dat dat in de mode was. Glad en glimmend, was het devies, dus scheren en harsen. Hoe borsthaar weer salonfähig werd.</description>
-      <enclosure url="https://images.fd.nl/879172-879176.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
-      <pubDate>Fri, 25 Sep 2026 09:30:00 GMT</pubDate>
-      <guid>https://fd.nl/samenleving/1612813/met-man-en-vacht-het-weelderig-tierende-borsthaar-is-terug</guid>
-    </item>
-    <item>
-      <title>Tanken is historisch duur. Waar blijft de Europese e‑wagen voor het volk?</title>
-      <link>https://fd.nl/politiek/1613094/tanken-is-historisch-duur-waar-blijft-de-europese-ewagen-voor-het-volk</link>
-      <description>Elektrisch rijden is nog vooral voorbehouden aan welgestelde Europeanen. Landen zouden gezamenlijk kunnen optrekken voor een nieuwe ‘e-Kever’: elektrisch, in Europa gemaakt en betaalbaar.</description>
-      <enclosure url="https://images.fd.nl/880460-881873.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
-      <pubDate>Fri, 25 Sep 2026 09:24:13 GMT</pubDate>
-      <guid>https://fd.nl/politiek/1613094/tanken-is-historisch-duur-waar-blijft-de-europese-ewagen-voor-het-volk</guid>
     </item>
     </channel>
 </rss>
