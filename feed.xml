@@ -6,11 +6,26 @@
     <description>Gefilterd op: bedrijfsleven, economie, politiek, samenleving, tech-en-innovatie</description>
     <language>nl</language>
     <copyright>2026 Het Financieele Dagblad Amsterdam. This RSS feed is intended solely for personal, non-commercial use. All use of RSS feeds from Het Financieele Dagblad is subject to the General Terms and Conditions for Subscriptions, Services, and Registrations: https://fdmg.nl/wp-content/uploads/AV_Abonnementen.pdf.</copyright>
-    <pubDate>Sat, 26 Sep 2026 11:47:47 GMT</pubDate>
-    <lastBuildDate>Sat, 26 Sep 2026 10:02:00 GMT</lastBuildDate>
+    <pubDate>Sat, 26 Sep 2026 15:45:53 GMT</pubDate>
+    <lastBuildDate>Sat, 26 Sep 2026 14:59:31 GMT</lastBuildDate>
     <webMaster>webmaster@fd.nl</webMaster>
     <ttl>10</ttl>
     <category>Laatste nieuws</category>
+    <item>
+      <title>‘Trump verwacht meer bombardementen na de tussentijdse verkiezingen’</title>
+      <link>https://fd.nl/politiek/1613327/trump-verwacht-meer-bombardementen-na-de-tussentijdse-verkiezingen</link>
+      <description>De Amerikaanse president Donald Trump heeft een voorstel van Iran voor een staakt-het-vuren van zeven dagen afgewezen, schrijft de Wall Street Journal op basis van ingewijden.</description>
+      <pubDate>Sat, 26 Sep 2026 14:59:31 GMT</pubDate>
+      <guid>https://fd.nl/politiek/1613327/trump-verwacht-meer-bombardementen-na-de-tussentijdse-verkiezingen</guid>
+    </item>
+    <item>
+      <title>Oppositiepartijen voor het eerst optimistisch na gesprek met kabinet</title>
+      <link>https://fd.nl/politiek/1613388/oppositiepartijen-voor-het-eerst-optimistisch-na-gesprek-met-kabinet</link>
+      <description>Zowel Pro als ChristenUnie laat voor het eerst positieve geluiden horen over de beweging die het minderheidskabinet maakt.</description>
+      <enclosure url="https://images.fd.nl/882417-882434.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
+      <pubDate>Sat, 26 Sep 2026 13:45:19 GMT</pubDate>
+      <guid>https://fd.nl/politiek/1613388/oppositiepartijen-voor-het-eerst-optimistisch-na-gesprek-met-kabinet</guid>
+    </item>
     <item>
       <title>OpenAI-agents publiceren op eigen initiatief afbeeldingen van gebruikers</title>
       <link>https://fd.nl/samenleving/1613324/chatgpt-agents-publiceren-op-eigen-initiatief-afbeeldingen-van-gebruikers</link>
@@ -160,21 +175,6 @@
       <enclosure url="https://images.fd.nl/881349-881444.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
       <pubDate>Fri, 25 Sep 2026 14:28:14 GMT</pubDate>
       <guid>https://fd.nl/politiek/1613088/lousewies-van-der-laan-als-je-kritiek-hebt-op-een-organisatie-zegt-die-niet-spontaan-wat-fijn-dat-je-me-dit-vertelt</guid>
-    </item>
-    <item>
-      <title>Van oorlogen tot de kredietcrisis: obligaties zijn spannender dan je denkt</title>
-      <link>https://fd.nl/samenleving/1612981/van-oorlogen-tot-de-kredietcrisis-obligaties-zijn-spannender-dan-je-denkt</link>
-      <description>Staatsobligaties saai? Niet volgens Robin Wigglesworth, die een uiterst leerzame en vlotte geschiedenis van obligaties schreef, die de lezer langs Utrecht en Venetië voert.</description>
-      <pubDate>Fri, 25 Sep 2026 14:00:00 GMT</pubDate>
-      <guid>https://fd.nl/samenleving/1612981/van-oorlogen-tot-de-kredietcrisis-obligaties-zijn-spannender-dan-je-denkt</guid>
-    </item>
-    <item>
-      <title>Investeringsbank krijgt miljarden om economische motor aan te jagen</title>
-      <link>https://fd.nl/economie/1613145/investeringsbank-krijgt-miljarden-om-economische-motor-aan-te-jagen</link>
-      <description>Het kabinet wil voorkomen dat veelbelovende bedrijven hun heil in de VS zoeken en trekt daar €3,3 mrd voor uit. Banken, verzekeraars en vermogensbeheerders investeren mee.</description>
-      <enclosure url="https://images.fd.nl/881840-882350.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
-      <pubDate>Fri, 25 Sep 2026 13:59:29 GMT</pubDate>
-      <guid>https://fd.nl/economie/1613145/investeringsbank-krijgt-miljarden-om-economische-motor-aan-te-jagen</guid>
     </item>
   </channel>
 </rss>
