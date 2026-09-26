@@ -6,11 +6,19 @@
     <description>Gefilterd op: bedrijfsleven, economie, politiek, samenleving, tech-en-innovatie</description>
     <language>nl</language>
     <copyright>2026 Het Financieele Dagblad Amsterdam. This RSS feed is intended solely for personal, non-commercial use. All use of RSS feeds from Het Financieele Dagblad is subject to the General Terms and Conditions for Subscriptions, Services, and Registrations: https://fdmg.nl/wp-content/uploads/AV_Abonnementen.pdf.</copyright>
-    <pubDate>Sat, 26 Sep 2026 01:32:51 GMT</pubDate>
-    <lastBuildDate>Fri, 25 Sep 2026 22:30:01 GMT</lastBuildDate>
+    <pubDate>Sat, 26 Sep 2026 06:37:12 GMT</pubDate>
+    <lastBuildDate>Sat, 26 Sep 2026 05:00:00 GMT</lastBuildDate>
     <webMaster>webmaster@fd.nl</webMaster>
     <ttl>10</ttl>
     <category>Laatste nieuws</category>
+    <item>
+      <title>Duwt AI de rente omhoog of omlaag? En ligt de bankenunie nog op apegapen?</title>
+      <link>https://fd.nl/economie/1613317/duwt-ai-de-rente-omhoog-of-omlaag-en-ligt-de-bankenunie-nog-op-apegapen</link>
+      <description>Wat betekent de AI-boom voor de rente op de lange termijn? En waarom vinden banken de Europese regels te streng, terwijl toezichthouders ‘never forget 2008’ roepen?</description>
+      <enclosure url="https://images.fd.nl/882308-882311.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
+      <pubDate>Sat, 26 Sep 2026 03:00:01 GMT</pubDate>
+      <guid>https://fd.nl/economie/1613317/duwt-ai-de-rente-omhoog-of-omlaag-en-ligt-de-bankenunie-nog-op-apegapen</guid>
+    </item>
     <item>
       <title>Dirk Van Saene: ‘Inmiddels voel ik me wel een beetje een kunstenaar’</title>
       <link>https://fd.nl/samenleving/1613283/dirk-van-saene-inmiddels-voel-ik-me-wel-een-beetje-een-kunstenaar</link>
@@ -176,5 +184,5 @@
       <pubDate>Fri, 25 Sep 2026 13:30:00 GMT</pubDate>
       <guid>https://fd.nl/samenleving/1613077/de-preppy-uitdossing-maar-dan-van-nu-en-een-tafeltje-dat-je-literaire-smaak-laat-zien</guid>
     </item>
-    </channel>
+  </channel>
 </rss>
