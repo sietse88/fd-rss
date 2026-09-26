@@ -6,11 +6,25 @@
     <description>Gefilterd op: bedrijfsleven, economie, politiek, samenleving, tech-en-innovatie</description>
     <language>nl</language>
     <copyright>2026 Het Financieele Dagblad Amsterdam. This RSS feed is intended solely for personal, non-commercial use. All use of RSS feeds from Het Financieele Dagblad is subject to the General Terms and Conditions for Subscriptions, Services, and Registrations: https://fdmg.nl/wp-content/uploads/AV_Abonnementen.pdf.</copyright>
-    <pubDate>Sat, 26 Sep 2026 06:37:12 GMT</pubDate>
-    <lastBuildDate>Sat, 26 Sep 2026 05:00:00 GMT</lastBuildDate>
+    <pubDate>Sat, 26 Sep 2026 11:47:47 GMT</pubDate>
+    <lastBuildDate>Sat, 26 Sep 2026 10:02:00 GMT</lastBuildDate>
     <webMaster>webmaster@fd.nl</webMaster>
     <ttl>10</ttl>
     <category>Laatste nieuws</category>
+    <item>
+      <title>OpenAI-agents publiceren op eigen initiatief afbeeldingen van gebruikers</title>
+      <link>https://fd.nl/samenleving/1613324/chatgpt-agents-publiceren-op-eigen-initiatief-afbeeldingen-van-gebruikers</link>
+      <description>Twee incidenten, het publiceren van afbeeldingen van gebruikers en het hacken van overheidsinstanties, vergroten de zorgen over de risico’s van kunstmatige intelligentie.   </description>
+      <pubDate>Sat, 26 Sep 2026 10:02:00 GMT</pubDate>
+      <guid>https://fd.nl/samenleving/1613324/chatgpt-agents-publiceren-op-eigen-initiatief-afbeeldingen-van-gebruikers</guid>
+    </item>
+    <item>
+      <title>‘Houthi’s gaan geen West-Europese schepen aanvallen’</title>
+      <link>https://fd.nl/politiek/1613325/houthis-gaan-geen-west-europese-schepen-aanvallen</link>
+      <description>De Houthi's in Jemen hebben de EU schriftelijk laten weten dat ze geen Europese schepen in de Rode Zee zullen aanvallen, schrijft de Financial Times op basis van ingewijden. </description>
+      <pubDate>Sat, 26 Sep 2026 09:03:38 GMT</pubDate>
+      <guid>https://fd.nl/politiek/1613325/houthis-gaan-geen-west-europese-schepen-aanvallen</guid>
+    </item>
     <item>
       <title>Duwt AI de rente omhoog of omlaag? En ligt de bankenunie nog op apegapen?</title>
       <link>https://fd.nl/economie/1613317/duwt-ai-de-rente-omhoog-of-omlaag-en-ligt-de-bankenunie-nog-op-apegapen</link>
@@ -161,28 +175,6 @@
       <enclosure url="https://images.fd.nl/881840-882350.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
       <pubDate>Fri, 25 Sep 2026 13:59:29 GMT</pubDate>
       <guid>https://fd.nl/economie/1613145/investeringsbank-krijgt-miljarden-om-economische-motor-aan-te-jagen</guid>
-    </item>
-    <item>
-      <title>Grand Theft Auto is uitgegroeid tot een miljardenspel</title>
-      <link>https://fd.nl/samenleving/1612515/grand-theft-auto-is-uitgegroeid-tot-een-miljardenspel</link>
-      <description>Het videospel GTA 6 vestigt nieuwe records in de game-industrie en overschaduwt daarmee de filmsector.</description>
-      <pubDate>Fri, 25 Sep 2026 13:55:00 GMT</pubDate>
-      <guid>https://fd.nl/samenleving/1612515/grand-theft-auto-is-uitgegroeid-tot-een-miljardenspel</guid>
-    </item>
-    <item>
-      <title>Hackers breken in bij flitsbezorger Flink en persen klanten af</title>
-      <link>https://fd.nl/bedrijfsleven/1613296/hackers-breken-in-bij-flitsbezorger-flink-en-persen-klanten-af</link>
-      <description>De hackers kregen toegang tot verschillende klantgegevens en benaderen de klanten van Flink nu per mail om ze te vragen om een betaling.  </description>
-      <pubDate>Fri, 25 Sep 2026 13:30:05 GMT</pubDate>
-      <guid>https://fd.nl/bedrijfsleven/1613296/hackers-breken-in-bij-flitsbezorger-flink-en-persen-klanten-af</guid>
-    </item>
-    <item>
-      <title>De preppy uitdossing, maar dan van nu, en een tafeltje dat je literaire smaak laat zien</title>
-      <link>https://fd.nl/samenleving/1613077/de-preppy-uitdossing-maar-dan-van-nu-en-een-tafeltje-dat-je-literaire-smaak-laat-zien</link>
-      <description>Inspiratie voor een fijn weekend door de redactie van FD Persoonlijk.</description>
-      <enclosure url="https://images.fd.nl/881022-881570.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
-      <pubDate>Fri, 25 Sep 2026 13:30:00 GMT</pubDate>
-      <guid>https://fd.nl/samenleving/1613077/de-preppy-uitdossing-maar-dan-van-nu-en-een-tafeltje-dat-je-literaire-smaak-laat-zien</guid>
     </item>
   </channel>
 </rss>
