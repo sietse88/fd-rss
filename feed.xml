@@ -6,11 +6,19 @@
     <description>Gefilterd op: bedrijfsleven, economie, politiek, samenleving, tech-en-innovatie</description>
     <language>nl</language>
     <copyright>2026 Het Financieele Dagblad Amsterdam. This RSS feed is intended solely for personal, non-commercial use. All use of RSS feeds from Het Financieele Dagblad is subject to the General Terms and Conditions for Subscriptions, Services, and Registrations: https://fdmg.nl/wp-content/uploads/AV_Abonnementen.pdf.</copyright>
-    <pubDate>Sun, 27 Sep 2026 19:08:44 GMT</pubDate>
-    <lastBuildDate>Sun, 27 Sep 2026 18:00:00 GMT</lastBuildDate>
+    <pubDate>Sun, 27 Sep 2026 22:09:43 GMT</pubDate>
+    <lastBuildDate>Sun, 27 Sep 2026 22:01:00 GMT</lastBuildDate>
     <webMaster>webmaster@fd.nl</webMaster>
     <ttl>10</ttl>
     <category>Laatste nieuws</category>
+    <item>
+      <title>Denktanks: ‘Waarom kan China olie wel afrekenen in de eigen munt en wij niet in euro’s?’</title>
+      <link>https://fd.nl/economie/1613297/denktanks-waarom-kan-china-olie-wel-afrekenen-in-de-eigen-munt-en-wij-niet-in-euros</link>
+      <description>De euro kan ook zonder meer gemeenschappelijke schuld een veel grotere rol spelen op het wereldtoneel, stelt een netwerk van Europese denktanks. Begin met een groter gebruik van de euro in internationale handel.</description>
+      <enclosure url="https://images.fd.nl/882094-882194.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
+      <pubDate>Sun, 27 Sep 2026 22:01:00 GMT</pubDate>
+      <guid>https://fd.nl/economie/1613297/denktanks-waarom-kan-china-olie-wel-afrekenen-in-de-eigen-munt-en-wij-niet-in-euros</guid>
+    </item>
     <item>
       <title>Vijf arrestaties bij Britse luchtmachtbasis voor terrorismeplan</title>
       <link>https://fd.nl/samenleving/1613332/vijf-arrestaties-bij-britse-luchtmachtbasis-voor-terrorismeplan</link>
@@ -172,14 +180,6 @@
       <description>Maak de e-auto niet verplicht, maar aantrekkelijk. En de brandstofauto financieel onaantrekkelijk. Deze maatregel uit het Belastingplan zou wel eens heel goed kunnen werken, schrijft FD-columnist Mathijs Bouman.</description>
       <pubDate>Fri, 25 Sep 2026 22:30:01 GMT</pubDate>
       <guid>https://fd.nl/politiek/1613100/met-stok-en-wortel-gaat-heel-nederland-aan-de-elektrische-auto</guid>
-    </item>
-    <item>
-      <title>Dubai lokt toeristen terug: ‘Een bommetje houdt me niet tegen’</title>
-      <link>https://fd.nl/bedrijfsleven/1613080/dubai-lokt-toeristen-terug-mijn-vrienden-verklaarden-me-voor-gek-maar-geen-bommetje-kon-me-tegenhouden</link>
-      <description>Een veilig imago is cruciaal voor Dubai. Zonder buitenlanders draait de motor van het emiraat niet. Nu het hoogseizoen aanbreekt, moet blijken of toeristen na zeven maanden oorlog nog toestromen.</description>
-      <enclosure url="https://images.fd.nl/879680-879773.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
-      <pubDate>Fri, 25 Sep 2026 22:30:01 GMT</pubDate>
-      <guid>https://fd.nl/bedrijfsleven/1613080/dubai-lokt-toeristen-terug-mijn-vrienden-verklaarden-me-voor-gek-maar-geen-bommetje-kon-me-tegenhouden</guid>
     </item>
   </channel>
 </rss>
