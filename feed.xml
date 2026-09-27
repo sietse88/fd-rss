@@ -6,11 +6,27 @@
     <description>Gefilterd op: bedrijfsleven, economie, politiek, samenleving, tech-en-innovatie</description>
     <language>nl</language>
     <copyright>2026 Het Financieele Dagblad Amsterdam. This RSS feed is intended solely for personal, non-commercial use. All use of RSS feeds from Het Financieele Dagblad is subject to the General Terms and Conditions for Subscriptions, Services, and Registrations: https://fdmg.nl/wp-content/uploads/AV_Abonnementen.pdf.</copyright>
-    <pubDate>Sun, 27 Sep 2026 05:33:27 GMT</pubDate>
-    <lastBuildDate>Sun, 27 Sep 2026 05:00:00 GMT</lastBuildDate>
+    <pubDate>Sun, 27 Sep 2026 10:45:04 GMT</pubDate>
+    <lastBuildDate>Sun, 27 Sep 2026 10:05:00 GMT</lastBuildDate>
     <webMaster>webmaster@fd.nl</webMaster>
     <ttl>10</ttl>
     <category>Laatste nieuws</category>
+    <item>
+      <title>Nederlandse wijnmaker in Argentinië verkoopt minder flessen door Milei’s hervormingen</title>
+      <link>https://fd.nl/bedrijfsleven/1612509/nederlandse-wijnmaker-in-argentinie-verkoopt-minder-flessen-door-mileis-hervormingen</link>
+      <description>Het Nederlands-Argentijnse Salentein is blij met de veranderingen in het Zuid-Amerikaanse land na jaren van financiële chaos, ook al verkopen ze er minder wijn door.</description>
+      <enclosure url="https://images.fd.nl/877141-878228.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
+      <pubDate>Sun, 27 Sep 2026 10:05:00 GMT</pubDate>
+      <guid>https://fd.nl/bedrijfsleven/1612509/nederlandse-wijnmaker-in-argentinie-verkoopt-minder-flessen-door-mileis-hervormingen</guid>
+    </item>
+    <item>
+      <title>Duizenden incidenten dwingen AI-bedrijven trainingen stop te zetten</title>
+      <link>https://fd.nl/bedrijfsleven/1613329/duizenden-incidenten-dwingen-ai-bedrijven-trainingen-stop-te-zetten</link>
+      <description>Keer op keer weten AI-modellen uit hun testomgeving te breken of verder te gaan dan een opdracht, zonder dat de ontwikkelaars het door lijken te hebben.</description>
+      <enclosure url="https://images.fd.nl/882484-882499.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
+      <pubDate>Sun, 27 Sep 2026 10:04:01 GMT</pubDate>
+      <guid>https://fd.nl/bedrijfsleven/1613329/duizenden-incidenten-dwingen-ai-bedrijven-trainingen-stop-te-zetten</guid>
+    </item>
     <item>
       <title>Kantoortijgers die dromen van het onderwijs</title>
       <link>https://fd.nl/bedrijfsleven/1613136/kantoortijgers-die-dromen-van-het-onderwijs</link>
@@ -154,29 +170,6 @@
       <description>Dat heeft de verantwoordelijke Eurocommissaris Dan Jørgensen gezegd tegen persbureau Bloomberg. Hij gaf niet precies aan hoe en wanneer hij het uitstel wil vormgeven.</description>
       <pubDate>Fri, 25 Sep 2026 15:32:06 GMT</pubDate>
       <guid>https://fd.nl/politiek/1613155/energieleveranciers-krijgen-toch-langer-de-tijd-rond-strenge-methaanregels</guid>
-    </item>
-    <item>
-      <title>Basf doet overnamebod op Duits chemiebedrijf Evonik</title>
-      <link>https://fd.nl/bedrijfsleven/1613318/basf-doet-overnamebod-op-duits-chemiebedrijf-evonik</link>
-      <description>Branchegenoot uit Essen heeft een beurswaarde van €8,45 mrd. Desinvesteringen vulden kas van de overnemende partij uit Ludwigshafen.</description>
-      <enclosure url="https://images.fd.nl/882229-882327.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
-      <pubDate>Fri, 25 Sep 2026 15:23:12 GMT</pubDate>
-      <guid>https://fd.nl/bedrijfsleven/1613318/basf-doet-overnamebod-op-duits-chemiebedrijf-evonik</guid>
-    </item>
-    <item>
-      <title>Coalitie onderling eens over pakket box 3, nu nog akkoord met oppositie</title>
-      <link>https://fd.nl/politiek/1613153/coalitie-onderling-eens-over-box-3-nu-nog-akkoord-met-oppositie</link>
-      <description>Na ruim een maand steggelen zijn D66, VVD en CDA het eens over de vraag hoe box 3 betrokken moet worden bij de begrotingsonderhandelingen. Steun vinden bij de oppositie is de volgende stap.</description>
-      <enclosure url="https://images.fd.nl/882277-882329.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
-      <pubDate>Fri, 25 Sep 2026 15:11:42 GMT</pubDate>
-      <guid>https://fd.nl/politiek/1613153/coalitie-onderling-eens-over-box-3-nu-nog-akkoord-met-oppositie</guid>
-    </item>
-    <item>
-      <title>Manchester City schond financiële regels Premier League</title>
-      <link>https://fd.nl/samenleving/1613319/manchester-city-schond-financiele-regels-premier-league</link>
-      <description>De Engelse voetbalclub kan nog in hoger beroep, maar riskeert intrekking van zijn Premier League-licentie. </description>
-      <pubDate>Fri, 25 Sep 2026 15:00:42 GMT</pubDate>
-      <guid>https://fd.nl/samenleving/1613319/manchester-city-schond-financiele-regels-premier-league</guid>
     </item>
   </channel>
 </rss>
