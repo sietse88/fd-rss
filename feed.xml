@@ -6,11 +6,19 @@
     <description>Gefilterd op: bedrijfsleven, economie, politiek, samenleving, tech-en-innovatie</description>
     <language>nl</language>
     <copyright>2026 Het Financieele Dagblad Amsterdam. This RSS feed is intended solely for personal, non-commercial use. All use of RSS feeds from Het Financieele Dagblad is subject to the General Terms and Conditions for Subscriptions, Services, and Registrations: https://fdmg.nl/wp-content/uploads/AV_Abonnementen.pdf.</copyright>
-    <pubDate>Tue, 29 Sep 2026 18:33:55 GMT</pubDate>
-    <lastBuildDate>Tue, 29 Sep 2026 18:13:11 GMT</lastBuildDate>
+    <pubDate>Tue, 29 Sep 2026 22:37:28 GMT</pubDate>
+    <lastBuildDate>Tue, 29 Sep 2026 22:30:00 GMT</lastBuildDate>
     <webMaster>webmaster@fd.nl</webMaster>
     <ttl>10</ttl>
     <category>Laatste nieuws</category>
+    <item>
+      <title>Werkgevers delen nog steeds in minder dan de helft van de vacatures informatie over salaris</title>
+      <link>https://fd.nl/bedrijfsleven/1613688/werkgevers-delen-nog-steeds-in-minder-dan-de-helft-van-de-vacatures-informatie-over-salaris</link>
+      <description>Vanaf volgend jaar gaan waarschijnlijk nieuwe regels gelden, die betekenen dat werkgevers voorafgaand aan het eerste gesprek meer openheid moeten geven over het mogelijke salaris bij een baan. </description>
+      <enclosure url="https://images.fd.nl/883233-884101.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
+      <pubDate>Tue, 29 Sep 2026 22:30:00 GMT</pubDate>
+      <guid>https://fd.nl/bedrijfsleven/1613688/werkgevers-delen-nog-steeds-in-minder-dan-de-helft-van-de-vacatures-informatie-over-salaris</guid>
+    </item>
     <item>
       <title>Kamer stemt in met maatregel tegen hoge grondprijzen, gemeenten kritisch</title>
       <link>https://fd.nl/politiek/1613707/kamer-stemt-in-met-maatregel-tegen-hoge-grondprijzen-gemeenten-kritisch</link>
@@ -44,8 +52,8 @@
     <item>
       <title>Rekening box 3 naar beleggers, spaarders en ondernemers</title>
       <link>https://fd.nl/politiek/1613542/rekening-box-3-naar-beleggers-spaarders-en-ondernemers</link>
-      <description>Per 2028 wil het kabinet een vermogenswinstbelasting invoeren, belooft het de rechtse oppositie in de Tweede Kamer. De benodigde miljarden zoekt het bij spaarders en beleggers in box 3, en ondernemers in box 2. </description>
-      <enclosure url="https://images.fd.nl/884180-884244.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
+      <description>Per 2028 wil het kabinet een vermogenswinstbelasting invoeren, belooft het de rechtse oppositie in de Tweede Kamer. De fel bekritiseerde belasting op papieren winsten van beleggers is dan van de baan.</description>
+      <enclosure url="https://images.fd.nl/884180-884333.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
       <pubDate>Tue, 29 Sep 2026 16:07:51 GMT</pubDate>
       <guid>https://fd.nl/politiek/1613542/rekening-box-3-naar-beleggers-spaarders-en-ondernemers</guid>
     </item>
@@ -154,21 +162,5 @@
       <pubDate>Tue, 29 Sep 2026 11:25:42 GMT</pubDate>
       <guid>https://fd.nl/bedrijfsleven/1613687/shein-keldert-op-hongkongse-beurs-na-halvering-operationele-winst</guid>
     </item>
-    <item>
-      <title>Hongaarse justitie pakt twee oud-ministers van Orbán op</title>
-      <link>https://fd.nl/politiek/1613528/hongaarse-justitie-pakt-twee-oud-ministers-van-orban-op</link>
-      <description>De oud-bewindslieden worden verdacht van corruptie en het misbruik van overheidsgeld. Met de aanhoudingen komt de vervolging van de misstanden onder ex-premier Orbán in een nieuwe fase. </description>
-      <enclosure url="https://images.fd.nl/883665-883852.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
-      <pubDate>Tue, 29 Sep 2026 11:15:32 GMT</pubDate>
-      <guid>https://fd.nl/politiek/1613528/hongaarse-justitie-pakt-twee-oud-ministers-van-orban-op</guid>
-    </item>
-    <item>
-      <title>Boxhoppen? Overstap van box 3 naar box 2 is niet zo makkelijk en vaak niet slim</title>
-      <link>https://fd.nl/samenleving/1613679/moeten-beleggers-box-3-inruilen-voor-box-2-er-kan-nog-van-alles-gebeuren</link>
-      <description>Vermogende beleggers leven in onzekerheid over box 3. Moeten ze toch gaan beleggen in een bv? De vraag is wat het wisselen van box oplevert. Zeker zolang ze er in Den Haag niet uit zijn.   </description>
-      <enclosure url="https://images.fd.nl/878824-883776.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
-      <pubDate>Tue, 29 Sep 2026 10:20:29 GMT</pubDate>
-      <guid>https://fd.nl/samenleving/1613679/moeten-beleggers-box-3-inruilen-voor-box-2-er-kan-nog-van-alles-gebeuren</guid>
-    </item>
-    </channel>
+  </channel>
 </rss>
