@@ -6,11 +6,19 @@
     <description>Gefilterd op: bedrijfsleven, economie, politiek, samenleving, tech-en-innovatie</description>
     <language>nl</language>
     <copyright>2026 Het Financieele Dagblad Amsterdam. This RSS feed is intended solely for personal, non-commercial use. All use of RSS feeds from Het Financieele Dagblad is subject to the General Terms and Conditions for Subscriptions, Services, and Registrations: https://fdmg.nl/wp-content/uploads/AV_Abonnementen.pdf.</copyright>
-    <pubDate>Thu, 01 Oct 2026 21:01:11 GMT</pubDate>
-    <lastBuildDate>Thu, 01 Oct 2026 20:26:03 GMT</lastBuildDate>
+    <pubDate>Fri, 02 Oct 2026 00:46:57 GMT</pubDate>
+    <lastBuildDate>Thu, 01 Oct 2026 22:30:00 GMT</lastBuildDate>
     <webMaster>webmaster@fd.nl</webMaster>
     <ttl>10</ttl>
     <category>Laatste nieuws</category>
+    <item>
+      <title>Oegandese miljardair eist €200 mln in zaak tegen Rabo-dochter en andere investeerders</title>
+      <link>https://fd.nl/bedrijfsleven/1613534/oegandese-miljardair-eist-200-mln-in-zaak-tegen-rabo-dochter-en-andere-investeerders</link>
+      <description>Sudhir Ruparelia claimt dat zijn bank tien jaar geleden ver onder marktwaarde is verkocht, en dat Rabobank en andere partijen hiervan hebben geprofiteerd.</description>
+      <enclosure url="https://images.fd.nl/883648-885511.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
+      <pubDate>Thu, 01 Oct 2026 22:30:00 GMT</pubDate>
+      <guid>https://fd.nl/bedrijfsleven/1613534/oegandese-miljardair-eist-200-mln-in-zaak-tegen-rabo-dochter-en-andere-investeerders</guid>
+    </item>
     <item>
       <title>Fors bezuinigingspakket moet Frans begrotingstekort terugdringen, maar is dat genoeg?</title>
       <link>https://fd.nl/politiek/1614194/bezuinigingspakket-van-54-mrd-moet-frans-begrotingstekort-terugdringen-maar-is-dat-genoeg</link>
@@ -125,29 +133,5 @@
       <pubDate>Thu, 01 Oct 2026 11:37:39 GMT</pubDate>
       <guid>https://fd.nl/bedrijfsleven/1614178/marktaandeel-nieuwe-elektrische-autos-stijgt-sterk</guid>
     </item>
-    <item>
-      <title>BMW is door dure energie in EU ‘tot €1000 per auto’ meer kwijt dan in de VS en China</title>
-      <link>https://fd.nl/bedrijfsleven/1613731/bmw-is-door-dure-energie-in-eu-tot-1000-per-auto-meer-kwijt-dan-in-de-vs-en-china</link>
-      <description>De Duitse autofabrikant opende donderdag in Beieren een fabriek voor de assemblage van batterijen en lanceerde nieuwe modellen uit de 3-serie. Het bedrijf investeerde €2 mrd, ondanks de dure energie in Duitsland.</description>
-      <enclosure url="https://images.fd.nl/884344-885334.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
-      <pubDate>Thu, 01 Oct 2026 10:30:00 GMT</pubDate>
-      <guid>https://fd.nl/bedrijfsleven/1613731/bmw-is-door-dure-energie-in-eu-tot-1000-per-auto-meer-kwijt-dan-in-de-vs-en-china</guid>
-    </item>
-    <item>
-      <title>Kabinet gaat toch kleine spaarder ontzien in box 3</title>
-      <link>https://fd.nl/politiek/1614080/kabinet-gaat-toch-kleine-spaarder-ontzien-met-box-3</link>
-      <description>Na zware kritiek uit de Tweede Kamer en de eigen coalitie, past het kabinet het twee dagen oude voorstel rond de belasting op inkomen uit sparen en beleggen weer aan.</description>
-      <enclosure url="https://images.fd.nl/885398-885403.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
-      <pubDate>Thu, 01 Oct 2026 10:23:08 GMT</pubDate>
-      <guid>https://fd.nl/politiek/1614080/kabinet-gaat-toch-kleine-spaarder-ontzien-met-box-3</guid>
-    </item>
-    <item>
-      <title>Spaanse spoedwet tegen wooncrisis zit vol tijdelijke maatregelen, protesten gaan door</title>
-      <link>https://fd.nl/politiek/1614077/spaanse-spoedwet-tegen-wooncrisis-zit-vol-tijdelijke-maatregelen-protesten-gaan-door</link>
-      <description>Na een week van betogingen komt de regering met voorstellen. Investeringsfondsen mogen tot 2028 geen nieuwe panden meer kopen. Verhuurders mogen tot 2030 geen mensen meer uit hun woning zetten.</description>
-      <enclosure url="https://images.fd.nl/885313-885373.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
-      <pubDate>Thu, 01 Oct 2026 09:52:24 GMT</pubDate>
-      <guid>https://fd.nl/politiek/1614077/spaanse-spoedwet-tegen-wooncrisis-zit-vol-tijdelijke-maatregelen-protesten-gaan-door</guid>
-    </item>
-  </channel>
+    </channel>
 </rss>
