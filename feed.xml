@@ -6,11 +6,18 @@
     <description>Gefilterd op: bedrijfsleven, economie, politiek, samenleving, tech-en-innovatie</description>
     <language>nl</language>
     <copyright>2026 Het Financieele Dagblad Amsterdam. This RSS feed is intended solely for personal, non-commercial use. All use of RSS feeds from Het Financieele Dagblad is subject to the General Terms and Conditions for Subscriptions, Services, and Registrations: https://fdmg.nl/wp-content/uploads/AV_Abonnementen.pdf.</copyright>
-    <pubDate>Sat, 03 Oct 2026 12:13:15 GMT</pubDate>
-    <lastBuildDate>Sat, 03 Oct 2026 10:27:31 GMT</lastBuildDate>
+    <pubDate>Sat, 03 Oct 2026 16:20:17 GMT</pubDate>
+    <lastBuildDate>Sat, 03 Oct 2026 13:37:16 GMT</lastBuildDate>
     <webMaster>webmaster@fd.nl</webMaster>
     <ttl>10</ttl>
     <category>Laatste nieuws</category>
+    <item>
+      <title>‘Onderhandelaars VS en Rusland bespreken oliedeal bij Oekraïne-onderhandelingen’</title>
+      <link>https://fd.nl/politiek/1614408/onderhandelaars-vs-en-rusland-spreken-over-oliedeal-bij-onderhandelingen-over-oekraine</link>
+      <description>De deal zou gunstig uitpakken voor zakenlieden uit het Midden-Oosten die nauwe banden onderhouden met de twee belangrijkste Amerikaanse onderhandelaars, Steve Witkoff en Jared Kushner.</description>
+      <pubDate>Sat, 03 Oct 2026 13:37:16 GMT</pubDate>
+      <guid>https://fd.nl/politiek/1614408/onderhandelaars-vs-en-rusland-spreken-over-oliedeal-bij-onderhandelingen-over-oekraine</guid>
+    </item>
     <item>
       <title>Geen nieuw strafonderzoek naar Jerome Powell, ondanks eis van Trump</title>
       <link>https://fd.nl/politiek/1614504/geen-nieuw-strafonderzoek-naar-jerome-powell-ondanks-eis-van-trump</link>
@@ -157,5 +164,5 @@
       <pubDate>Fri, 02 Oct 2026 12:45:32 GMT</pubDate>
       <guid>https://fd.nl/economie/1614276/grote-erfenis-ontvangen-dan-volgt-vaak-een-verhuizing</guid>
     </item>
-    </channel>
+  </channel>
 </rss>
