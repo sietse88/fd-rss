@@ -6,11 +6,19 @@
     <description>Gefilterd op: bedrijfsleven, economie, politiek, samenleving, tech-en-innovatie</description>
     <language>nl</language>
     <copyright>2026 Het Financieele Dagblad Amsterdam. This RSS feed is intended solely for personal, non-commercial use. All use of RSS feeds from Het Financieele Dagblad is subject to the General Terms and Conditions for Subscriptions, Services, and Registrations: https://fdmg.nl/wp-content/uploads/AV_Abonnementen.pdf.</copyright>
-    <pubDate>Sat, 03 Oct 2026 01:19:03 GMT</pubDate>
-    <lastBuildDate>Fri, 02 Oct 2026 22:30:00 GMT</lastBuildDate>
+    <pubDate>Sat, 03 Oct 2026 06:50:27 GMT</pubDate>
+    <lastBuildDate>Sat, 03 Oct 2026 05:00:00 GMT</lastBuildDate>
     <webMaster>webmaster@fd.nl</webMaster>
     <ttl>10</ttl>
     <category>Laatste nieuws</category>
+    <item>
+      <title>Regeert het roofkapitalisme? En moet ons economische systeem op de schop?</title>
+      <link>https://fd.nl/economie/1614227/regeert-het-roofkapitalisme-en-moet-ons-economische-systeem-op-de-schop</link>
+      <description>Voor deze Toegevoegde Waarde spraken Anna Dijkman en Marijn Jongsma vier economen die allemaal zo hun ideeën hebben over hoe het verder moet en hoe het vooral níet verder moet.</description>
+      <enclosure url="https://images.fd.nl/886283-886495.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
+      <pubDate>Sat, 03 Oct 2026 03:00:00 GMT</pubDate>
+      <guid>https://fd.nl/economie/1614227/regeert-het-roofkapitalisme-en-moet-ons-economische-systeem-op-de-schop</guid>
+    </item>
     <item>
       <title>Nederland werd innovatiever, maar ook een beetje minder gelukkig</title>
       <link>https://fd.nl/politiek/1614198/nederland-werd-innovatiever-maar-ook-een-beetje-minder-gelukkig</link>
@@ -150,22 +158,6 @@
       <enclosure url="https://images.fd.nl/885175-885225.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
       <pubDate>Fri, 02 Oct 2026 10:00:01 GMT</pubDate>
       <guid>https://fd.nl/tech-en-innovatie/1614182/informaticus-ilyaz-nasrullah-we-moeten-af-van-de-sciencefictionverhalen-over-ai</guid>
-    </item>
-    <item>
-      <title>De vervuiler slaat terug: toename van het aantal klimaatzaken lokt tegenoffensief uit</title>
-      <link>https://fd.nl/bedrijfsleven/1613696/de-vervuiler-slaat-terug-toename-van-het-aantal-klimaatzaken-lokt-tegenoffensief-uit</link>
-      <description>Tussen de fossiele industrie en klimaatactivisten is een juridische wapenwedloop losgebarsten. Er wordt zelfs geprobeerd het voeren van klimaatrechtszaken helemaal onmogelijk te maken.</description>
-      <enclosure url="https://images.fd.nl/884050-886143.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
-      <pubDate>Fri, 02 Oct 2026 10:00:00 GMT</pubDate>
-      <guid>https://fd.nl/bedrijfsleven/1613696/de-vervuiler-slaat-terug-toename-van-het-aantal-klimaatzaken-lokt-tegenoffensief-uit</guid>
-    </item>
-    <item>
-      <title>Brussels schild tegen Strafhof-sancties VS is ‘geen wondermiddel’</title>
-      <link>https://fd.nl/politiek/1614183/brussels-schild-tegen-amerikaanse-sancties-op-strafhof-is-geen-wondermiddel</link>
-      <description>De druk op Brussel neemt toe om actie te ondernemen inzake de Amerikaanse sancties tegen het Internationaal Strafhof. Maar hoe effectief is het wettelijk instrumentarium van de Europese Commissie?</description>
-      <enclosure url="https://images.fd.nl/885165-886050.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
-      <pubDate>Fri, 02 Oct 2026 09:47:30 GMT</pubDate>
-      <guid>https://fd.nl/politiek/1614183/brussels-schild-tegen-amerikaanse-sancties-op-strafhof-is-geen-wondermiddel</guid>
     </item>
   </channel>
 </rss>
