@@ -6,15 +6,39 @@
     <description>Gefilterd op: bedrijfsleven, economie, politiek, samenleving, tech-en-innovatie</description>
     <language>nl</language>
     <copyright>2026 Het Financieele Dagblad Amsterdam. This RSS feed is intended solely for personal, non-commercial use. All use of RSS feeds from Het Financieele Dagblad is subject to the General Terms and Conditions for Subscriptions, Services, and Registrations: https://fdmg.nl/wp-content/uploads/AV_Abonnementen.pdf.</copyright>
-    <pubDate>Sun, 04 Oct 2026 13:40:25 GMT</pubDate>
-    <lastBuildDate>Sun, 04 Oct 2026 13:15:00 GMT</lastBuildDate>
+    <pubDate>Sun, 04 Oct 2026 17:51:12 GMT</pubDate>
+    <lastBuildDate>Sun, 04 Oct 2026 16:00:00 GMT</lastBuildDate>
     <webMaster>webmaster@fd.nl</webMaster>
     <ttl>10</ttl>
     <category>Laatste nieuws</category>
     <item>
+      <title>Doorstart voor jachtenbedrijf Lengers via de echtgenote van de ceo</title>
+      <link>https://fd.nl/bedrijfsleven/1614376/doorstart-voor-jachtenbedrijf-lengers-via-de-echtgenote-van-de-topman</link>
+      <description>Lengers Yachts floreerde met de inkoop en doorverkoop van pleziervaartuigen met geleend geld. In juli was er onverwacht een faillissement. Nu is daar, ook al onverwacht, een nieuwe start.</description>
+      <enclosure url="https://images.fd.nl/886375-886383.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
+      <pubDate>Sun, 04 Oct 2026 16:00:00 GMT</pubDate>
+      <guid>https://fd.nl/bedrijfsleven/1614376/doorstart-voor-jachtenbedrijf-lengers-via-de-echtgenote-van-de-topman</guid>
+    </item>
+    <item>
+      <title>Polymarket vecht verbod in Nederland aan bij rechter</title>
+      <link>https://fd.nl/bedrijfsleven/1614181/polymarket-vecht-verbod-in-nederland-aan-bij-rechter</link>
+      <description>Het Amerikaanse bedrijf zegt geen goksite te zijn, maar financiële producten aan te bieden, vergelijkbaar met futurecontracten. Toezichthouders zien dat anders. ‘Het klinkt allemaal erg kansspellerig.’</description>
+      <enclosure url="https://images.fd.nl/885275-885393.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
+      <pubDate>Sun, 04 Oct 2026 14:52:00 GMT</pubDate>
+      <guid>https://fd.nl/bedrijfsleven/1614181/polymarket-vecht-verbod-in-nederland-aan-bij-rechter</guid>
+    </item>
+    <item>
+      <title>Op de agenda voor sociaal akkoord staan geen makkelijke onderwerpen</title>
+      <link>https://fd.nl/politiek/1614143/op-de-agenda-voor-sociaal-akkoord-staan-geen-makkelijke-onderwerpen</link>
+      <description>De vakbonden, de werkgeversorganisaties en het kabinet bespreken woensdag voor het eerst een sociaal akkoord. Maar makkelijke oplossingen zijn niet voorhanden. </description>
+      <enclosure url="https://images.fd.nl/884730-886419.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
+      <pubDate>Sun, 04 Oct 2026 13:43:07 GMT</pubDate>
+      <guid>https://fd.nl/politiek/1614143/op-de-agenda-voor-sociaal-akkoord-staan-geen-makkelijke-onderwerpen</guid>
+    </item>
+    <item>
       <title>Onderlinge claims bemoeilijken afwikkeling Duits fregattendrama</title>
       <link>https://fd.nl/bedrijfsleven/1614477/onderlinge-claims-bemoeilijken-afwikkeling-duits-fregattendrama</link>
-      <description>DSNS zelf wil nog ruim €350 mln van Duitsland, staat in de brief van Gauweiler. Dat is klein bier vergeleken met Thales Nederland, dat volgens de jurist nog een post van €1 mrd heeft openstaan.</description>
+      <description>Scheepsbouwer DSNS wil voor zichzelf ruim €350 mln van Duitsland, staat in de brief van zijn advocaat. Dat is klein bier vergeleken met Thales Nederland, dat volgens de jurist nog een post van €1 mrd heeft openstaan.</description>
       <enclosure url="https://images.fd.nl/886268-886396.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
       <pubDate>Sun, 04 Oct 2026 12:32:00 GMT</pubDate>
       <guid>https://fd.nl/bedrijfsleven/1614477/onderlinge-claims-bemoeilijken-afwikkeling-duits-fregattendrama</guid>
@@ -164,12 +188,5 @@
       <pubDate>Fri, 02 Oct 2026 20:41:04 GMT</pubDate>
       <guid>https://fd.nl/politiek/1614501/spaanse-huizencrisis-leidt-mogelijk-tot-nieuwe-verkiezingen</guid>
     </item>
-    <item>
-      <title>Oplichter fopte Kansspelautoriteit met loterijaanvraag voor voetbalclub</title>
-      <link>https://fd.nl/samenleving/1614377/oplichter-fopte-kansspelautoriteit-met-loterijaanvraag-voor-voetbalclub</link>
-      <description>Persoonsgegevens van het bestuur van Quick Boys uit Katwijk zijn misbruikt door een oplichter, die daarmee een vergunning wist te bemachtigen voor een online loterij. </description>
-      <pubDate>Fri, 02 Oct 2026 19:37:28 GMT</pubDate>
-      <guid>https://fd.nl/samenleving/1614377/oplichter-fopte-kansspelautoriteit-met-loterijaanvraag-voor-voetbalclub</guid>
-    </item>
-    </channel>
+  </channel>
 </rss>
