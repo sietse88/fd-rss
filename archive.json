@@ -20,10 +20,10 @@
    "url": "https://images.fd.nl/883767-887815.jpeg?fit=crop&crop=faces&auto=format%2Ccompress&q=45&w=140&h=140&fm=jpg&cs=tinysrgb"
   },
   "first_seen": "Tue, 06 Oct 2026 14:22:32 +0000",
-  "last_seen": "Tue, 06 Oct 2026 14:22:32 +0000",
+  "last_seen": "Tue, 06 Oct 2026 19:41:09 +0000",
   "link": "https://fd.nl/bedrijfsleven/1613750/nederlandse-maakbedrijven-willen-meer-bescherming-in-herziening-europese-datawet",
   "pubDate": "Tue, 06 Oct 2026 13:56:26 GMT",
-  "title": "Nederlandse maakbedrijven willen meer bescherming in herziening Europese datawet"
+  "title": "Nederlandse maakbedrijven willen in EU-datawet meer bescherming tegen copycats"
  },
  "1614086": {
   "description": "Er was in het eerste halfjaar van 2026 een ‘enorme run’ op de resterende ruimte op het stroomnet. Door nieuwe regelgeving moeten ook woningbouwers op de wachtlijst worden geplaatst.  ",
@@ -85,7 +85,7 @@
    "url": "https://images.fd.nl/886021-887100.jpeg?fit=crop&crop=faces&auto=format%2Ccompress&q=45&w=140&h=140&fm=jpg&cs=tinysrgb"
   },
   "first_seen": "Tue, 06 Oct 2026 14:22:32 +0000",
-  "last_seen": "Tue, 06 Oct 2026 14:22:32 +0000",
+  "last_seen": "Tue, 06 Oct 2026 19:41:09 +0000",
   "link": "https://fd.nl/bedrijfsleven/1614413/melanie-maas-geesteranus-cpb-kijkt-door-een-rietje-naar-de-nieuwe-staatsinvesteerder",
   "pubDate": "Tue, 06 Oct 2026 13:20:47 GMT",
   "title": "Melanie Maas Geesteranus: ‘CPB kijkt door een rietje naar de nieuwe staatsinvesteerder’"
@@ -128,6 +128,19 @@
   "link": "https://fd.nl/politiek/1614455/spaanse-premier-schrijft-vervroegde-verkiezingen-uit-als-gevolg-van-wooncrisis",
   "pubDate": "Mon, 05 Oct 2026 10:27:43 GMT",
   "title": "Spaanse premier schrijft vervroegde verkiezingen uit als gevolg van woningcrisis"
+ },
+ "1614456": {
+  "description": "Het kabinet gaat vergunningen voor laadpunten langs snelwegen veilen. Bedrijven die willen meedingen, vrezen dat een aansluiting op het overvolle stroomnet komt te vervallen als een station een nieuwe eigenaar krijgt. De elektrische rijder kan daarvan de dupe worden.",
+  "enclosure": {
+   "length": "0",
+   "type": "image/jpeg",
+   "url": "https://images.fd.nl/887020-887409.jpeg?fit=crop&crop=faces&auto=format%2Ccompress&q=45&w=140&h=140&fm=jpg&cs=tinysrgb"
+  },
+  "first_seen": "Tue, 06 Oct 2026 19:41:09 +0000",
+  "last_seen": "Tue, 06 Oct 2026 19:41:09 +0000",
+  "link": "https://fd.nl/bedrijfsleven/1614456/laadpaalbedrijven-waarschuwen-straks-geen-stroom-meer-langs-snelweg",
+  "pubDate": "Tue, 06 Oct 2026 16:35:16 GMT",
+  "title": "Laadpaalbedrijven waarschuwen: ‘Straks geen stroom meer langs snelweg’"
  },
  "1614459": {
   "description": "Daarmee scherpt het kabinet het advies voor telefoongebruik onder leerlingen aan. In de praktijk geldt dit ‘thuis of in de kluis’-beleid op de meeste scholen al.",
@@ -374,13 +387,40 @@
   "title": "Grote spionagezaak schrikt Duitsland op"
  },
  "1614627": {
-  "description": "Voor tweehonderd werknemers is het onzeker of ze bij andere locaties van Vion kunnen blijven werken. ",
+  "description": "Voor tweehonderd werknemers is het onzeker of ze bij andere locaties van Vion aan de slag kunnen.",
   "enclosure": null,
   "first_seen": "Tue, 06 Oct 2026 14:22:32 +0000",
-  "last_seen": "Tue, 06 Oct 2026 14:22:32 +0000",
+  "last_seen": "Tue, 06 Oct 2026 19:41:09 +0000",
   "link": "https://fd.nl/bedrijfsleven/1614627/vion-verkoopt-slachterij-in-apeldoorn-vanwege-krimpende-veestapel",
   "pubDate": "Tue, 06 Oct 2026 13:29:51 GMT",
   "title": "Vion verkoopt slachterij in Apeldoorn vanwege krimpende veestapel"
+ },
+ "1614632": {
+  "description": "Honderdduizenden huishoudens en kleine bedrijven betalen onnodig veel, stelt toezichthouder.",
+  "enclosure": null,
+  "first_seen": "Tue, 06 Oct 2026 19:41:09 +0000",
+  "last_seen": "Tue, 06 Oct 2026 19:41:09 +0000",
+  "link": "https://fd.nl/samenleving/1614632/acm-veel-gebruikers-hebben-een-te-zware-stroomaansluiting",
+  "pubDate": "Tue, 06 Oct 2026 14:33:17 GMT",
+  "title": "ACM: Veel gebruikers hebben een te zware stroomaansluiting"
+ },
+ "1614637": {
+  "description": "‘Soms moet je instappen met een beetje extra risico’, zegt minister Boekholt-O’Sullivan.",
+  "enclosure": null,
+  "first_seen": "Tue, 06 Oct 2026 19:41:09 +0000",
+  "last_seen": "Tue, 06 Oct 2026 19:41:09 +0000",
+  "link": "https://fd.nl/politiek/1614637/woonminister-vastgoedbelegger-moet-lager-rendement-accepteren",
+  "pubDate": "Tue, 06 Oct 2026 17:03:32 GMT",
+  "title": "Woonminister: vastgoedbelegger moet lager rendement accepteren"
+ },
+ "1614639": {
+  "description": "Tobias Rausch treedt aan als voorzitter van het parlement van de deelstaat Saksen-Anhalt.",
+  "enclosure": null,
+  "first_seen": "Tue, 06 Oct 2026 19:41:09 +0000",
+  "last_seen": "Tue, 06 Oct 2026 19:41:09 +0000",
+  "link": "https://fd.nl/politiek/1614639/rausch-haalt-het-eerste-duitse-politieke-topambt-voor-de-afd-binnen",
+  "pubDate": "Tue, 06 Oct 2026 16:48:29 GMT",
+  "title": "Rausch haalt het eerste Duitse politieke topambt voor de AFD binnen"
  },
  "1614676": {
   "description": "Het Nederlandse hoofdkantoor van Booking.com wil dat de medewerkers twee dagen verplicht op kantoor werken. De Ondernemingsraad stemde daar niet mee in, waarop Booking.com naar de rechter stapte. ",
@@ -416,7 +456,7 @@
    "url": "https://images.fd.nl/886935-887160.jpeg?fit=crop&crop=faces&auto=format%2Ccompress&q=45&w=140&h=140&fm=jpg&cs=tinysrgb"
   },
   "first_seen": "Tue, 06 Oct 2026 14:22:32 +0000",
-  "last_seen": "Tue, 06 Oct 2026 14:22:32 +0000",
+  "last_seen": "Tue, 06 Oct 2026 19:41:09 +0000",
   "link": "https://fd.nl/bedrijfsleven/1614680/zorgen-in-zweeds-dorp-palantir-ceo-koopt-duizenden-hectaren-bos-en-jachtgrond",
   "pubDate": "Tue, 06 Oct 2026 13:10:15 GMT",
   "title": "Zorgen in Zweeds dorp: Palantir-ceo koopt duizenden hectaren bos en jachtgrond"
@@ -451,7 +491,7 @@
    "url": "https://images.fd.nl/887149-887736.jpeg?fit=crop&crop=faces&auto=format%2Ccompress&q=45&w=140&h=140&fm=jpg&cs=tinysrgb"
   },
   "first_seen": "Tue, 06 Oct 2026 14:22:32 +0000",
-  "last_seen": "Tue, 06 Oct 2026 14:22:32 +0000",
+  "last_seen": "Tue, 06 Oct 2026 19:41:09 +0000",
   "link": "https://fd.nl/bedrijfsleven/1614685/forbion-haalt-2-3-mrd-op-en-wordt-grootste-europese-investeerder-in-biotech",
   "pubDate": "Tue, 06 Oct 2026 11:00:00 GMT",
   "title": "Forbion haalt €2,3 mrd op en wordt grootste Europese investeerder in biotech"
@@ -522,7 +562,7 @@
    "url": "https://images.fd.nl/883292-887900.jpeg?fit=crop&crop=faces&auto=format%2Ccompress&q=45&w=140&h=140&fm=jpg&cs=tinysrgb"
   },
   "first_seen": "Tue, 06 Oct 2026 14:22:32 +0000",
-  "last_seen": "Tue, 06 Oct 2026 14:22:32 +0000",
+  "last_seen": "Tue, 06 Oct 2026 19:41:09 +0000",
   "link": "https://fd.nl/bedrijfsleven/1614708/heel-deventer-wilde-weten-wie-die-sponsor-op-de-broek-van-go-ahead-was",
   "pubDate": "Tue, 06 Oct 2026 10:20:00 GMT",
   "title": "‘Heel Deventer wilde weten wie die sponsor op de broek van Go Ahead was’"
@@ -531,7 +571,7 @@
   "description": "Tussen de Amerikaanse streamingdiensten trekken aanbieders als NPO Start en Videoland een groeiend aantal kijkers.",
   "enclosure": null,
   "first_seen": "Tue, 06 Oct 2026 14:22:32 +0000",
-  "last_seen": "Tue, 06 Oct 2026 14:22:32 +0000",
+  "last_seen": "Tue, 06 Oct 2026 19:41:09 +0000",
   "link": "https://fd.nl/bedrijfsleven/1614710/nederlandse-streamingdiensten-steeds-beter-bekeken",
   "pubDate": "Tue, 06 Oct 2026 12:16:06 GMT",
   "title": "Nederlandse streamingdiensten steeds beter bekeken"
@@ -544,7 +584,7 @@
    "url": "https://images.fd.nl/887779-887891.jpeg?fit=crop&crop=faces&auto=format%2Ccompress&q=45&w=140&h=140&fm=jpg&cs=tinysrgb"
   },
   "first_seen": "Tue, 06 Oct 2026 14:22:32 +0000",
-  "last_seen": "Tue, 06 Oct 2026 14:22:32 +0000",
+  "last_seen": "Tue, 06 Oct 2026 19:41:09 +0000",
   "link": "https://fd.nl/bedrijfsleven/1614711/frieslandcampina-wint-merkzaak-over-chocomel-geel",
   "pubDate": "Tue, 06 Oct 2026 12:12:15 GMT",
   "title": "FrieslandCampina wint merkzaak over Chocomel-geel"
@@ -557,16 +597,42 @@
    "url": "https://images.fd.nl/887929-888041.jpeg?fit=crop&crop=faces&auto=format%2Ccompress&q=45&w=140&h=140&fm=jpg&cs=tinysrgb"
   },
   "first_seen": "Tue, 06 Oct 2026 14:22:32 +0000",
-  "last_seen": "Tue, 06 Oct 2026 14:22:32 +0000",
+  "last_seen": "Tue, 06 Oct 2026 19:41:09 +0000",
   "link": "https://fd.nl/politiek/1614716/brussel-wil-nieuwe-eu-leden-vijftien-jaar-onder-verscherpt-toezicht-stellen",
   "pubDate": "Tue, 06 Oct 2026 14:20:17 GMT",
   "title": "Brussel wil nieuwe EU-leden vijftien jaar onder verscherpt toezicht stellen"
+ },
+ "1614718": {
+  "description": "De oppositie in de Eerste Kamer – links en rechts – is kritisch over de financiële plannen van het kabinet. De rechtse partijen probeerden de VVD onder druk te zetten.",
+  "enclosure": {
+   "length": "0",
+   "type": "image/jpeg",
+   "url": "https://images.fd.nl/887885-888277.jpeg?fit=crop&crop=faces&auto=format%2Ccompress&q=45&w=140&h=140&fm=jpg&cs=tinysrgb"
+  },
+  "first_seen": "Tue, 06 Oct 2026 19:41:09 +0000",
+  "last_seen": "Tue, 06 Oct 2026 19:41:09 +0000",
+  "link": "https://fd.nl/politiek/1614718/minderheidskabinet-wacht-flinke-klus-in-de-senaat",
+  "pubDate": "Tue, 06 Oct 2026 18:36:15 GMT",
+  "title": "Minderheidskabinet wacht flinke klus in de senaat"
+ },
+ "1614721": {
+  "description": "Martijn Kleverlaan start op 1 november als topman van NAM, het olie- en gasbedrijf dat de afgelopen jaren enorm is gekrompen.",
+  "enclosure": {
+   "length": "0",
+   "type": "image/jpeg",
+   "url": "https://images.fd.nl/884733-887933.jpeg?fit=crop&crop=faces&auto=format%2Ccompress&q=45&w=140&h=140&fm=jpg&cs=tinysrgb"
+  },
+  "first_seen": "Tue, 06 Oct 2026 19:41:09 +0000",
+  "last_seen": "Tue, 06 Oct 2026 19:41:09 +0000",
+  "link": "https://fd.nl/bedrijfsleven/1614721/nieuwe-nam-directeur-vindt-ontmantelen-gasinstallaties-eigenlijk-vreselijk",
+  "pubDate": "Tue, 06 Oct 2026 14:32:11 GMT",
+  "title": "Nieuwe NAM-directeur vindt ontmantelen gasinstallaties eigenlijk ‘vreselijk’"
  },
  "1614724": {
   "description": "De Italiaanse premier wil een einde maken aan het gebruik door anderen van haar stem. Vooral een passage uit een toespraak in de verkiezingscampagne in 2022 is veel gemanipuleerd. ",
   "enclosure": null,
   "first_seen": "Tue, 06 Oct 2026 14:22:32 +0000",
-  "last_seen": "Tue, 06 Oct 2026 14:22:32 +0000",
+  "last_seen": "Tue, 06 Oct 2026 19:41:09 +0000",
   "link": "https://fd.nl/politiek/1614724/meloni-registreert-eigen-stemgeluid-bij-europees-merkenbureau",
   "pubDate": "Tue, 06 Oct 2026 12:24:06 GMT",
   "title": "Meloni registreert eigen stemgeluid bij Europees merkenbureau"
@@ -575,22 +641,48 @@
   "description": "Maatregelen moeten orde scheppen in ‘extreem disfunctionele markt’ zegt premier Pedro Sánchez.",
   "enclosure": null,
   "first_seen": "Tue, 06 Oct 2026 14:22:32 +0000",
-  "last_seen": "Tue, 06 Oct 2026 14:22:32 +0000",
+  "last_seen": "Tue, 06 Oct 2026 19:41:09 +0000",
   "link": "https://fd.nl/politiek/1614725/demissionaire-spaanse-regering-keurt-weggestemde-woonmaatregelen-goed",
   "pubDate": "Tue, 06 Oct 2026 13:20:33 GMT",
   "title": "Demissionaire Spaanse regering keurt weggestemde woonmaatregelen goed"
  },
  "1614727": {
-  "description": "Lange tijd was een meerderheid niet gegarandeerd, maar dinsdag heeft de Tweede Kamer ingestemd met een verplichting om ‘groen gas’ te mengen door het gebruikelijke aardgas.",
+  "description": "Lange tijd was een meerderheid niet gegarandeerd, maar dinsdag heeft de Tweede Kamer ingestemd met een verplichting ‘groen gas’ te mengen door het gebruikelijke aardgas.",
   "enclosure": {
    "length": "0",
    "type": "image/jpeg",
    "url": "https://images.fd.nl/888155-888190.jpeg?fit=crop&crop=faces&auto=format%2Ccompress&q=45&w=140&h=140&fm=jpg&cs=tinysrgb"
   },
   "first_seen": "Tue, 06 Oct 2026 14:22:32 +0000",
-  "last_seen": "Tue, 06 Oct 2026 14:22:32 +0000",
+  "last_seen": "Tue, 06 Oct 2026 19:41:09 +0000",
   "link": "https://fd.nl/politiek/1614727/kamer-steunt-snelle-plicht-bijmengen-groen-gas",
   "pubDate": "Tue, 06 Oct 2026 14:17:17 GMT",
-  "title": "Kamer steunt snelle plicht bijmengen groen gas"
+  "title": "Kamer steunt snelle invoering bijmengplicht groen gas"
+ },
+ "1614728": {
+  "description": "Is het redelijk om je personeel te verplichten twee dagen per week op kantoor te werken? De rechter leek geneigd op dit punt met Booking mee te gaan. ",
+  "enclosure": {
+   "length": "0",
+   "type": "image/jpeg",
+   "url": "https://images.fd.nl/888169-888188.jpeg?fit=crop&crop=faces&auto=format%2Ccompress&q=45&w=140&h=140&fm=jpg&cs=tinysrgb"
+  },
+  "first_seen": "Tue, 06 Oct 2026 19:41:09 +0000",
+  "last_seen": "Tue, 06 Oct 2026 19:41:09 +0000",
+  "link": "https://fd.nl/bedrijfsleven/1614728/rechter-lijkt-booking-te-steunen-in-twist-over-thuiswerken-met-or",
+  "pubDate": "Tue, 06 Oct 2026 18:55:17 GMT",
+  "title": "Rechter lijkt Booking te steunen in twist over thuiswerken met or"
+ },
+ "1614731": {
+  "description": "Anders dan een paar jaar geleden, toen de Amerikaanse rente weer snel daalde, lijkt dat nu niet in het verschiet te zitten. Op de vastgoedmarkt tekenen de gevolgen daarvan zich steeds nadrukkelijker af.",
+  "enclosure": {
+   "length": "0",
+   "type": "image/jpeg",
+   "url": "https://images.fd.nl/888216-888227.jpeg?fit=crop&crop=faces&auto=format%2Ccompress&q=45&w=140&h=140&fm=jpg&cs=tinysrgb"
+  },
+  "first_seen": "Tue, 06 Oct 2026 19:41:09 +0000",
+  "last_seen": "Tue, 06 Oct 2026 19:41:09 +0000",
+  "link": "https://fd.nl/economie/1614731/amerikaanse-woningkopers-bouwers-en-kantoorbeleggers-in-het-nauw-door-hoge-rente",
+  "pubDate": "Tue, 06 Oct 2026 17:18:38 GMT",
+  "title": "Amerikaanse woningkopers, bouwers en kantoorbeleggers in het nauw door hoge rente"
  }
 }
