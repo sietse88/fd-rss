@@ -6,15 +6,23 @@
     <description>Gefilterd op: bedrijfsleven, economie, politiek, samenleving, tech-en-innovatie</description>
     <language>nl</language>
     <copyright>2026 Het Financieele Dagblad Amsterdam. This RSS feed is intended solely for personal, non-commercial use. All use of RSS feeds from Het Financieele Dagblad is subject to the General Terms and Conditions for Subscriptions, Services, and Registrations: https://fdmg.nl/wp-content/uploads/AV_Abonnementen.pdf.</copyright>
-    <pubDate>Sun, 11 Oct 2026 19:10:56 GMT</pubDate>
-    <lastBuildDate>Sun, 11 Oct 2026 18:51:19 GMT</lastBuildDate>
+    <pubDate>Sun, 11 Oct 2026 22:54:41 GMT</pubDate>
+    <lastBuildDate>Sun, 11 Oct 2026 22:30:00 GMT</lastBuildDate>
     <webMaster>webmaster@fd.nl</webMaster>
     <ttl>10</ttl>
     <category>Laatste nieuws</category>
     <item>
+      <title>Eerste klant voor groot AI-datacenter bij Rotterdam – nu gaat de klok tikken</title>
+      <link>https://fd.nl/tech-en-innovatie/1615159/eerste-klant-voor-groot-ai-datacenter-bij-rotterdam-nu-gaat-de-klok-tikken</link>
+      <description>Cloudbedrijf Nebius is de eerste klant voor de geplande ‘AI-fabriek’ op de Maasvlakte. Realisering van het datacenter is hiermee een stap dichterbij.</description>
+      <enclosure url="https://images.fd.nl/890505-890632.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
+      <pubDate>Sun, 11 Oct 2026 22:30:00 GMT</pubDate>
+      <guid>https://fd.nl/tech-en-innovatie/1615159/eerste-klant-voor-groot-ai-datacenter-bij-rotterdam-nu-gaat-de-klok-tikken</guid>
+    </item>
+    <item>
       <title>Trump eist einde aan Oekraïense aanvallen op raffinaderijen; bestand met vraagtekens omgeven</title>
       <link>https://fd.nl/politiek/1615193/trump-eist-einde-aan-oekraiense-aanvallen-op-raffinaderijen-bestand-met-vraagtekens-omgeven</link>
-      <description>De dieseldeal tussen de VS en Rusland is een harde klap voor Oekraïne en zet de onderlinge relaties onder hoogspanning. </description>
+      <description>De dieseldeal tussen de VS en Rusland heeft de relatie met Oekraïne en Europa onder hoogspanning gezet. De Amerikanen zetten Kyiv nu ook onder druk om te stoppen met drone-aanvallen.</description>
       <enclosure url="https://images.fd.nl/890919-890940.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
       <pubDate>Sun, 11 Oct 2026 18:51:19 GMT</pubDate>
       <guid>https://fd.nl/politiek/1615193/trump-eist-einde-aan-oekraiense-aanvallen-op-raffinaderijen-bestand-met-vraagtekens-omgeven</guid>
@@ -168,7 +176,7 @@
       <title>‘Veilige haven’ Amerika moet nu smeken om toeristen</title>
       <link>https://fd.nl/samenleving/1614651/veilige-haven-amerika-moet-nu-smeken-om-toeristen</link>
       <description>Op een beurs in Amsterdam maakte Amerika reclame voor zichzelf. Wat de Verenigde Staten willen? Dat we het land weer leuk vinden. Dat we er weer over dromen. Maar vooral: dat we er weer heen gaan.</description>
-      <enclosure url="https://images.fd.nl/887788-889744.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
+      <enclosure length="0" type="image/jpeg" url="https://images.fd.nl/887788-889744.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" />
       <pubDate>Sat, 10 Oct 2026 08:26:12 GMT</pubDate>
       <guid>https://fd.nl/samenleving/1614651/veilige-haven-amerika-moet-nu-smeken-om-toeristen</guid>
     </item>
@@ -176,7 +184,7 @@
       <title>Waarom ligt het vliegverkeer nog niet stil? En moeten we bang zijn voor hedgefondsen?</title>
       <link>https://fd.nl/economie/1615158/waarom-ligt-het-vliegverkeer-nog-niet-stil-en-moeten-we-bang-zijn-voor-hedgefondsen</link>
       <description>De oorlog in Iran zou onze vliegplannen flink in de war schoppen, maar de kerosine bleef stromen. Ondertussen nemen hedgefondsen steeds grotere risico’s met staatsobligaties. Wat gebeurt er als die financiële hefboom opeens de verkeerde kant op werkt?</description>
-      <enclosure url="https://images.fd.nl/890556-890559.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
+      <enclosure length="0" type="image/jpeg" url="https://images.fd.nl/890556-890559.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" />
       <pubDate>Sat, 10 Oct 2026 03:00:00 GMT</pubDate>
       <guid>https://fd.nl/economie/1615158/waarom-ligt-het-vliegverkeer-nog-niet-stil-en-moeten-we-bang-zijn-voor-hedgefondsen</guid>
     </item>
