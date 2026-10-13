@@ -6,11 +6,35 @@
     <description>Gefilterd op: bedrijfsleven, economie, politiek, samenleving, tech-en-innovatie</description>
     <language>nl</language>
     <copyright>2026 Het Financieele Dagblad Amsterdam. This RSS feed is intended solely for personal, non-commercial use. All use of RSS feeds from Het Financieele Dagblad is subject to the General Terms and Conditions for Subscriptions, Services, and Registrations: https://fdmg.nl/wp-content/uploads/AV_Abonnementen.pdf.</copyright>
-    <pubDate>Tue, 13 Oct 2026 15:57:23 GMT</pubDate>
-    <lastBuildDate>Tue, 13 Oct 2026 15:56:58 GMT</lastBuildDate>
+    <pubDate>Tue, 13 Oct 2026 21:04:17 GMT</pubDate>
+    <lastBuildDate>Tue, 13 Oct 2026 20:28:56 GMT</lastBuildDate>
     <webMaster>webmaster@fd.nl</webMaster>
     <ttl>10</ttl>
     <category>Laatste nieuws</category>
+    <item>
+      <title>AI verruimt het werkgebied van cybercriminelen, blijkt uit hack van Franse koelingen</title>
+      <link>https://fd.nl/bedrijfsleven/1615554/ai-verruimt-het-werkgebied-van-cybercriminelen-zo-blijkt-uit-hack-van-franse-koelingen</link>
+      <description>Supermarkten in Frankrijk zitten met een miljoenenschade na de hack van hun koelsystemen. De koppeling met internet bleek een zwakheid. De vrees is dat AI die meer kan uitbuiten.</description>
+      <enclosure url="https://images.fd.nl/891757-892054.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
+      <pubDate>Tue, 13 Oct 2026 16:46:36 GMT</pubDate>
+      <guid>https://fd.nl/bedrijfsleven/1615554/ai-verruimt-het-werkgebied-van-cybercriminelen-zo-blijkt-uit-hack-van-franse-koelingen</guid>
+    </item>
+    <item>
+      <title>ING schrapt laatste bankrekening van Gazprom na vijf keer uitstel</title>
+      <link>https://fd.nl/bedrijfsleven/1615557/ing-schrapt-laatste-bankrekening-van-gazprom-na-vijf-keer-uitstel</link>
+      <description>Gazprom International Projects bv vreest door een opzegging door ING de laatste betaalfaciliteit in de eurozone kwijt te raken. Het eist bij de rechter dat de bank de rekening open houdt.</description>
+      <enclosure url="https://images.fd.nl/891882-891977.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
+      <pubDate>Tue, 13 Oct 2026 16:39:22 GMT</pubDate>
+      <guid>https://fd.nl/bedrijfsleven/1615557/ing-schrapt-laatste-bankrekening-van-gazprom-na-vijf-keer-uitstel</guid>
+    </item>
+    <item>
+      <title>Oekraïne bestookt datacenters van Yandex, maar raakte het ook de Russische propagandamachine?</title>
+      <link>https://fd.nl/bedrijfsleven/1615553/oekraine-bestookt-datacenters-van-yandex-maar-raakte-het-ook-de-russische-propagandamachine</link>
+      <description>Kyiv zegt dat het met zijn drones Russische desinformatiebots uit de lucht heeft geschoten, maar meer dan anekdotisch bewijs is er niet. Wel is duidelijk dat de IT-industrie van Rusland hard geraakt is.</description>
+      <enclosure url="https://images.fd.nl/891784-892375.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
+      <pubDate>Tue, 13 Oct 2026 16:22:11 GMT</pubDate>
+      <guid>https://fd.nl/bedrijfsleven/1615553/oekraine-bestookt-datacenters-van-yandex-maar-raakte-het-ook-de-russische-propagandamachine</guid>
+    </item>
     <item>
       <title>Netflix haalt Spaanse uitzendrechten voor WK voetbal binnen</title>
       <link>https://fd.nl/bedrijfsleven/1615579/netflix-haalt-spaanse-uitzendrechten-voor-wk-voetbal-binnen</link>
@@ -29,7 +53,7 @@
     <item>
       <title>Lege schappen door cybercrisis laten zien: in kwetsbare Nederlandse keten komt voedsel geen minuut te vroeg</title>
       <link>https://fd.nl/bedrijfsleven/1615576/lege-schappen-door-cybercrisis-laten-zien-in-kwetsbare-nederlandse-keten-komt-voedsel-geen-minuut-te-vroeg</link>
-      <description>Bedrijven die dagelijks zorgen voor eten op de borden, kijken pas sinds kort naar weerbaarheid. ‘Maar we moeten ook een dagje zonder de supermarkt kunnen.’</description>
+      <description>Bedrijven die dagelijks zorgen voor eten op de borden, kijken pas sinds kort naar weerbaarheid. ‘Vroeg of laat vertaalt dat zich in hogere prijzen aan de kassa.’</description>
       <enclosure url="https://images.fd.nl/891935-892355.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
       <pubDate>Tue, 13 Oct 2026 15:35:04 GMT</pubDate>
       <guid>https://fd.nl/bedrijfsleven/1615576/lege-schappen-door-cybercrisis-laten-zien-in-kwetsbare-nederlandse-keten-komt-voedsel-geen-minuut-te-vroeg</guid>
@@ -73,7 +97,7 @@
       <guid>https://fd.nl/samenleving/1615379/noem-de-schilderijen-van-robert-zandvliet-vooral-niet-abstract</guid>
     </item>
     <item>
-      <title>Ahold Delhaize herstart IT-systemen</title>
+      <title>Ahold Delhaize herstart IT-systemen, ceo wil niet zeggen of incident een hack was</title>
       <link>https://fd.nl/bedrijfsleven/1615559/ahold-delhaize-herstart-it-systemen</link>
       <description>Welke systemen weer in de lucht zijn, is niet duidelijk. Het moederbedrijf van Albert Heijn zegt met externe cyberveiligheidsexperts te werken om de problemen op te lossen.</description>
       <enclosure url="https://images.fd.nl/891885-891979.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
@@ -153,7 +177,7 @@
       <title>Heijmans verzekert zich van meerjarenklus Eindhoven Airport</title>
       <link>https://fd.nl/bedrijfsleven/1615416/heijmans-verzekert-zich-van-meerjarenklus-eindhoven-airport</link>
       <description>De beursgenoteerde bouwer gaat voor een onbekend bedrag de komende jaren onderhoud en verbouwingen doen voor de tweede luchthaven van Nederland.</description>
-      <enclosure url="https://images.fd.nl/891812-891834.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
+      <enclosure length="0" type="image/jpeg" url="https://images.fd.nl/891812-891834.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" />
       <pubDate>Tue, 13 Oct 2026 09:51:39 GMT</pubDate>
       <guid>https://fd.nl/bedrijfsleven/1615416/heijmans-verzekert-zich-van-meerjarenklus-eindhoven-airport</guid>
     </item>
@@ -168,7 +192,7 @@
       <title>Een uitbundige villa in Putten met onder meer een gouden wc-pot</title>
       <link>https://fd.nl/samenleving/1615384/een-uitbundige-villa-in-putten-met-onder-meer-een-gouden-wc-pot</link>
       <description>Het door subtropisch groen omgeven zwembad nodigt uit tot een duik. ‘Met de hitte deze zomer zaten hier wel twintig man.’</description>
-      <enclosure url="https://images.fd.nl/891136-891149.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
+      <enclosure length="0" type="image/jpeg" url="https://images.fd.nl/891136-891149.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" />
       <pubDate>Tue, 13 Oct 2026 07:30:00 GMT</pubDate>
       <guid>https://fd.nl/samenleving/1615384/een-uitbundige-villa-in-putten-met-onder-meer-een-gouden-wc-pot</guid>
     </item>
