@@ -6,11 +6,56 @@
     <description>Gefilterd op: bedrijfsleven, economie, politiek, samenleving, tech-en-innovatie</description>
     <language>nl</language>
     <copyright>2026 Het Financieele Dagblad Amsterdam. This RSS feed is intended solely for personal, non-commercial use. All use of RSS feeds from Het Financieele Dagblad is subject to the General Terms and Conditions for Subscriptions, Services, and Registrations: https://fdmg.nl/wp-content/uploads/AV_Abonnementen.pdf.</copyright>
-    <pubDate>Tue, 13 Oct 2026 01:20:22 GMT</pubDate>
-    <lastBuildDate>Mon, 12 Oct 2026 22:30:00 GMT</lastBuildDate>
+    <pubDate>Tue, 13 Oct 2026 08:05:19 GMT</pubDate>
+    <lastBuildDate>Tue, 13 Oct 2026 07:30:00 GMT</lastBuildDate>
     <webMaster>webmaster@fd.nl</webMaster>
     <ttl>10</ttl>
     <category>Laatste nieuws</category>
+    <item>
+      <title>Een uitbundige villa in Putten met onder meer een gouden wc-pot</title>
+      <link>https://fd.nl/samenleving/1615384/een-uitbundige-villa-in-putten-met-onder-meer-een-gouden-wc-pot</link>
+      <description>Het door subtropisch groen omgeven zwembad nodigt uit tot een duik. ‘Met de hitte deze zomer zaten hier wel twintig man.’</description>
+      <enclosure url="https://images.fd.nl/891136-891149.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
+      <pubDate>Tue, 13 Oct 2026 07:30:00 GMT</pubDate>
+      <guid>https://fd.nl/samenleving/1615384/een-uitbundige-villa-in-putten-met-onder-meer-een-gouden-wc-pot</guid>
+    </item>
+    <item>
+      <title>Oekraïens schip zinkt voor Bulgaarse kust na droneaanval</title>
+      <link>https://fd.nl/politiek/1615409/oekraiens-schip-zinkt-voor-bulgaarse-kust-na-droneaanval</link>
+      <description>Welk land de aanval heeft uitgevoerd, is niet duidelijk. De Bulgaarse premier ontbiedt hoe dan ook de Russische ambassadeur.</description>
+      <pubDate>Tue, 13 Oct 2026 06:54:33 GMT</pubDate>
+      <guid>https://fd.nl/politiek/1615409/oekraiens-schip-zinkt-voor-bulgaarse-kust-na-droneaanval</guid>
+    </item>
+    <item>
+      <title>Inflatie kwam in september uit op 3,4%</title>
+      <link>https://fd.nl/economie/1615545/inflatie-kwam-in-september-uit-op-3-4</link>
+      <description>Met name brandstof werd duurder.</description>
+      <pubDate>Tue, 13 Oct 2026 06:29:16 GMT</pubDate>
+      <guid>https://fd.nl/economie/1615545/inflatie-kwam-in-september-uit-op-3-4</guid>
+    </item>
+    <item>
+      <title>‘Kort geding tegen Meta om AI-brillen’</title>
+      <link>https://fd.nl/bedrijfsleven/1615406/kort-geding-tegen-meta-om-ai-brillen</link>
+      <description>Nu.nl schrijft dat de Consumentenbond en de stichtingen Offlimits en The Firewall een kort geding tegen Meta starten.</description>
+      <pubDate>Tue, 13 Oct 2026 05:51:39 GMT</pubDate>
+      <guid>https://fd.nl/bedrijfsleven/1615406/kort-geding-tegen-meta-om-ai-brillen</guid>
+    </item>
+    <item>
+      <title>Wanneer wordt een schoonheidsideaal voor jongens, zoals bij looksmaxxing, dwingend?</title>
+      <link>https://fd.nl/samenleving/1615376/wanneer-wordt-een-schoonheidsideaal-voor-jongens-zoals-bij-looksmaxxing-dwingend</link>
+      <description>Veel jongens zijn erg met hun uiterlijk bezig. Dat staat ze vrij, vindt cosmetisch arts Tom Decates. Socioloog Luuc Brans stelt dat zich aanpassen aan de norm schadelijk kan zijn.</description>
+      <enclosure url="https://images.fd.nl/891070-891072.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
+      <pubDate>Tue, 13 Oct 2026 04:00:00 GMT</pubDate>
+      <guid>https://fd.nl/samenleving/1615376/wanneer-wordt-een-schoonheidsideaal-voor-jongens-zoals-bij-looksmaxxing-dwingend</guid>
+    </item>
+    <item>
+      <title>AI-revolutie kan de wereldeconomie maken of breken, stelt het IMF</title>
+      <link>https://fd.nl/economie/1615492/ai-revolutie-kan-de-wereldeconomie-maken-of-breken-stelt-het-imf</link>
+      <description>De AI-revolutie kan de wereldeconomie een extra boost geven, maar ook als een sleepanker fungeren. Met verschillende scenario’s maakt het IMF duidelijk hoe groot de rol van technologie is geworden.</description>
+      <enclosure url="https://images.fd.nl/891498-891548.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
+      <pubDate>Tue, 13 Oct 2026 02:00:00 GMT</pubDate>
+      <guid>https://fd.nl/economie/1615492/ai-revolutie-kan-de-wereldeconomie-maken-of-breken-stelt-het-imf</guid>
+    </item>
     <item>
       <title>ING draagt voor €5 mrd risico’s over aan pensioenuitvoerder PGGM</title>
       <link>https://fd.nl/bedrijfsleven/1615397/ing-draagt-voor-5-mrd-risicos-over-aan-pensioenuitvoerder-pggm</link>
@@ -108,7 +153,7 @@
       <title>Soepele transportcorridors moeten EU weerbaarder maken in grillige wereld</title>
       <link>https://fd.nl/politiek/1615401/soepele-transportcorridors-moeten-eu-weerbaarder-maken-in-grillige-wereld</link>
       <description>De EU heeft het grondstofrijke Centraal-Azië ontdekt als nieuwe handelspartner. Maar om de producten van daar hierheen te krijgen zijn soepele en betrouwbare vervoersroutes nodig.</description>
-      <enclosure url="https://images.fd.nl/891397-891509.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
+      <enclosure length="0" type="image/jpeg" url="https://images.fd.nl/891397-891509.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" />
       <pubDate>Mon, 12 Oct 2026 14:52:19 GMT</pubDate>
       <guid>https://fd.nl/politiek/1615401/soepele-transportcorridors-moeten-eu-weerbaarder-maken-in-grillige-wereld</guid>
     </item>
@@ -116,7 +161,7 @@
       <title>Abdul-Malik al-Houthi is het enigma van de oliemarkt</title>
       <link>https://fd.nl/samenleving/1615388/abdul-malik-al-houthi-is-het-enigma-van-de-oliemarkt</link>
       <description>Afgelopen weekend vielen de Houthi’s de internationale luchthaven van Riyad in Saoedi-Arabië aan. De leider van deze beweging is Abdul-Malik al-Houthi, die zich zelden in het openbaar laat zien.  </description>
-      <enclosure url="https://images.fd.nl/881117-891588.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
+      <enclosure length="0" type="image/jpeg" url="https://images.fd.nl/881117-891588.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" />
       <pubDate>Mon, 12 Oct 2026 14:46:00 GMT</pubDate>
       <guid>https://fd.nl/samenleving/1615388/abdul-malik-al-houthi-is-het-enigma-van-de-oliemarkt</guid>
     </item>
@@ -124,7 +169,7 @@
       <title>Hoogste Navo-commandant: ‘Als iemand dom genoeg is om ons aan te vallen, dan slaan we hard terug’</title>
       <link>https://fd.nl/politiek/1615383/hoogste-navo-commandant-als-iemand-dom-genoeg-is-om-ons-aan-te-vallen-dan-slaan-we-hard-terug</link>
       <description>Een aanval op een Navo-lidstaat is ‘volkomen zinloos’, stelt de generaal. De boodschap van de commandant, die normaal niet publiekelijk strategie bespreekt, leek aan Moskou gericht, ook al noemde hij Rusland niet in zijn toespraak.  </description>
-      <enclosure url="https://images.fd.nl/891102-891413.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
+      <enclosure length="0" type="image/jpeg" url="https://images.fd.nl/891102-891413.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" />
       <pubDate>Mon, 12 Oct 2026 13:27:36 GMT</pubDate>
       <guid>https://fd.nl/politiek/1615383/hoogste-navo-commandant-als-iemand-dom-genoeg-is-om-ons-aan-te-vallen-dan-slaan-we-hard-terug</guid>
     </item>
@@ -132,7 +177,7 @@
       <title>Peking wil dat Chinese automakers ketens en kennis met elkaar delen</title>
       <link>https://fd.nl/bedrijfsleven/1615390/chinese-autobouwers-zoeken-elkaar-op-voor-door-staat-gewenste-samenwerking</link>
       <description>De Communistische Partij wil dat Chinese autofabrikanten meer gebruikmaken van elkaars technologie, infrastructuur en toeleveringsketens voor elektrische auto's.</description>
-      <enclosure url="https://images.fd.nl/887981-889541.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
+      <enclosure length="0" type="image/jpeg" url="https://images.fd.nl/887981-889541.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" />
       <pubDate>Mon, 12 Oct 2026 12:52:00 GMT</pubDate>
       <guid>https://fd.nl/bedrijfsleven/1615390/chinese-autobouwers-zoeken-elkaar-op-voor-door-staat-gewenste-samenwerking</guid>
     </item>
@@ -147,7 +192,7 @@
       <title>Nobelprijs economie naar onderzoekers die Keynes rehabiliteerden</title>
       <link>https://fd.nl/economie/1615382/nobelprijs-economie-voor-onderzoekers-die-keynes-rehabiliteerden</link>
       <description>Robert Hall en Michael Woodford deden onderzoek naar hoe beleidsmakers de economie kunnen stabiliseren door te kijken naar de daadwerkelijke beslissingen van gezinnen en bedrijven.</description>
-      <enclosure url="https://images.fd.nl/891064-891266.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
+      <enclosure length="0" type="image/jpeg" url="https://images.fd.nl/891064-891266.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" />
       <pubDate>Mon, 12 Oct 2026 10:51:26 GMT</pubDate>
       <guid>https://fd.nl/economie/1615382/nobelprijs-economie-voor-onderzoekers-die-keynes-rehabiliteerden</guid>
     </item>
