@@ -6,11 +6,27 @@
     <description>Gefilterd op: bedrijfsleven, economie, politiek, samenleving, tech-en-innovatie</description>
     <language>nl</language>
     <copyright>2026 Het Financieele Dagblad Amsterdam. This RSS feed is intended solely for personal, non-commercial use. All use of RSS feeds from Het Financieele Dagblad is subject to the General Terms and Conditions for Subscriptions, Services, and Registrations: https://fdmg.nl/wp-content/uploads/AV_Abonnementen.pdf.</copyright>
-    <pubDate>Wed, 14 Oct 2026 00:17:26 GMT</pubDate>
-    <lastBuildDate>Tue, 13 Oct 2026 22:30:00 GMT</lastBuildDate>
+    <pubDate>Wed, 14 Oct 2026 05:10:54 GMT</pubDate>
+    <lastBuildDate>Wed, 14 Oct 2026 05:07:18 GMT</lastBuildDate>
     <webMaster>webmaster@fd.nl</webMaster>
     <ttl>10</ttl>
     <category>Laatste nieuws</category>
+    <item>
+      <title>Kruidvat-ceo Ed van de Weerd redde een leven: ‘Ik dacht fuck it en sprong’</title>
+      <link>https://fd.nl/bedrijfsleven/1614978/kruidvat-ceo-ed-van-de-weerd-redde-een-leven-ik-dacht-fuck-it-en-sprong</link>
+      <description>Ed van de Weerd schopte het tot de top van een miljardenbedrijf, maar vraagt zich inmiddels af waar die bewijsdrang goed voor was. En waarom hij die ene avond in Hongkong eigenlijk voor zichzelf wilde houden.</description>
+      <enclosure url="https://images.fd.nl/889350-891949.png?fit=crop&amp;crop=faces&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
+      <pubDate>Wed, 14 Oct 2026 04:00:00 GMT</pubDate>
+      <guid>https://fd.nl/bedrijfsleven/1614978/kruidvat-ceo-ed-van-de-weerd-redde-een-leven-ik-dacht-fuck-it-en-sprong</guid>
+    </item>
+    <item>
+      <title>Het sluipweggetje langs de schuldenberg gaat mogelijk weer open: economen vrezen financiële repressie</title>
+      <link>https://fd.nl/economie/1615546/het-sluipweggetje-langs-de-schuldenberg-gaat-mogelijk-weer-open-economen-vrezen-financiele-repressie</link>
+      <description>Het IMF maant landen hun staatsschulden te beteugelen. Intussen vrezen economen van het fonds dat regeringen een oude truc van stal halen: financiële repressie.</description>
+      <enclosure url="https://images.fd.nl/891691-892246.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
+      <pubDate>Wed, 14 Oct 2026 02:00:00 GMT</pubDate>
+      <guid>https://fd.nl/economie/1615546/het-sluipweggetje-langs-de-schuldenberg-gaat-mogelijk-weer-open-economen-vrezen-financiele-repressie</guid>
+    </item>
     <item>
       <title>AI verruimt het werkgebied van cybercriminelen, blijkt uit hack van Franse koelingen</title>
       <link>https://fd.nl/bedrijfsleven/1615554/ai-verruimt-het-werkgebied-van-cybercriminelen-zo-blijkt-uit-hack-van-franse-koelingen</link>
@@ -130,7 +146,7 @@
       <title>DigiD-beheerder Solvinity vangt bot, kabinet houdt vast aan verbod op overname</title>
       <link>https://fd.nl/politiek/1615422/digid-beheerder-solvinity-vangt-bot-kabinet-houdt-vast-aan-verbod-op-overname</link>
       <description>Het Amsterdamse Solvinity is er met zijn Britse aandeelhouder niet in geslaagd om het kabinetsverbod voor een overname door het Amerikaanse Kyndryl van tafel te krijgen.</description>
-      <enclosure url="https://images.fd.nl/890854-891961.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
+      <enclosure length="0" type="image/jpeg" url="https://images.fd.nl/890854-891961.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" />
       <pubDate>Tue, 13 Oct 2026 12:38:46 GMT</pubDate>
       <guid>https://fd.nl/politiek/1615422/digid-beheerder-solvinity-vangt-bot-kabinet-houdt-vast-aan-verbod-op-overname</guid>
     </item>
@@ -138,7 +154,7 @@
       <title>Datacenters kijken naar Latijns-Amerika nu weerstand in de VS groeit</title>
       <link>https://fd.nl/economie/1613138/datacenters-kijken-naar-latijns-amerika-nu-weerstand-in-de-vs-groeit</link>
       <description>Latijns-Amerika doet er alles aan om AI-datacenters en hun mega-investeringen aan te trekken. Dat lukt mondjesmaat, met perspectief op veel meer.</description>
-      <enclosure url="https://images.fd.nl/881978-885422.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
+      <enclosure length="0" type="image/jpeg" url="https://images.fd.nl/881978-885422.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" />
       <pubDate>Tue, 13 Oct 2026 12:35:00 GMT</pubDate>
       <guid>https://fd.nl/economie/1613138/datacenters-kijken-naar-latijns-amerika-nu-weerstand-in-de-vs-groeit</guid>
     </item>
@@ -146,7 +162,7 @@
       <title>Groep Nederlandse bedrijven lanceert eigen digitale wallet: MyCheck</title>
       <link>https://fd.nl/bedrijfsleven/1615552/groep-nederlandse-bedrijven-lanceert-eigen-digitale-wallet-mycheck</link>
       <description>Betalen vanuit de digitale portemonnee is niet het hoofddoel. MyCheck moet primair identiteitsgegevens bevatten, nodig voor leeftijdsverificatie en het zetten van een elektronische handtekening.</description>
-      <enclosure url="https://images.fd.nl/890718-891861.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
+      <enclosure length="0" type="image/jpeg" url="https://images.fd.nl/890718-891861.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" />
       <pubDate>Tue, 13 Oct 2026 12:30:00 GMT</pubDate>
       <guid>https://fd.nl/bedrijfsleven/1615552/groep-nederlandse-bedrijven-lanceert-eigen-digitale-wallet-mycheck</guid>
     </item>
@@ -154,7 +170,7 @@
       <title>Vijfduizend studenten hebben een ton studieschuld: ‘Ik zou het zo weer doen’</title>
       <link>https://fd.nl/samenleving/1615029/vijfduizend-studenten-hebben-een-ton-studieschuld-ik-zou-het-zo-weer-doen</link>
       <description>Bijna vijfduizend studenten en oud-studenten hebben in 2026 een studieschuld van €100.000 of hoger. In 2025 waren het er ruim drieduizend. Hoe erg is dat?</description>
-      <enclosure url="https://images.fd.nl/888524-890457.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
+      <enclosure length="0" type="image/jpeg" url="https://images.fd.nl/888524-890457.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" />
       <pubDate>Tue, 13 Oct 2026 12:06:20 GMT</pubDate>
       <guid>https://fd.nl/samenleving/1615029/vijfduizend-studenten-hebben-een-ton-studieschuld-ik-zou-het-zo-weer-doen</guid>
     </item>
