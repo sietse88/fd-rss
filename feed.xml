@@ -6,11 +6,25 @@
     <description>Gefilterd op: bedrijfsleven, economie, politiek, samenleving, tech-en-innovatie</description>
     <language>nl</language>
     <copyright>2026 Het Financieele Dagblad Amsterdam. This RSS feed is intended solely for personal, non-commercial use. All use of RSS feeds from Het Financieele Dagblad is subject to the General Terms and Conditions for Subscriptions, Services, and Registrations: https://fdmg.nl/wp-content/uploads/AV_Abonnementen.pdf.</copyright>
-    <pubDate>Wed, 14 Oct 2026 19:24:26 GMT</pubDate>
-    <lastBuildDate>Wed, 14 Oct 2026 19:04:43 GMT</lastBuildDate>
+    <pubDate>Wed, 14 Oct 2026 22:28:54 GMT</pubDate>
+    <lastBuildDate>Wed, 14 Oct 2026 20:38:13 GMT</lastBuildDate>
     <webMaster>webmaster@fd.nl</webMaster>
     <ttl>10</ttl>
     <category>Laatste nieuws</category>
+    <item>
+      <title>Zelensky beschuldigt Amerikanen van afsluiten internet</title>
+      <link>https://fd.nl/politiek/1615670/zelensky-beschuldigt-amerikanen-van-afsluiten-internet</link>
+      <description>Volgens Musk gaat niet hij, maar alleen de Amerikaanse overheid over het gebruik van Starshield.</description>
+      <pubDate>Wed, 14 Oct 2026 20:38:13 GMT</pubDate>
+      <guid>https://fd.nl/politiek/1615670/zelensky-beschuldigt-amerikanen-van-afsluiten-internet</guid>
+    </item>
+    <item>
+      <title>Nederlandse ceo van cosmeticabedrijf Douglas stapt op</title>
+      <link>https://fd.nl/bedrijfsleven/1615647/nederlandse-ceo-van-cosmeticabedrijf-douglas-stapt-op</link>
+      <description>De 58-jarige Nederlander zegt dat het zijn eigen beslissing is om te stoppen als leider van het bedrijf, na een carrière van 36 jaar in de retailsector.</description>
+      <pubDate>Wed, 14 Oct 2026 19:45:24 GMT</pubDate>
+      <guid>https://fd.nl/bedrijfsleven/1615647/nederlandse-ceo-van-cosmeticabedrijf-douglas-stapt-op</guid>
+    </item>
     <item>
       <title>Cybercrisis kost Ahold Delhaize ‘tientallen miljoenen per dag’</title>
       <link>https://fd.nl/bedrijfsleven/1615625/cybercrisis-kost-ahold-delhaize-tientallen-miljoenen-per-dag</link>
@@ -174,7 +188,7 @@
       <title>Locomotief maakt plaats voor pantservoertuig in Duitse treinstad Kassel</title>
       <link>https://fd.nl/bedrijfsleven/1615389/teken-des-tijds-de-laatste-loc-dreigt-te-vertrekken-uit-treinstad-kassel</link>
       <description>De sterk groeiende Duitse defensiesector redt banen in de kwakkelende industrie, maar daarbij gaat industriële historie verloren. </description>
-      <enclosure url="https://images.fd.nl/891006-892306.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
+      <enclosure length="0" type="image/jpeg" url="https://images.fd.nl/891006-892306.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" />
       <pubDate>Wed, 14 Oct 2026 10:02:00 GMT</pubDate>
       <guid>https://fd.nl/bedrijfsleven/1615389/teken-des-tijds-de-laatste-loc-dreigt-te-vertrekken-uit-treinstad-kassel</guid>
     </item>
