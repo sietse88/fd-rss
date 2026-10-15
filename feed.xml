@@ -6,11 +6,32 @@
     <description>Gefilterd op: bedrijfsleven, economie, politiek, samenleving, tech-en-innovatie</description>
     <language>nl</language>
     <copyright>2026 Het Financieele Dagblad Amsterdam. This RSS feed is intended solely for personal, non-commercial use. All use of RSS feeds from Het Financieele Dagblad is subject to the General Terms and Conditions for Subscriptions, Services, and Registrations: https://fdmg.nl/wp-content/uploads/AV_Abonnementen.pdf.</copyright>
-    <pubDate>Thu, 15 Oct 2026 19:10:02 GMT</pubDate>
-    <lastBuildDate>Thu, 15 Oct 2026 18:00:00 GMT</lastBuildDate>
+    <pubDate>Thu, 15 Oct 2026 22:16:41 GMT</pubDate>
+    <lastBuildDate>Thu, 15 Oct 2026 20:40:06 GMT</lastBuildDate>
     <webMaster>webmaster@fd.nl</webMaster>
     <ttl>10</ttl>
     <category>Laatste nieuws</category>
+    <item>
+      <title>ECB akkoord met overname Commerzbank door UniCredit</title>
+      <link>https://fd.nl/bedrijfsleven/1615843/ecb-akkoord-met-overname-commerzbank-door-unicredit</link>
+      <description>Door de toestemming van de bankentoezichthouder in Frankfurt is een belangrijke horde bij de inlijving van de Duitse financiële instelling genomen. </description>
+      <pubDate>Thu, 15 Oct 2026 20:40:06 GMT</pubDate>
+      <guid>https://fd.nl/bedrijfsleven/1615843/ecb-akkoord-met-overname-commerzbank-door-unicredit</guid>
+    </item>
+    <item>
+      <title>Anthropic verleent toegang tot zijn AI-systemen aan stichting die veiligheid onderzoekt</title>
+      <link>https://fd.nl/bedrijfsleven/1615840/anthropic-verleent-toegang-tot-zijn-ai-systemen-aan-stichting-die-veiligheid-onderzoekt</link>
+      <description>‘We willen verantwoordelijk gehouden worden voor de beslissingen die we maken’, schrijft de maker van chatbot Claude in een persbericht.</description>
+      <pubDate>Thu, 15 Oct 2026 20:00:56 GMT</pubDate>
+      <guid>https://fd.nl/bedrijfsleven/1615840/anthropic-verleent-toegang-tot-zijn-ai-systemen-aan-stichting-die-veiligheid-onderzoekt</guid>
+    </item>
+    <item>
+      <title>‘EU werkt aan instrument dat toegang tot de interne markt kan afsluiten’</title>
+      <link>https://fd.nl/economie/1615771/eu-werkt-aan-instrument-dat-toegang-tot-de-interne-markt-kan-afsluiten</link>
+      <description>Het instrument moet dienen als een maatregel om andere landen ervan te weerhouden een handelsoorlog met de EU te beginnen.</description>
+      <pubDate>Thu, 15 Oct 2026 19:20:45 GMT</pubDate>
+      <guid>https://fd.nl/economie/1615771/eu-werkt-aan-instrument-dat-toegang-tot-de-interne-markt-kan-afsluiten</guid>
+    </item>
     <item>
       <title>Sterke stijging stroomvraag voor nieuwe datacenters</title>
       <link>https://fd.nl/tech-en-innovatie/1615778/sterke-stijging-stroomvraag-voor-nieuwe-datacenters</link>
@@ -166,7 +187,7 @@
       <title>Jaguar ruziet met BYD over SUV die kopie zou zijn van Land Rover Defender</title>
       <link>https://fd.nl/bedrijfsleven/1615638/jaguar-ruziet-met-byd-over-suv-die-kopie-zou-zijn-van-land-rover-defender</link>
       <description>De twee autofabrikanten stonden deze week in Den Haag voor de rechter. Jaguar heeft in Nederland beslag laten leggen op administratie van BYD en eist dat de rechter dwangsommen oplegt.</description>
-      <enclosure url="https://images.fd.nl/892922-893016.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
+      <enclosure length="0" type="image/jpeg" url="https://images.fd.nl/892922-893016.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" />
       <pubDate>Thu, 15 Oct 2026 10:08:37 GMT</pubDate>
       <guid>https://fd.nl/bedrijfsleven/1615638/jaguar-ruziet-met-byd-over-suv-die-kopie-zou-zijn-van-land-rover-defender</guid>
     </item>
