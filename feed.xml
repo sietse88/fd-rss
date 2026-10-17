@@ -6,15 +6,23 @@
     <description>Gefilterd op: bedrijfsleven, economie, politiek, samenleving, tech-en-innovatie</description>
     <language>nl</language>
     <copyright>2026 Het Financieele Dagblad Amsterdam. This RSS feed is intended solely for personal, non-commercial use. All use of RSS feeds from Het Financieele Dagblad is subject to the General Terms and Conditions for Subscriptions, Services, and Registrations: https://fdmg.nl/wp-content/uploads/AV_Abonnementen.pdf.</copyright>
-    <pubDate>Sat, 17 Oct 2026 11:45:48 GMT</pubDate>
-    <lastBuildDate>Sat, 17 Oct 2026 11:44:56 GMT</lastBuildDate>
+    <pubDate>Sat, 17 Oct 2026 14:56:57 GMT</pubDate>
+    <lastBuildDate>Sat, 17 Oct 2026 14:47:31 GMT</lastBuildDate>
     <webMaster>webmaster@fd.nl</webMaster>
     <ttl>10</ttl>
     <category>Laatste nieuws</category>
     <item>
+      <title>Zelensky: Starlink-vertraging op Oekraïens grondgebied is ‘geplande operatie’</title>
+      <link>https://fd.nl/politiek/1616079/zelensky-starlink-vertraging-op-oekraiens-grondgebied-is-geplande-operatie</link>
+      <description>Kyiv meldde eerder deze week dat de toegang tot Starlink-systemen van SpaceX was beperkt.</description>
+      <pubDate>Sat, 17 Oct 2026 14:47:31 GMT</pubDate>
+      <guid>https://fd.nl/politiek/1616079/zelensky-starlink-vertraging-op-oekraiens-grondgebied-is-geplande-operatie</guid>
+    </item>
+    <item>
       <title>Politie grijpt in bij grootschalige protesten in Frankrijk</title>
       <link>https://fd.nl/samenleving/1616007/politie-grijpt-in-bij-grootschalige-protesten-in-frankrijk</link>
-      <description />
+      <description>De Fransen protesteren tegen de stijgende kosten van het levensonderhoud en willen verandering. De regering kan weinig structureel beleid maken: er is geen geld voor.</description>
+      <enclosure url="https://images.fd.nl/894691-894703.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
       <pubDate>Sat, 17 Oct 2026 11:44:56 GMT</pubDate>
       <guid>https://fd.nl/samenleving/1616007/politie-grijpt-in-bij-grootschalige-protesten-in-frankrijk</guid>
     </item>
@@ -177,7 +185,7 @@
       <title>Een beetje architect heeft ook een stoel op zijn naam</title>
       <link>https://fd.nl/samenleving/1615630/een-beetje-architect-heeft-ook-een-stoel-op-zijn-naam</link>
       <description>Architecten namen graag de plaats in van de interieurdesigner. Het resultaat: meubilair met fraaie architectonische trekken. En waaraan vaak stiekem een vrouw meewerkte.</description>
-      <enclosure url="https://images.fd.nl/892811-892835.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
+      <enclosure length="0" type="image/jpeg" url="https://images.fd.nl/892811-892835.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" />
       <pubDate>Fri, 16 Oct 2026 13:30:00 GMT</pubDate>
       <guid>https://fd.nl/samenleving/1615630/een-beetje-architect-heeft-ook-een-stoel-op-zijn-naam</guid>
     </item>
