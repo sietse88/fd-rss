@@ -6,25 +6,18 @@
     <description>Gefilterd op: bedrijfsleven, economie, politiek, samenleving, tech-en-innovatie</description>
     <language>nl</language>
     <copyright>2026 Het Financieele Dagblad Amsterdam. This RSS feed is intended solely for personal, non-commercial use. All use of RSS feeds from Het Financieele Dagblad is subject to the General Terms and Conditions for Subscriptions, Services, and Registrations: https://fdmg.nl/wp-content/uploads/AV_Abonnementen.pdf.</copyright>
-    <pubDate>Fri, 16 Oct 2026 23:48:59 GMT</pubDate>
+    <pubDate>Sat, 17 Oct 2026 02:58:57 GMT</pubDate>
     <lastBuildDate>Fri, 16 Oct 2026 22:30:00 GMT</lastBuildDate>
     <webMaster>webmaster@fd.nl</webMaster>
     <ttl>10</ttl>
     <category>Laatste nieuws</category>
     <item>
-      <title>Alles gaat mis, maar de economie pruttelt lekker door</title>
-      <link>https://fd.nl/politiek/1615877/alles-gaat-mis-maar-de-economie-pruttelt-lekker-door</link>
-      <description>Een halfjaar na het uitbreken van de oorlog in het Midden-Oosten is het nog steeds wachten op die voorspelde economische neergang. Zijn we met de schrik vrijgekomen?</description>
+      <title>Bouwen. Vliegen. Bijsturen. Hoe SpaceX werkt aan het grootste ruimteschip ooit</title>
+      <link>https://fd.nl/tech-en-innovatie/1615676/bouwen-vliegen-bijsturen-hoe-spacex-werkt-aan-het-grootste-ruimteschip-ooit</link>
+      <description>SpaceX investeert enorm in de reusachtige Starship-raket, waarmee het Amerikaanse bedrijf de ruimte wil veroveren. Voor de rest van de sector heeft die focus een donkere keerzijde.</description>
+      <enclosure url="https://images.fd.nl/891181-892200.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
       <pubDate>Fri, 16 Oct 2026 22:30:00 GMT</pubDate>
-      <guid>https://fd.nl/politiek/1615877/alles-gaat-mis-maar-de-economie-pruttelt-lekker-door</guid>
-    </item>
-    <item>
-      <title>Kabinet wil het absolute minimum kwijt zijn aan infrastructuur</title>
-      <link>https://fd.nl/politiek/1615770/kabinet-wil-het-absolute-minimum-kwijt-zijn-aan-infrastructuur</link>
-      <description>Aanvullende eisen voor infrastructuurprojecten komen voortaan voor rekening van gemeenten of provincies zelf, meldt het kabinet.</description>
-      <enclosure url="https://images.fd.nl/893338-894324.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
-      <pubDate>Fri, 16 Oct 2026 22:30:00 GMT</pubDate>
-      <guid>https://fd.nl/politiek/1615770/kabinet-wil-het-absolute-minimum-kwijt-zijn-aan-infrastructuur</guid>
+      <guid>https://fd.nl/tech-en-innovatie/1615676/bouwen-vliegen-bijsturen-hoe-spacex-werkt-aan-het-grootste-ruimteschip-ooit</guid>
     </item>
     <item>
       <title>Zo breng je meer kleur in huis</title>
@@ -35,12 +28,19 @@
       <guid>https://fd.nl/samenleving/1615743/zo-breng-je-meer-kleur-in-huis</guid>
     </item>
     <item>
-      <title>Bouwen. Vliegen. Bijsturen. Hoe SpaceX werkt aan het grootste ruimteschip ooit</title>
-      <link>https://fd.nl/tech-en-innovatie/1615676/bouwen-vliegen-bijsturen-hoe-spacex-werkt-aan-het-grootste-ruimteschip-ooit</link>
-      <description>SpaceX investeert enorm in de reusachtige Starship-raket, waarmee het Amerikaanse bedrijf de ruimte wil veroveren. Voor de rest van de sector heeft die focus een donkere keerzijde.</description>
-      <enclosure url="https://images.fd.nl/891181-892200.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
+      <title>Kabinet wil het absolute minimum kwijt zijn aan infrastructuur</title>
+      <link>https://fd.nl/politiek/1615770/kabinet-wil-het-absolute-minimum-kwijt-zijn-aan-infrastructuur</link>
+      <description>Aanvullende eisen voor infrastructuurprojecten komen voortaan voor rekening van gemeenten of provincies zelf, meldt het kabinet.</description>
+      <enclosure url="https://images.fd.nl/893338-894324.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
       <pubDate>Fri, 16 Oct 2026 22:30:00 GMT</pubDate>
-      <guid>https://fd.nl/tech-en-innovatie/1615676/bouwen-vliegen-bijsturen-hoe-spacex-werkt-aan-het-grootste-ruimteschip-ooit</guid>
+      <guid>https://fd.nl/politiek/1615770/kabinet-wil-het-absolute-minimum-kwijt-zijn-aan-infrastructuur</guid>
+    </item>
+    <item>
+      <title>Alles gaat mis, maar de economie pruttelt lekker door</title>
+      <link>https://fd.nl/politiek/1615877/alles-gaat-mis-maar-de-economie-pruttelt-lekker-door</link>
+      <description>Een halfjaar na het uitbreken van de oorlog in het Midden-Oosten is het nog steeds wachten op die voorspelde economische neergang. Zijn we met de schrik vrijgekomen?</description>
+      <pubDate>Fri, 16 Oct 2026 22:30:00 GMT</pubDate>
+      <guid>https://fd.nl/politiek/1615877/alles-gaat-mis-maar-de-economie-pruttelt-lekker-door</guid>
     </item>
     <item>
       <title>‘Woordvoerder Witte Huis stapt na vijf dagen alweer op’</title>
