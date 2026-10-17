@@ -6,11 +6,27 @@
     <description>Gefilterd op: bedrijfsleven, economie, politiek, samenleving, tech-en-innovatie</description>
     <language>nl</language>
     <copyright>2026 Het Financieele Dagblad Amsterdam. This RSS feed is intended solely for personal, non-commercial use. All use of RSS feeds from Het Financieele Dagblad is subject to the General Terms and Conditions for Subscriptions, Services, and Registrations: https://fdmg.nl/wp-content/uploads/AV_Abonnementen.pdf.</copyright>
-    <pubDate>Sat, 17 Oct 2026 02:58:57 GMT</pubDate>
-    <lastBuildDate>Fri, 16 Oct 2026 22:30:00 GMT</lastBuildDate>
+    <pubDate>Sat, 17 Oct 2026 07:41:23 GMT</pubDate>
+    <lastBuildDate>Sat, 17 Oct 2026 07:04:31 GMT</lastBuildDate>
     <webMaster>webmaster@fd.nl</webMaster>
     <ttl>10</ttl>
     <category>Laatste nieuws</category>
+    <item>
+      <title>Trump schort sancties tegen Rusland op</title>
+      <link>https://fd.nl/politiek/1616077/trump-schort-sancties-tegen-rusland-op</link>
+      <description>Opschorting is volgens Amerikaanse president in het nationale belang.</description>
+      <enclosure url="https://images.fd.nl/894668-894671.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
+      <pubDate>Sat, 17 Oct 2026 07:04:31 GMT</pubDate>
+      <guid>https://fd.nl/politiek/1616077/trump-schort-sancties-tegen-rusland-op</guid>
+    </item>
+    <item>
+      <title>Waarom is het IMF bang voor de winter? En wat hebben ‘zoutwatereconomen’ met de Nobelprijs?</title>
+      <link>https://fd.nl/economie/1615916/waarom-is-het-imf-bang-voor-de-winter-en-wat-hebben-zoutwatereconomen-met-de-nobelprijs</link>
+      <description>De wereldeconomie blijkt verrassend veerkrachtig, maar steeds meer groei hangt samen met de AI-boom. Wat als die miljardeninvesteringen niet genoeg opleveren? Anna en Marijn bespreken deze week de waarschuwingen van het IMF, maar ook de Nobelprijs voor de Economie.</description>
+      <enclosure url="https://images.fd.nl/894558-894584.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
+      <pubDate>Sat, 17 Oct 2026 03:00:00 GMT</pubDate>
+      <guid>https://fd.nl/economie/1615916/waarom-is-het-imf-bang-voor-de-winter-en-wat-hebben-zoutwatereconomen-met-de-nobelprijs</guid>
+    </item>
     <item>
       <title>Bouwen. Vliegen. Bijsturen. Hoe SpaceX werkt aan het grootste ruimteschip ooit</title>
       <link>https://fd.nl/tech-en-innovatie/1615676/bouwen-vliegen-bijsturen-hoe-spacex-werkt-aan-het-grootste-ruimteschip-ooit</link>
@@ -177,7 +193,7 @@
       <title>Ministerie maakt vrouwenquotum TU Delft niet mogelijk met wetswijziging</title>
       <link>https://fd.nl/politiek/1615906/ministerie-maakt-quotum-tu-delft-niet-mogelijk-met-wetswijziging</link>
       <description>De universiteit wilde ten minste 30% vrouwen toelaten op de bachelorstudie lucht- en ruimtevaarttechniek. Maar het ministerie van Onderwijs wil de wetswijziging die daarvoor nodig is, niet doorvoeren.</description>
-      <enclosure url="https://images.fd.nl/894286-894520.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
+      <enclosure length="0" type="image/jpeg" url="https://images.fd.nl/894286-894520.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" />
       <pubDate>Fri, 16 Oct 2026 12:11:47 GMT</pubDate>
       <guid>https://fd.nl/politiek/1615906/ministerie-maakt-quotum-tu-delft-niet-mogelijk-met-wetswijziging</guid>
     </item>
@@ -192,7 +208,7 @@
       <title>Apax koopt medeaandeelhouder uit bij telecombedrijf Odido</title>
       <link>https://fd.nl/bedrijfsleven/1615856/apax-koopt-medeaandeelhouder-uit-bij-telecombedrijf-odido</link>
       <description>Volgens de Financial Times zou de deal het telecombedrijf waarderen op €6,5 mrd.</description>
-      <enclosure url="https://images.fd.nl/894380-894503.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
+      <enclosure length="0" type="image/jpeg" url="https://images.fd.nl/894380-894503.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" />
       <pubDate>Fri, 16 Oct 2026 11:42:21 GMT</pubDate>
       <guid>https://fd.nl/bedrijfsleven/1615856/apax-koopt-medeaandeelhouder-uit-bij-telecombedrijf-odido</guid>
     </item>
