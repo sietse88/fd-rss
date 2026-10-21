@@ -6,11 +6,19 @@
     <description>Gefilterd op: bedrijfsleven, economie, politiek, samenleving, tech-en-innovatie</description>
     <language>nl</language>
     <copyright>2026 Het Financieele Dagblad Amsterdam. This RSS feed is intended solely for personal, non-commercial use. All use of RSS feeds from Het Financieele Dagblad is subject to the General Terms and Conditions for Subscriptions, Services, and Registrations: https://fdmg.nl/wp-content/uploads/AV_Abonnementen.pdf.</copyright>
-    <pubDate>Tue, 20 Oct 2026 23:56:04 GMT</pubDate>
-    <lastBuildDate>Tue, 20 Oct 2026 22:30:00 GMT</lastBuildDate>
+    <pubDate>Wed, 21 Oct 2026 03:35:11 GMT</pubDate>
+    <lastBuildDate>Wed, 21 Oct 2026 03:00:00 GMT</lastBuildDate>
     <webMaster>webmaster@fd.nl</webMaster>
     <ttl>10</ttl>
     <category>Laatste nieuws</category>
+    <item>
+      <title>Wie kiest Israël als volgende premier?</title>
+      <link>https://fd.nl/economie/1616200/wie-kiest-israel-als-volgende-premier</link>
+      <description>Vandaag in de Dagkoers: het plan voor een EU-brede bedrijfsvorm dreigt te stranden, Israël gaat naar de stembus met een havik als uitdager van Netanyahu en bedrijven strooien ineens met gratis aandelen.</description>
+      <enclosure url="https://images.fd.nl/896208-896211.png?fit=crop&amp;crop=faces&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
+      <pubDate>Wed, 21 Oct 2026 03:00:00 GMT</pubDate>
+      <guid>https://fd.nl/economie/1616200/wie-kiest-israel-als-volgende-premier</guid>
+    </item>
     <item>
       <title>Haagse cyberbeveiliger hekelt OM over opvragen informatie</title>
       <link>https://fd.nl/tech-en-innovatie/1616290/haagse-cyberbeveiliger-hekelt-om-over-opvragen-informatie</link>
@@ -159,7 +167,7 @@
       <title>Welke Israëlische politicus kan premier Netanyahu van de troon stoten?</title>
       <link>https://fd.nl/politiek/1615757/welke-israelische-politicus-kan-premier-netanyahu-verslaan-in-de-strijd-om-de-macht</link>
       <description>Oud-legerchef Gadi Eisenkot is de belangrijkste uitdager van premier Benjamin Netanyahu. Of hij een coalitie kan smeden om premier te worden, is de vraag. </description>
-      <enclosure url="https://images.fd.nl/893690-895810.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
+      <enclosure length="0" type="image/jpeg" url="https://images.fd.nl/893690-895810.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" />
       <pubDate>Tue, 20 Oct 2026 12:34:00 GMT</pubDate>
       <guid>https://fd.nl/politiek/1615757/welke-israelische-politicus-kan-premier-netanyahu-verslaan-in-de-strijd-om-de-macht</guid>
     </item>
