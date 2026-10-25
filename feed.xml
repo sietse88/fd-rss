@@ -6,11 +6,19 @@
     <description>Gefilterd op: bedrijfsleven, economie, politiek, samenleving, tech-en-innovatie</description>
     <language>nl</language>
     <copyright>2026 Het Financieele Dagblad Amsterdam. This RSS feed is intended solely for personal, non-commercial use. All use of RSS feeds from Het Financieele Dagblad is subject to the General Terms and Conditions for Subscriptions, Services, and Registrations: https://fdmg.nl/wp-content/uploads/AV_Abonnementen.pdf.</copyright>
-    <pubDate>Sat, 24 Oct 2026 23:59:15 GMT</pubDate>
-    <lastBuildDate>Sat, 24 Oct 2026 15:56:23 GMT</lastBuildDate>
+    <pubDate>Sun, 25 Oct 2026 04:26:42 GMT</pubDate>
+    <lastBuildDate>Sun, 25 Oct 2026 04:00:00 GMT</lastBuildDate>
     <webMaster>webmaster@fd.nl</webMaster>
     <ttl>10</ttl>
     <category>Laatste nieuws</category>
+    <item>
+      <title>‘Toen ik kanker kreeg, móest ik mezelf vervangbaar maken’</title>
+      <link>https://fd.nl/samenleving/1616492/toen-ik-kanker-kreeg-moest-ik-mezelf-vervangbaar-maken</link>
+      <description>Ondernemer Anouk Binkhuysen werd door ziekte gedwongen het roer om te gooien. Zodat, in het ergste geval, het bedrijf zonder haar kon voortbestaan.</description>
+      <enclosure url="https://images.fd.nl/897745-897770.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
+      <pubDate>Sun, 25 Oct 2026 04:00:00 GMT</pubDate>
+      <guid>https://fd.nl/samenleving/1616492/toen-ik-kanker-kreeg-moest-ik-mezelf-vervangbaar-maken</guid>
+    </item>
     <item>
       <title>Fransen opnieuw de straat op onder massale politieaanwezigheid</title>
       <link>https://fd.nl/politiek/1616776/fransen-opnieuw-de-straat-op-onder-massale-politieaanwezigheid</link>
@@ -185,7 +193,7 @@
       <title>Een horloge in de stijl van Jeff Koons en een filmdrama over de Eerste Wereldoorlog</title>
       <link>https://fd.nl/samenleving/1616287/een-horloge-in-de-stijl-van-jeff-koons-en-een-filmdrama-over-de-eerste-wereldoorlog</link>
       <description>Inspiratie voor een fijn weekend door de redactie van FD Persoonlijk.</description>
-      <enclosure url="https://images.fd.nl/896215-896236.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
+      <enclosure length="0" type="image/jpeg" url="https://images.fd.nl/896215-896236.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" />
       <pubDate>Fri, 23 Oct 2026 13:00:00 GMT</pubDate>
       <guid>https://fd.nl/samenleving/1616287/een-horloge-in-de-stijl-van-jeff-koons-en-een-filmdrama-over-de-eerste-wereldoorlog</guid>
     </item>
