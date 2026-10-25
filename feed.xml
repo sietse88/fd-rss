@@ -6,11 +6,19 @@
     <description>Gefilterd op: bedrijfsleven, economie, politiek, samenleving, tech-en-innovatie</description>
     <language>nl</language>
     <copyright>2026 Het Financieele Dagblad Amsterdam. This RSS feed is intended solely for personal, non-commercial use. All use of RSS feeds from Het Financieele Dagblad is subject to the General Terms and Conditions for Subscriptions, Services, and Registrations: https://fdmg.nl/wp-content/uploads/AV_Abonnementen.pdf.</copyright>
-    <pubDate>Sun, 25 Oct 2026 19:51:21 GMT</pubDate>
-    <lastBuildDate>Sun, 25 Oct 2026 19:00:00 GMT</lastBuildDate>
+    <pubDate>Sun, 25 Oct 2026 22:17:10 GMT</pubDate>
+    <lastBuildDate>Sun, 25 Oct 2026 21:28:55 GMT</lastBuildDate>
     <webMaster>webmaster@fd.nl</webMaster>
     <ttl>10</ttl>
     <category>Laatste nieuws</category>
+    <item>
+      <title>Servische leider Vučić geeft verkiezingsnederlaag toe, studenten stevenen af op winst</title>
+      <link>https://fd.nl/politiek/1616607/servische-leider-vucic-geeft-verkiezingsnederlaag-toe-studenten-stevenen-af-op-winst</link>
+      <description>Een nederlaag van Vučić zou betekenen dat een studentenprotestbeweging voor het eerst erin is geslaagd een autoritaire leider via de stembus te verslaan. </description>
+      <enclosure url="https://images.fd.nl/899101-899106.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
+      <pubDate>Sun, 25 Oct 2026 21:28:55 GMT</pubDate>
+      <guid>https://fd.nl/politiek/1616607/servische-leider-vucic-geeft-verkiezingsnederlaag-toe-studenten-stevenen-af-op-winst</guid>
+    </item>
     <item>
       <title>Oppositieleider Maria Corina Machado terug in Venezuela</title>
       <link>https://fd.nl/politiek/1616604/oppositieleider-maria-corina-machado-terug-in-venezuela</link>
@@ -176,7 +184,7 @@
       <title>Carglass: hoe je met maar één product een multinational wordt</title>
       <link>https://fd.nl/bedrijfsleven/1616338/hoe-je-met-maar-een-product-een-multinational-wordt</link>
       <description>Het FD ging kijken bij Carglass, en vond een onderneming die bijna tegen wil en dank verandert van een dienstverlener in een technologiebedrijf. Moederbedrijf Belron gaat binnenkort in Amsterdam naar de beurs. </description>
-      <enclosure url="https://images.fd.nl/893269-898477.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
+      <enclosure length="0" type="image/jpeg" url="https://images.fd.nl/893269-898477.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" />
       <pubDate>Fri, 23 Oct 2026 22:30:00 GMT</pubDate>
       <guid>https://fd.nl/bedrijfsleven/1616338/hoe-je-met-maar-een-product-een-multinational-wordt</guid>
     </item>
