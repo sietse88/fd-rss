@@ -7377,6 +7377,19 @@
   "pubDate": "Mon, 26 Oct 2026 19:49:21 GMT",
   "title": "Kabinet geeft zichzelf nog een week voor akkoord belastingplan en box 3"
  },
+ "1616894": {
+  "description": "Leuk, een pand aan de Amsterdamse gracht. Jammer van die hordes toeristen, met bijbehorende drukte, rijen en vooral veel afval. En een onnavolgbaar beleid vanuit de gemeente. ",
+  "enclosure": {
+   "length": "0",
+   "type": "image/jpeg",
+   "url": "https://images.fd.nl/899409-899417.jpeg?fit=crop&crop=faces&auto=format%2Ccompress&q=45&w=140&h=140&fm=jpg&cs=tinysrgb"
+  },
+  "first_seen": "Wed, 28 Oct 2026 14:18:13 +0000",
+  "last_seen": "Wed, 28 Oct 2026 14:18:13 +0000",
+  "link": "https://fd.nl/samenleving/1616894/help-ik-woon-in-een-steeds-toeristischer-oord",
+  "pubDate": "Wed, 28 Oct 2026 08:30:14 GMT",
+  "title": "Help, ik woon in een steeds toeristischer oord!"
+ },
  "1616895": {
   "description": "De AI-ontwikkelaar boekte in de eerste jaarhelft een miljardenomzet, maar ook grote verliezen. Het bedrijf wijst in zijn prospectus op grote financiële risico’s door miljardenverplichtingen voor extra rekenkracht",
   "enclosure": {
@@ -7730,21 +7743,29 @@
  },
  "1617221": {
   "description": "Het biochemiebedrijf staakt de verkoop van de bioplastics-joint venture met Total, omdat de ontvangen biedingen niet aantrekkelijk genoeg waren.",
-  "enclosure": null,
+  "enclosure": {
+   "length": "0",
+   "type": "image/jpeg",
+   "url": "https://images.fd.nl/900704-900789.jpeg?fit=crop&crop=faces&auto=format%2Ccompress&q=45&w=140&h=140&fm=jpg&cs=tinysrgb"
+  },
   "first_seen": "Wed, 28 Oct 2026 07:26:01 +0000",
-  "last_seen": "Wed, 28 Oct 2026 07:26:01 +0000",
+  "last_seen": "Wed, 28 Oct 2026 14:18:13 +0000",
   "link": "https://fd.nl/bedrijfsleven/1617221/corbion-overtreft-verwachtingen-in-derde-kwartaal",
   "pubDate": "Wed, 28 Oct 2026 06:32:12 GMT",
   "title": "Corbion overtreft verwachtingen in derde kwartaal"
  },
  "1617222": {
-  "description": "Het Duitse chemieconcern rekent nu voor het hele jaar op een brutobedrijfsresultaat vóór bijzondere posten van €7,4 mrd tot €7,8 mrd.",
-  "enclosure": null,
+  "description": "Het chemieconcern tempert na de recente verhoging van de bieding op zijn branchegenoot de verwachtingen over de overnamepoging. Het verhoogt zijn prognoses voor het brutobedrijfsresultaat over 2026.",
+  "enclosure": {
+   "length": "0",
+   "type": "image/jpeg",
+   "url": "https://images.fd.nl/900707-901016.jpeg?fit=crop&crop=faces&auto=format%2Ccompress&q=45&w=140&h=140&fm=jpg&cs=tinysrgb"
+  },
   "first_seen": "Wed, 28 Oct 2026 07:26:01 +0000",
-  "last_seen": "Wed, 28 Oct 2026 07:26:01 +0000",
+  "last_seen": "Wed, 28 Oct 2026 14:18:13 +0000",
   "link": "https://fd.nl/bedrijfsleven/1617222/basf-verhoogt-na-hogere-kwartaalwinst-prognose-voor-2026",
   "pubDate": "Wed, 28 Oct 2026 06:39:23 GMT",
-  "title": "Basf verhoogt na hogere kwartaalwinst prognose voor 2026"
+  "title": "Basf gaat geen ‘buitensporige prijs’ voor Evonik betalen, waarschuwt ceo Kamieth"
  },
  "1617223": {
   "description": "De verkoop van mobiele abonnementen en de zakelijke dienstverlening droegen bij aan de groei bij het telecombedrijf. Het aantal particuliere breedbandklanten nam daarentegen met netto 7000 af.",
@@ -7754,10 +7775,23 @@
    "url": "https://images.fd.nl/900668-900671.jpeg?fit=crop&crop=faces&auto=format%2Ccompress&q=45&w=140&h=140&fm=jpg&cs=tinysrgb"
   },
   "first_seen": "Wed, 28 Oct 2026 07:26:01 +0000",
-  "last_seen": "Wed, 28 Oct 2026 07:26:01 +0000",
+  "last_seen": "Wed, 28 Oct 2026 14:18:13 +0000",
   "link": "https://fd.nl/bedrijfsleven/1617223/kpn-boekt-meer-winst-dan-verwacht-maar-verliest-internetklanten",
   "pubDate": "Wed, 28 Oct 2026 06:53:46 GMT",
   "title": "KPN boekt meer omzet dan verwacht, maar verliest internetklanten"
+ },
+ "1617224": {
+  "description": "Nu ruim 76% van de stemmen is geteld, staat Netanyahu's Likoedpartij bovenaan. Toch heeft de premier niet voldoende stemmen gekregen om te regeren.",
+  "enclosure": {
+   "length": "0",
+   "type": "image/jpeg",
+   "url": "https://images.fd.nl/900722-900845.jpeg?fit=crop&crop=faces&auto=format%2Ccompress&q=45&w=140&h=140&fm=jpg&cs=tinysrgb"
+  },
+  "first_seen": "Wed, 28 Oct 2026 14:18:13 +0000",
+  "last_seen": "Wed, 28 Oct 2026 14:18:13 +0000",
+  "link": "https://fd.nl/politiek/1617224/netanyahu-wint-zonder-te-winnen-israel-wacht-opnieuw-een-politieke-krachtmeting",
+  "pubDate": "Wed, 28 Oct 2026 08:26:28 GMT",
+  "title": "Netanyahu wint zonder te winnen: Israël wacht opnieuw een politieke krachtmeting"
  },
  "1617278": {
   "description": "Het kabinet hoopt miljarden te besparen door standaardisatie bij de grootse opknapbeurt van de Nederlandse infrastructuur. In de praktijk is echter niet alles geschikt voor een algemene methode. ",
@@ -7784,6 +7818,19 @@
   "link": "https://fd.nl/bedrijfsleven/1617279/ceo-martina-weimert-over-kostendiscussie-wero-een-beetje-vreemd",
   "pubDate": "Tue, 27 Oct 2026 14:40:00 GMT",
   "title": "Ceo over kostendiscussie iDeal-opvolger Wero: ‘Een beetje vreemd’"
+ },
+ "1617280": {
+  "description": "Als zij niet meer doen wat ze doen, slapen sommige executives niet lekker, weet Accenture-baas Nicole van Det, ‘en wij dus ook niet'.   ",
+  "enclosure": {
+   "length": "0",
+   "type": "image/jpeg",
+   "url": "https://images.fd.nl/899995-900014.jpeg?fit=crop&crop=faces&auto=format%2Ccompress&q=45&w=140&h=140&fm=jpg&cs=tinysrgb"
+  },
+  "first_seen": "Wed, 28 Oct 2026 14:18:13 +0000",
+  "last_seen": "Wed, 28 Oct 2026 14:18:13 +0000",
+  "link": "https://fd.nl/samenleving/1617280/nicole-van-det-accenture-ceo-nederland-en-de-nordics-ik-was-al-jong-klantgericht",
+  "pubDate": "Wed, 28 Oct 2026 08:30:08 GMT",
+  "title": "Nicole van Det, Accenture-ceo Nederland en de Nordics: ‘Ik was al jong klantgericht’"
  },
  "1617283": {
   "description": "Sinds de huizenmarkt in de lift zit, is het aantal miljonairs in Nederland ruimschoots verdubbeld. Bloemendaal en Laren hebben het hoogste aandeel miljonairs.",
@@ -7848,23 +7895,27 @@
   "title": "Minimumbelasting multinationals levert in één jaar bijna 0,5 mrd op"
  },
  "1617333": {
-  "description": "Heineken verkocht in het derde kwartaal van dit jaar meer bier en andere dranken dan een jaar geleden. Het totale verkochte volume groeide met 4,8% tot 76 miljoen hectoliter. De netto-omzet groeide met 4,6% tot bijna €8,1 mrd.",
+  "description": "De uitvoering moet beter en het tempo moet omhoog, liet de nieuwe ceo Rafael Oliveira weten bij de presentatie van de derdekwartaalcijfers. Analisten waren positief over de resultaten.",
   "enclosure": {
    "length": "0",
    "type": "image/jpeg",
    "url": "https://images.fd.nl/900292-900583.jpeg?fit=crop&crop=faces&auto=format%2Ccompress&q=45&w=140&h=140&fm=jpg&cs=tinysrgb"
   },
   "first_seen": "Wed, 28 Oct 2026 07:26:01 +0000",
-  "last_seen": "Wed, 28 Oct 2026 07:26:01 +0000",
+  "last_seen": "Wed, 28 Oct 2026 14:18:13 +0000",
   "link": "https://fd.nl/bedrijfsleven/1617333/heineken-verkoopt-meer-bier-dan-verwacht-maar-nieuwe-ceo-wil-sterkere-prestatiecultuur",
   "pubDate": "Wed, 28 Oct 2026 06:38:02 GMT",
   "title": "Heineken verkoopt meer bier dan verwacht, maar nieuwe ceo wil ‘sterkere prestatiecultuur’"
  },
  "1617334": {
   "description": "Het orderboek van het ingenieursadviesbureau, dat een indruk geeft van de toekomstige omzet, steeg in het derde kwartaal met bijna 8%.",
-  "enclosure": null,
+  "enclosure": {
+   "length": "0",
+   "type": "image/jpeg",
+   "url": "https://images.fd.nl/900281-900383.jpeg?fit=crop&crop=faces&auto=format%2Ccompress&q=45&w=140&h=140&fm=jpg&cs=tinysrgb"
+  },
   "first_seen": "Wed, 28 Oct 2026 07:26:01 +0000",
-  "last_seen": "Wed, 28 Oct 2026 07:26:01 +0000",
+  "last_seen": "Wed, 28 Oct 2026 14:18:13 +0000",
   "link": "https://fd.nl/bedrijfsleven/1617334/arcadis-voert-omzet-en-orderboek-op",
   "pubDate": "Wed, 28 Oct 2026 06:57:58 GMT",
   "title": "Arcadis voert omzet en orderboek op"
@@ -7877,9 +7928,115 @@
    "url": "https://images.fd.nl/900701-900715.jpeg?fit=crop&crop=faces&auto=format%2Ccompress&q=45&w=140&h=140&fm=jpg&cs=tinysrgb"
   },
   "first_seen": "Wed, 28 Oct 2026 07:26:01 +0000",
-  "last_seen": "Wed, 28 Oct 2026 07:26:01 +0000",
+  "last_seen": "Wed, 28 Oct 2026 14:18:13 +0000",
   "link": "https://fd.nl/politiek/1617336/geen-duidelijke-winnaar-bij-israelische-verkiezingen",
   "pubDate": "Wed, 28 Oct 2026 07:06:02 GMT",
   "title": "Geen duidelijke winnaar bij Israëlische verkiezingen"
+ },
+ "1617338": {
+  "description": "Dat schrijft de Britse zakenkrant de Financial Times op basis van ingewijden. Oekraïne en Europa zijn niet betrokken bij de gesprekken.",
+  "enclosure": null,
+  "first_seen": "Wed, 28 Oct 2026 14:18:13 +0000",
+  "last_seen": "Wed, 28 Oct 2026 14:18:13 +0000",
+  "link": "https://fd.nl/politiek/1617338/witte-huis-en-kremlin-bespreken-terugkeer-amerikaanse-oliebedrijven-naar-rusland",
+  "pubDate": "Wed, 28 Oct 2026 07:49:46 GMT",
+  "title": "‘Witte Huis en Kremlin bespreken terugkeer Amerikaanse oliebedrijven naar Rusland’"
+ },
+ "1617339": {
+  "description": "De grootste Duitse commerciële bank heeft er vertrouwen in dat een doel voor 2026 om een rendement van 13% op het eigen vermogen te halen, wordt overtroffen.",
+  "enclosure": null,
+  "first_seen": "Wed, 28 Oct 2026 14:18:13 +0000",
+  "last_seen": "Wed, 28 Oct 2026 14:18:13 +0000",
+  "link": "https://fd.nl/bedrijfsleven/1617339/ceo-deutsche-bank-ziet-bemoedigend-momentum-in-duitsland",
+  "pubDate": "Wed, 28 Oct 2026 08:01:14 GMT",
+  "title": "Ceo Deutsche Bank ziet ‘bemoedigend momentum’ in Duitsland"
+ },
+ "1617377": {
+  "description": "Woensdag zei de Amerikaanse president Donald Trump dat hij het goed zou vinden als Bolsonaro naar de VS zou komen.",
+  "enclosure": null,
+  "first_seen": "Wed, 28 Oct 2026 14:18:13 +0000",
+  "last_seen": "Wed, 28 Oct 2026 14:18:13 +0000",
+  "link": "https://fd.nl/politiek/1617377/flavio-bolsonaro-gevlucht-naar-verenigde-staten",
+  "pubDate": "Wed, 28 Oct 2026 10:06:29 GMT",
+  "title": "‘Flávio Bolsonaro gevlucht naar Verenigde Staten’"
+ },
+ "1617378": {
+  "description": "Twee hogesnelheidstreinen botsten op elkaar tussen Madrid en Sevilla. De Spaanse regering houdt rekening met een menselijke fout, schrijft de Spaanse krant El País.",
+  "enclosure": {
+   "length": "0",
+   "type": "image/jpeg",
+   "url": "https://images.fd.nl/900883-901012.jpeg?fit=crop&crop=faces&auto=format%2Ccompress&q=45&w=140&h=140&fm=jpg&cs=tinysrgb"
+  },
+  "first_seen": "Wed, 28 Oct 2026 14:18:13 +0000",
+  "last_seen": "Wed, 28 Oct 2026 14:18:13 +0000",
+  "link": "https://fd.nl/samenleving/1617378/tien-doden-bij-treinongeluk-in-spanje",
+  "pubDate": "Wed, 28 Oct 2026 10:04:19 GMT",
+  "title": "Zeker 64 doden bij treinongeluk in Spanje"
+ },
+ "1617380": {
+  "description": "Van Gennip heeft een lange carrière achter de rug, waarin zij publieke functies afwisselde met functies in de top van het bedrijfsleven. Die ervaring kan haar volgens de uitzender goed van pas komen.",
+  "enclosure": null,
+  "first_seen": "Wed, 28 Oct 2026 14:18:13 +0000",
+  "last_seen": "Wed, 28 Oct 2026 14:18:13 +0000",
+  "link": "https://fd.nl/bedrijfsleven/1617380/karien-van-gennip-wordt-de-nieuwe-ceo-van-randstad-nederland",
+  "pubDate": "Wed, 28 Oct 2026 10:35:03 GMT",
+  "title": "Karien van Gennip wordt de nieuwe ceo van Randstad Nederland"
+ },
+ "1617480": {
+  "description": "De Oekraïense president zal ook kopstukken uit het bedrijfsleven spreken. Het bezoek komt op een beladen moment. Zelensky staat onder Amerikaanse druk om water bij de wijn te doen in de oorlog met Rusland.",
+  "enclosure": {
+   "length": "0",
+   "type": "image/jpeg",
+   "url": "https://images.fd.nl/900824-900907.jpeg?fit=crop&crop=faces&auto=format%2Ccompress&q=45&w=140&h=140&fm=jpg&cs=tinysrgb"
+  },
+  "first_seen": "Wed, 28 Oct 2026 14:18:13 +0000",
+  "last_seen": "Wed, 28 Oct 2026 14:18:13 +0000",
+  "link": "https://fd.nl/politiek/1617480/zelensky-vandaag-op-bezoek-bij-koning-willem-alexander-en-premier-jetten",
+  "pubDate": "Wed, 28 Oct 2026 10:38:14 GMT",
+  "title": "Zelensky vandaag op bezoek bij koning Willem-Alexander en premier Jetten"
+ },
+ "1617482": {
+  "description": "Van Lammeren werkt al meer dan twintig jaar bij het bedrijf en was tot woensdag commercieel directeur.",
+  "enclosure": null,
+  "first_seen": "Wed, 28 Oct 2026 14:18:13 +0000",
+  "last_seen": "Wed, 28 Oct 2026 14:18:13 +0000",
+  "link": "https://fd.nl/bedrijfsleven/1617482/odido-benoemt-tisha-van-lammeren-tot-nieuwe-ceo",
+  "pubDate": "Wed, 28 Oct 2026 11:45:26 GMT",
+  "title": "Odido benoemt Tisha van Lammeren tot nieuwe ceo"
+ },
+ "1617483": {
+  "description": "De kantonrechter gaat mee in de eis van het reisplatform dat de medewerkers minstens twee dagen per week op het Amsterdamse hoofdkantoor moeten werken.",
+  "enclosure": {
+   "length": "0",
+   "type": "image/jpeg",
+   "url": "https://images.fd.nl/900803-901035.jpeg?fit=crop&crop=faces&auto=format%2Ccompress&q=45&w=140&h=140&fm=jpg&cs=tinysrgb"
+  },
+  "first_seen": "Wed, 28 Oct 2026 14:18:13 +0000",
+  "last_seen": "Wed, 28 Oct 2026 14:18:13 +0000",
+  "link": "https://fd.nl/bedrijfsleven/1617483/booking-com-wint-rechtszaak-over-thuiswerken",
+  "pubDate": "Wed, 28 Oct 2026 11:51:00 GMT",
+  "title": "Booking.com wint rechtszaak over thuiswerken"
+ },
+ "1617486": {
+  "description": "Crisp verliest een rechtszaak tegen zijn investeerders, maar de uitkomst is genuanceerd. De onlinesupermarkt heeft beleggers niet misleid, zegt de rechtbank. Ook is het bedrag niet direct opeisbaar. ",
+  "enclosure": {
+   "length": "0",
+   "type": "image/jpeg",
+   "url": "https://images.fd.nl/901032-901120.jpeg?fit=crop&crop=faces&auto=format%2Ccompress&q=45&w=140&h=140&fm=jpg&cs=tinysrgb"
+  },
+  "first_seen": "Wed, 28 Oct 2026 14:18:13 +0000",
+  "last_seen": "Wed, 28 Oct 2026 14:18:13 +0000",
+  "link": "https://fd.nl/bedrijfsleven/1617486/rechtbank-crisp-moet-5-mln-terugbetalen-maar-misleidde-investeerders-niet",
+  "pubDate": "Wed, 28 Oct 2026 12:45:20 GMT",
+  "title": "Rechtbank: Crisp moet €5 mln terugbetalen, maar misleidde investeerders niet"
+ },
+ "1617488": {
+  "description": "‘We evalueren de langetermijngevolgen voor ons concurrentievermogen vanuit Zwitserland’, zei ceo Sergio Ermotti woensdag in gesprek met analisten.",
+  "enclosure": null,
+  "first_seen": "Wed, 28 Oct 2026 14:18:13 +0000",
+  "last_seen": "Wed, 28 Oct 2026 14:18:13 +0000",
+  "link": "https://fd.nl/bedrijfsleven/1617488/ubs-topman-dreigt-met-vertrek-uit-zwitserland",
+  "pubDate": "Wed, 28 Oct 2026 13:38:56 GMT",
+  "title": "UBS-topman dreigt met vertrek uit Zwitserland"
  }
 }
