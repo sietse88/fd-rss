@@ -6,8 +6,8 @@
     <description>Gefilterd op: bedrijfsleven, economie, politiek, samenleving, tech-en-innovatie</description>
     <language>nl</language>
     <copyright>2026 Het Financieele Dagblad Amsterdam. This RSS feed is intended solely for personal, non-commercial use. All use of RSS feeds from Het Financieele Dagblad is subject to the General Terms and Conditions for Subscriptions, Services, and Registrations: https://fdmg.nl/wp-content/uploads/AV_Abonnementen.pdf.</copyright>
-    <pubDate>Fri, 30 Oct 2026 19:26:47 GMT</pubDate>
-    <lastBuildDate>Fri, 30 Oct 2026 19:15:21 GMT</lastBuildDate>
+    <pubDate>Fri, 30 Oct 2026 23:06:43 GMT</pubDate>
+    <lastBuildDate>Fri, 30 Oct 2026 20:23:01 GMT</lastBuildDate>
     <webMaster>webmaster@fd.nl</webMaster>
     <ttl>10</ttl>
     <category>Laatste nieuws</category>
@@ -73,20 +73,20 @@
       <guid>https://fd.nl/bedrijfsleven/1617623/miljardendiefstal-bij-marktleider-binance-schokt-cryptowereld</guid>
     </item>
     <item>
-      <title>Het AI-tijdperk is er allang; nu het AI-onderwijs nog</title>
-      <link>https://fd.nl/tech-en-innovatie/1617422/het-ai-tijdperk-is-er-allang-nu-het-ai-onderwijs-nog</link>
-      <description>De opmars van AI is niet meer te stuiten en dat moeten we ook niet willen, betoogt arbeidseconoom Daniel Susskind; leer kinderen er gewoon goed mee omgaan.</description>
-      <enclosure url="https://images.fd.nl/898542-901535.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
-      <pubDate>Fri, 30 Oct 2026 15:00:00 GMT</pubDate>
-      <guid>https://fd.nl/tech-en-innovatie/1617422/het-ai-tijdperk-is-er-allang-nu-het-ai-onderwijs-nog</guid>
-    </item>
-    <item>
       <title>Het witte T-shirtsplan</title>
       <link>https://fd.nl/samenleving/1617290/het-witte-t-shirtsplan</link>
       <description>Het witte T-shirt is allang niet meer dat massaproduct van weleer. Goede exemplaren onderscheiden zich door het gewicht, de pasvorm of het verhaal dat het merk vertelt.</description>
       <enclosure url="https://images.fd.nl/900364-902274.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
       <pubDate>Fri, 30 Oct 2026 15:00:00 GMT</pubDate>
       <guid>https://fd.nl/samenleving/1617290/het-witte-t-shirtsplan</guid>
+    </item>
+    <item>
+      <title>Het AI-tijdperk is er allang; nu het AI-onderwijs nog</title>
+      <link>https://fd.nl/tech-en-innovatie/1617422/het-ai-tijdperk-is-er-allang-nu-het-ai-onderwijs-nog</link>
+      <description>De opmars van AI is niet meer te stuiten en dat moeten we ook niet willen, betoogt arbeidseconoom Daniel Susskind; leer kinderen er gewoon goed mee omgaan.</description>
+      <enclosure url="https://images.fd.nl/898542-901535.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
+      <pubDate>Fri, 30 Oct 2026 15:00:00 GMT</pubDate>
+      <guid>https://fd.nl/tech-en-innovatie/1617422/het-ai-tijdperk-is-er-allang-nu-het-ai-onderwijs-nog</guid>
     </item>
     <item>
       <title>Nuchtere ‘stoemper’ Bauke Mollema viert afscheid in theater</title>
@@ -192,7 +192,7 @@
       <title>Bureaucratisch rapport moet bureaucratie verbeteren</title>
       <link>https://fd.nl/politiek/1617541/bureaucratisch-rapport-moet-bureaucratie-verbeteren</link>
       <description>Brussel moet zich meer ‘focussen op uitkomsten, niet op processen’, stelt een expertpanel in een rapport. Dat werkstuk is een feest van managementdooddoeners.</description>
-      <enclosure url="https://images.fd.nl/899668-902321.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
+      <enclosure length="0" type="image/jpeg" url="https://images.fd.nl/899668-902321.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" />
       <pubDate>Fri, 30 Oct 2026 11:04:07 GMT</pubDate>
       <guid>https://fd.nl/politiek/1617541/bureaucratisch-rapport-moet-bureaucratie-verbeteren</guid>
     </item>
