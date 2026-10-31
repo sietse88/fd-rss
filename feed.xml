@@ -6,11 +6,19 @@
     <description>Gefilterd op: bedrijfsleven, economie, politiek, samenleving, tech-en-innovatie</description>
     <language>nl</language>
     <copyright>2026 Het Financieele Dagblad Amsterdam. This RSS feed is intended solely for personal, non-commercial use. All use of RSS feeds from Het Financieele Dagblad is subject to the General Terms and Conditions for Subscriptions, Services, and Registrations: https://fdmg.nl/wp-content/uploads/AV_Abonnementen.pdf.</copyright>
-    <pubDate>Sat, 31 Oct 2026 14:45:31 GMT</pubDate>
-    <lastBuildDate>Sat, 31 Oct 2026 12:35:26 GMT</lastBuildDate>
+    <pubDate>Sat, 31 Oct 2026 19:05:30 GMT</pubDate>
+    <lastBuildDate>Sat, 31 Oct 2026 17:56:36 GMT</lastBuildDate>
     <webMaster>webmaster@fd.nl</webMaster>
     <ttl>10</ttl>
     <category>Laatste nieuws</category>
+    <item>
+      <title>Nog geen deal over belastingplan na nieuwe gespreksronde</title>
+      <link>https://fd.nl/politiek/1617664/nog-geen-deal-over-belastingplan-na-nieuwe-gespreksronde</link>
+      <description>Het kabinet praatte zaterdag opnieuw met de oppositie over het belastingplan. Dat heeft opnieuw niet tot een akkoord geleid.</description>
+      <enclosure url="https://images.fd.nl/902846-902849.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
+      <pubDate>Sat, 31 Oct 2026 17:56:36 GMT</pubDate>
+      <guid>https://fd.nl/politiek/1617664/nog-geen-deal-over-belastingplan-na-nieuwe-gespreksronde</guid>
+    </item>
     <item>
       <title>Britse offshore-medewerkers grijpen naar afslankmedicatie door gewichtsregels</title>
       <link>https://fd.nl/bedrijfsleven/1617721/britse-offshore-medewerkers-grijpen-naar-afslankmedicatie-door-gewichtsregels</link>
@@ -175,7 +183,7 @@
       <title>Abortusrecht is hot topic nu rechts met de christenen een verbondje sluit</title>
       <link>https://fd.nl/politiek/1617685/abortusrecht-is-hot-topic-nu-rechts-met-christelijk-een-bondje-sluit</link>
       <description>Conservatisme bij medisch-ethische thema’s was lange tijd een kansloze missie in Den Haag. Dat wordt anders nu rechtse partijen dezelfde geluiden uitdragen als de christelijke. </description>
-      <enclosure url="https://images.fd.nl/902501-902508.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
+      <enclosure length="0" type="image/jpeg" url="https://images.fd.nl/902501-902508.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" />
       <pubDate>Fri, 30 Oct 2026 14:25:27 GMT</pubDate>
       <guid>https://fd.nl/politiek/1617685/abortusrecht-is-hot-topic-nu-rechts-met-christelijk-een-bondje-sluit</guid>
     </item>
