@@ -7305,7 +7305,7 @@
    "url": "https://images.fd.nl/899385-900817.jpeg?fit=crop&crop=faces&auto=format%2Ccompress&q=45&w=140&h=140&fm=jpg&cs=tinysrgb"
   },
   "first_seen": "Sat, 31 Oct 2026 02:21:38 +0000",
-  "last_seen": "Sun, 01 Nov 2026 01:23:37 +0000",
+  "last_seen": "Sun, 01 Nov 2026 07:50:45 +0000",
   "link": "https://fd.nl/samenleving/1616834/bij-rampenoefeningen-blijkt-pas-goed-hoe-weinig-weerbaar-nederland-eigenlijk-is",
   "pubDate": "Fri, 30 Oct 2026 23:30:00 GMT",
   "title": "Bij rampenoefeningen blijkt pas goed hoe weinig weerbaar Nederland eigenlijk is"
@@ -7394,7 +7394,7 @@
   "description": "Er zit ruim genoeg uranium in de grond om de verwachte groei van het aantal kerncentrales op te vangen. Toch waarschuwen gezaghebbende instanties nu al voor mogelijke tekorten.",
   "enclosure": null,
   "first_seen": "Sat, 31 Oct 2026 14:45:31 +0000",
-  "last_seen": "Sun, 01 Nov 2026 01:23:37 +0000",
+  "last_seen": "Sun, 01 Nov 2026 07:50:45 +0000",
   "link": "https://fd.nl/economie/1616884/genoeg-uranium-in-de-grond-maar-toch-dreigen-er-tekorten",
   "pubDate": "Sat, 31 Oct 2026 09:57:37 GMT",
   "title": "Genoeg uranium in de grond, maar toch dreigen er tekorten"
@@ -8019,10 +8019,23 @@
    "url": "https://images.fd.nl/900432-900452.jpeg?fit=crop&crop=faces&auto=format%2Ccompress&q=45&w=140&h=140&fm=jpg&cs=tinysrgb"
   },
   "first_seen": "Sat, 31 Oct 2026 02:21:38 +0000",
-  "last_seen": "Sun, 01 Nov 2026 01:23:37 +0000",
+  "last_seen": "Sun, 01 Nov 2026 07:50:45 +0000",
   "link": "https://fd.nl/samenleving/1617293/dichtbij-en-toch-onkenbaar",
   "pubDate": "Fri, 30 Oct 2026 23:30:00 GMT",
   "title": "Dichtbij en toch onkenbaar"
+ },
+ "1617296": {
+  "description": "Ondernemer Eric van Dijk en zijn compagnon waren als broers voor elkaar, totdat hij het vertrouwen van Eric voor altijd verliest.",
+  "enclosure": {
+   "length": "0",
+   "type": "image/jpeg",
+   "url": "https://images.fd.nl/900561-900564.jpeg?fit=crop&crop=faces&auto=format%2Ccompress&q=45&w=140&h=140&fm=jpg&cs=tinysrgb"
+  },
+  "first_seen": "Sun, 01 Nov 2026 07:50:45 +0000",
+  "last_seen": "Sun, 01 Nov 2026 07:50:45 +0000",
+  "link": "https://fd.nl/samenleving/1617296/mijn-compagnon-was-als-een-broer-maar-hij-bleek-niet-te-vertrouwen",
+  "pubDate": "Sun, 01 Nov 2026 04:00:00 GMT",
+  "title": "‘Mijn compagnon was als een broer, maar hij bleek niet te vertrouwen’"
  },
  "1617300": {
   "description": "De chipmachinefabrikant profiteert van sterke vraag wereldwijd en zag de omzet in het derde kwartaal met 45% toenemen.",
@@ -8129,7 +8142,7 @@
    "url": "https://images.fd.nl/900188-901052.jpeg?fit=crop&crop=faces&auto=format%2Ccompress&q=45&w=140&h=140&fm=jpg&cs=tinysrgb"
   },
   "first_seen": "Sat, 31 Oct 2026 02:21:38 +0000",
-  "last_seen": "Sun, 01 Nov 2026 01:23:37 +0000",
+  "last_seen": "Sun, 01 Nov 2026 07:50:45 +0000",
   "link": "https://fd.nl/politiek/1617376/het-zuid-afrikaanse-howick-laat-zien-ook-zonder-het-anc-te-kunnen",
   "pubDate": "Fri, 30 Oct 2026 23:30:00 GMT",
   "title": "Het Zuid-Afrikaanse Howick laat zien ook zonder het ANC te kunnen"
@@ -8392,6 +8405,19 @@
   "pubDate": "Thu, 29 Oct 2026 14:35:31 GMT",
   "title": "Chagrijn in coalitie na stevig eisenpakket JA21, SGP en BBB"
  },
+ "1617440": {
+  "description": "Plannen van waterschappen, bedrijven en politiek met het gebied rond de 21 kilometer lange waterverbinding botsen met elkaar.  ‘Dit is niet een binnenwatertje waar je recreatieve gedachten over kunt hebben.’ ",
+  "enclosure": {
+   "length": "0",
+   "type": "image/jpeg",
+   "url": "https://images.fd.nl/897430-898387.jpeg?fit=crop&crop=faces&auto=format%2Ccompress&q=45&w=140&h=140&fm=jpg&cs=tinysrgb"
+  },
+  "first_seen": "Sun, 01 Nov 2026 07:50:45 +0000",
+  "last_seen": "Sun, 01 Nov 2026 07:50:45 +0000",
+  "link": "https://fd.nl/economie/1617440/150-jaar-oud-noordzeekanaal-is-brandpunt-van-gevecht-om-ruimte",
+  "pubDate": "Sun, 01 Nov 2026 05:00:00 GMT",
+  "title": "150 jaar oud Noordzeekanaal is brandpunt van gevecht om ruimte"
+ },
  "1617442": {
   "description": "Van alle kanten klinkt de roep om onmiddellijke maatregelen die de veiligheid op het spoor verhogen. Deze tweede treinramp in tien maanden tijd heeft de Spaanse regering in ernstige verlegenheid gebracht. ",
   "enclosure": {
@@ -8470,7 +8496,7 @@
   "description": "Alle eurolanden willen een landgenoot in de directiekamer van de ECB. Is Klaas Knot de grote kanshebber of wordt het toch een Duitser, een Let of een Slowaak?",
   "enclosure": null,
   "first_seen": "Sat, 31 Oct 2026 02:21:38 +0000",
-  "last_seen": "Sun, 01 Nov 2026 01:23:37 +0000",
+  "last_seen": "Sun, 01 Nov 2026 07:50:45 +0000",
   "link": "https://fd.nl/politiek/1617451/lagarde-stapt-op-het-gevecht-om-de-opvolging-kan-beginnen",
   "pubDate": "Fri, 30 Oct 2026 23:30:00 GMT",
   "title": "Lagarde stapt op, het gevecht om de opvolging kan beginnen"
@@ -8882,7 +8908,7 @@
    "url": "https://images.fd.nl/902347-902529.jpeg?fit=crop&crop=faces&auto=format%2Ccompress&q=45&w=140&h=140&fm=jpg&cs=tinysrgb"
   },
   "first_seen": "Fri, 30 Oct 2026 19:26:47 +0000",
-  "last_seen": "Sun, 01 Nov 2026 01:23:37 +0000",
+  "last_seen": "Sun, 01 Nov 2026 07:50:45 +0000",
   "link": "https://fd.nl/bedrijfsleven/1617623/miljardendiefstal-bij-marktleider-binance-schokt-cryptowereld",
   "pubDate": "Fri, 30 Oct 2026 15:22:44 GMT",
   "title": "Miljardendiefstal bij marktleider Binance schokt cryptowereld"
@@ -8895,10 +8921,23 @@
    "url": "https://images.fd.nl/902397-902463.jpeg?fit=crop&crop=faces&auto=format%2Ccompress&q=45&w=140&h=140&fm=jpg&cs=tinysrgb"
   },
   "first_seen": "Fri, 30 Oct 2026 19:26:47 +0000",
-  "last_seen": "Sun, 01 Nov 2026 01:23:37 +0000",
+  "last_seen": "Sun, 01 Nov 2026 07:50:45 +0000",
   "link": "https://fd.nl/economie/1617624/supermarktketens-werken-samen-aan-noodwinkels-voor-oorlog-of-stroomuitval",
   "pubDate": "Fri, 30 Oct 2026 18:50:02 GMT",
   "title": "Supermarktketens werken samen aan noodwinkels voor oorlog of stroomuitval"
+ },
+ "1617625": {
+  "description": "In de deftige Haagse Archipelbuurt toast een kleine groep mensen op een bouwproject dat wel van de grond komt. ‘Dit is dé manier om de wooncrisis aan te pakken.’",
+  "enclosure": {
+   "length": "0",
+   "type": "image/jpeg",
+   "url": "https://images.fd.nl/899868-902613.jpeg?fit=crop&crop=faces&auto=format%2Ccompress&q=45&w=140&h=140&fm=jpg&cs=tinysrgb"
+  },
+  "first_seen": "Sun, 01 Nov 2026 07:50:45 +0000",
+  "last_seen": "Sun, 01 Nov 2026 07:50:45 +0000",
+  "link": "https://fd.nl/bedrijfsleven/1617625/proost-want-dit-kantoor-wordt-een-luxe-woontoren",
+  "pubDate": "Sun, 01 Nov 2026 05:10:00 GMT",
+  "title": "Proost! Want dit kantoor wordt een luxe woontoren"
  },
  "1617626": {
   "description": "De hoogste adviseur van de regering en het parlement is bijzonder kritisch over de plannen. De raadsadviseurs pleiten volgens ingewijden voor twee jaar uitstel. ",
@@ -8921,7 +8960,7 @@
    "url": "https://images.fd.nl/902493-902526.jpeg?fit=crop&crop=faces&auto=format%2Ccompress&q=45&w=140&h=140&fm=jpg&cs=tinysrgb"
   },
   "first_seen": "Fri, 30 Oct 2026 19:26:47 +0000",
-  "last_seen": "Sun, 01 Nov 2026 01:23:37 +0000",
+  "last_seen": "Sun, 01 Nov 2026 07:50:45 +0000",
   "link": "https://fd.nl/economie/1617628/frankrijk-maakt-zich-op-voor-nieuwe-maar-weinig-zinvolle-protesten",
   "pubDate": "Fri, 30 Oct 2026 15:31:55 GMT",
   "title": "Frankrijk maakt zich op voor nieuwe, maar weinig zinvolle protesten"
@@ -8965,7 +9004,7 @@
   "description": "Het hof van cassatie bevestigt een eerdere uitspraak van een lagere rechter. Wegens milieuvervuiling moet de staalfabriek van ADI in Taranto de twee hoogovens en de cokesfabriek sluiten. ",
   "enclosure": null,
   "first_seen": "Fri, 30 Oct 2026 19:26:47 +0000",
-  "last_seen": "Sun, 01 Nov 2026 01:23:37 +0000",
+  "last_seen": "Sun, 01 Nov 2026 07:50:45 +0000",
   "link": "https://fd.nl/bedrijfsleven/1617634/rechterlijk-vonnis-bedreigt-voortbestaan-grootste-staalfabriek-van-italie",
   "pubDate": "Fri, 30 Oct 2026 16:51:29 GMT",
   "title": "Rechterlijk vonnis bedreigt voortbestaan grootste staalfabriek van Italië"
@@ -8978,7 +9017,7 @@
    "url": "https://images.fd.nl/902674-902728.jpeg?fit=crop&crop=faces&auto=format%2Ccompress&q=45&w=140&h=140&fm=jpg&cs=tinysrgb"
   },
   "first_seen": "Fri, 30 Oct 2026 19:26:47 +0000",
-  "last_seen": "Sun, 01 Nov 2026 01:23:37 +0000",
+  "last_seen": "Sun, 01 Nov 2026 07:50:45 +0000",
   "link": "https://fd.nl/bedrijfsleven/1617653/cao-onderhandeling-streekvervoer-muurvast-vakbonden-verwachten-weer-stakingen",
   "pubDate": "Fri, 30 Oct 2026 17:08:57 GMT",
   "title": "Cao-onderhandeling streekvervoer muurvast: vakbonden verwachten weer stakingen"
@@ -8987,7 +9026,7 @@
   "description": "Hoewel de Oekraïense president Volodymyr Zelensky blij is met de deal, waarschuwt hij dat het nog jaren kan duren voordat de levering van start gaat.",
   "enclosure": null,
   "first_seen": "Sat, 31 Oct 2026 14:45:31 +0000",
-  "last_seen": "Sun, 01 Nov 2026 01:23:37 +0000",
+  "last_seen": "Sun, 01 Nov 2026 07:50:45 +0000",
   "link": "https://fd.nl/politiek/1617661/vs-keuren-verkoop-patriot-raketten-ter-waarde-van-2-1-mrd-aan-oekraine-goed",
   "pubDate": "Sat, 31 Oct 2026 09:13:17 GMT",
   "title": "VS keuren verkoop Patriot-raketten ter waarde van $2,1 mrd aan Oekraïne goed"
@@ -9000,7 +9039,7 @@
    "url": "https://images.fd.nl/902788-902808.jpeg?fit=crop&crop=faces&auto=format%2Ccompress&q=45&w=140&h=140&fm=jpg&cs=tinysrgb"
   },
   "first_seen": "Sat, 31 Oct 2026 14:45:31 +0000",
-  "last_seen": "Sun, 01 Nov 2026 01:23:37 +0000",
+  "last_seen": "Sun, 01 Nov 2026 07:50:45 +0000",
   "link": "https://fd.nl/politiek/1617662/chaos-bij-het-poolse-constitutioneel-hof-na-schorsing-rechter",
   "pubDate": "Sat, 31 Oct 2026 12:26:07 GMT",
   "title": "Chaos bij Poolse Constitutioneel Hof na schorsing rechter"
@@ -9013,7 +9052,7 @@
    "url": "https://images.fd.nl/902846-902849.jpeg?fit=crop&crop=faces&auto=format%2Ccompress&q=45&w=140&h=140&fm=jpg&cs=tinysrgb"
   },
   "first_seen": "Sat, 31 Oct 2026 19:05:30 +0000",
-  "last_seen": "Sun, 01 Nov 2026 01:23:37 +0000",
+  "last_seen": "Sun, 01 Nov 2026 07:50:45 +0000",
   "link": "https://fd.nl/politiek/1617664/nog-geen-deal-over-belastingplan-na-nieuwe-gespreksronde",
   "pubDate": "Sat, 31 Oct 2026 17:56:36 GMT",
   "title": "Nog geen deal belastingplan na nieuwe gespreksronde"
@@ -9079,7 +9118,7 @@
    "url": "https://images.fd.nl/902589-902860.jpeg?fit=crop&crop=faces&auto=format%2Ccompress&q=45&w=140&h=140&fm=jpg&cs=tinysrgb"
   },
   "first_seen": "Sat, 31 Oct 2026 08:39:18 +0000",
-  "last_seen": "Sun, 01 Nov 2026 01:23:37 +0000",
+  "last_seen": "Sun, 01 Nov 2026 07:50:45 +0000",
   "link": "https://fd.nl/economie/1617690/hoe-zinnig-is-een-robotbelasting-en-regeert-science-fiction-in-silicon-valley",
   "pubDate": "Sat, 31 Oct 2026 04:00:00 GMT",
   "title": "Hoe zinnig is een robotbelasting? En regeert science fiction in Silicon Valley?"
@@ -9092,7 +9131,7 @@
    "url": "https://images.fd.nl/902644-902659.jpeg?fit=crop&crop=faces&auto=format%2Ccompress&q=45&w=140&h=140&fm=jpg&cs=tinysrgb"
   },
   "first_seen": "Fri, 30 Oct 2026 19:26:47 +0000",
-  "last_seen": "Sun, 01 Nov 2026 01:23:37 +0000",
+  "last_seen": "Sun, 01 Nov 2026 07:50:45 +0000",
   "link": "https://fd.nl/politiek/1617694/kabinet-stelt-stikstofwet-uit-om-wensen-boerenorganisaties",
   "pubDate": "Fri, 30 Oct 2026 15:47:39 GMT",
   "title": "Kabinet stelt wetsvoorstel stikstof uit om wensen boerenorganisaties"
@@ -9101,7 +9140,7 @@
   "description": "Hoogleraar Erasmus Universiteit Dirk Schoenmaker begint op 1 februari 2027 als nieuwe voorzitter van de Wetenschappelijke Raad voor het Regeringsbeleid (WRR).",
   "enclosure": null,
   "first_seen": "Fri, 30 Oct 2026 19:26:47 +0000",
-  "last_seen": "Sun, 01 Nov 2026 01:23:37 +0000",
+  "last_seen": "Sun, 01 Nov 2026 07:50:45 +0000",
   "link": "https://fd.nl/samenleving/1617696/dirk-schoenmaker-wordt-nieuwe-voorzitter-wrr",
   "pubDate": "Fri, 30 Oct 2026 16:17:52 GMT",
   "title": "Dirk Schoenmaker wordt nieuwe voorzitter WRR"
@@ -9110,7 +9149,7 @@
   "description": "De opbrengst van €63 mln moet de schuldgraad dempen.",
   "enclosure": null,
   "first_seen": "Fri, 30 Oct 2026 19:26:47 +0000",
-  "last_seen": "Sun, 01 Nov 2026 01:23:37 +0000",
+  "last_seen": "Sun, 01 Nov 2026 07:50:45 +0000",
   "link": "https://fd.nl/bedrijfsleven/1617697/vastgoedbelegger-wereldhave-verkoopt-winkelcentrum-purmerend",
   "pubDate": "Fri, 30 Oct 2026 19:15:21 GMT",
   "title": "Vastgoedbelegger Wereldhave verkoopt winkelcentrum Purmerend"
@@ -9119,7 +9158,7 @@
   "description": "Vorige maand werd bekend dat de maker van ChatGPT in een laatste investeringsronde, voorafgaand aan de beursgang, mikte op een kapitaalinjectie van $30 mrd.",
   "enclosure": null,
   "first_seen": "Sat, 31 Oct 2026 08:39:18 +0000",
-  "last_seen": "Sun, 01 Nov 2026 01:23:37 +0000",
+  "last_seen": "Sun, 01 Nov 2026 07:50:45 +0000",
   "link": "https://fd.nl/bedrijfsleven/1617720/openai-verlaagt-investeringsdoelen-met-10-mrd",
   "pubDate": "Sat, 31 Oct 2026 08:38:51 GMT",
   "title": "OpenAI verlaagt investeringsdoelen met $10 mrd"
@@ -9132,7 +9171,7 @@
    "url": "https://images.fd.nl/902793-902810.jpeg?fit=crop&crop=faces&auto=format%2Ccompress&q=45&w=140&h=140&fm=jpg&cs=tinysrgb"
   },
   "first_seen": "Sat, 31 Oct 2026 14:45:31 +0000",
-  "last_seen": "Sun, 01 Nov 2026 01:23:37 +0000",
+  "last_seen": "Sun, 01 Nov 2026 07:50:45 +0000",
   "link": "https://fd.nl/bedrijfsleven/1617721/britse-offshore-medewerkers-grijpen-naar-afslankmedicatie-door-gewichtsregels",
   "pubDate": "Sat, 31 Oct 2026 12:35:26 GMT",
   "title": "Britse offshoremedewerkers grijpen naar afslankmedicatie door gewichtsregels"
