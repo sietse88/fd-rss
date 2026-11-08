@@ -6,13 +6,43 @@
     <description>Gefilterd op: bedrijfsleven, economie, politiek, samenleving, tech-en-innovatie</description>
     <language>nl</language>
     <copyright>2026 Het Financieele Dagblad Amsterdam. This RSS feed is intended solely for personal, non-commercial use. All use of RSS feeds from Het Financieele Dagblad is subject to the General Terms and Conditions for Subscriptions, Services, and Registrations: https://fdmg.nl/wp-content/uploads/AV_Abonnementen.pdf.</copyright>
-    <pubDate>Sun, 08 Nov 2026 06:01:16 GMT</pubDate>
-    <lastBuildDate>Sun, 08 Nov 2026 06:00:00 GMT</lastBuildDate>
+    <pubDate>Sun, 08 Nov 2026 13:23:08 GMT</pubDate>
+    <lastBuildDate>Sun, 08 Nov 2026 13:00:00 GMT</lastBuildDate>
     <webMaster>webmaster@fd.nl</webMaster>
     <ttl>10</ttl>
     <category>Laatste nieuws</category>
     <item>
-      <title>Kunst kijken en borrelen: daar wordt de Zuidas enthousiast van</title>
+      <title>Het autocratische bewind van Vučić in Servië vertoont eerste barsten</title>
+      <link>https://fd.nl/politiek/1618249/het-autocratische-bewind-van-vucic-in-servie-vertoont-eerste-barsten</link>
+      <description>Twee weken na de onverwachte overwinning van de studentenprotestbeweging is er in Servië nog geen nieuwe premierskandidaat aangewezen. Toch zijn de eerste veranderingen waar te nemen in het land. </description>
+      <enclosure url="https://images.fd.nl/906862-906987.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
+      <pubDate>Sun, 08 Nov 2026 13:00:00 GMT</pubDate>
+      <guid>https://fd.nl/politiek/1618249/het-autocratische-bewind-van-vucic-in-servie-vertoont-eerste-barsten</guid>
+    </item>
+    <item>
+      <title>Mag de overheid besparen met hulp van AI? ‘Ik heb geen sociaal contract met een chatbot’</title>
+      <link>https://fd.nl/politiek/1617389/mag-de-overheid-besparen-met-hulp-van-ai-ik-heb-geen-sociaal-contract-met-een-chatbot</link>
+      <description>De Tweede Kamer wil kijken hoe AI de overheid efficiënter kan laten werken. Wat mag de overheid overlaten aan technologie en wat niet? </description>
+      <enclosure url="https://images.fd.nl/891172-906897.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
+      <pubDate>Sun, 08 Nov 2026 11:00:00 GMT</pubDate>
+      <guid>https://fd.nl/politiek/1617389/mag-de-overheid-besparen-met-hulp-van-ai-ik-heb-geen-sociaal-contract-met-een-chatbot</guid>
+    </item>
+    <item>
+      <title>Leger VS zegt schip in Golf van Oman te hebben beschoten</title>
+      <link>https://fd.nl/samenleving/1618400/leger-vs-zegt-schip-in-golf-van-oman-te-hebben-beschoten</link>
+      <description>De Amerikanen blokkeren sinds dit voorjaar de Straat van Hormuz voor schepen van en naar Iran.</description>
+      <pubDate>Sun, 08 Nov 2026 10:28:22 GMT</pubDate>
+      <guid>https://fd.nl/samenleving/1618400/leger-vs-zegt-schip-in-golf-van-oman-te-hebben-beschoten</guid>
+    </item>
+    <item>
+      <title>Israëlische oppositieleider Eisenkot aangewezen om te gaan formeren</title>
+      <link>https://fd.nl/samenleving/1618264/israelische-oppositieleider-eisenkot-mag-gaan-formeren</link>
+      <description>De uitdager van Benjamin Netanyahu krijgt 28 dagen de tijd om een coalitie te vormen, maar dat is een grote uitdaging.</description>
+      <pubDate>Sun, 08 Nov 2026 09:22:17 GMT</pubDate>
+      <guid>https://fd.nl/samenleving/1618264/israelische-oppositieleider-eisenkot-mag-gaan-formeren</guid>
+    </item>
+    <item>
+      <title>Kunst kijken en borrelen: daar wordt de Zuidas blij van</title>
       <link>https://fd.nl/bedrijfsleven/1618049/kunst-kijken-en-borrelen-daar-wordt-de-zuidas-enthousiast-van</link>
       <description>Het kopen van een kunstwerk is als vermogensbeheer, zegt een van de zakelijke bezoekers van kunstbeurs PAN Amsterdam. ‘Het goede nieuws is dat er nog veel te koop is.’ </description>
       <enclosure url="https://images.fd.nl/905711-907159.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
@@ -38,7 +68,7 @@
     <item>
       <title>Zes doden bij schietpartij in centrum Krakau</title>
       <link>https://fd.nl/samenleving/1618399/zes-doden-bij-schietpartij-in-centrum-krakau</link>
-      <description>De schutter schoot vanuit een rijdende auto op het centrale marktplein van de stad. De schutter is neergeschoten door de politie en naar het ziekenhuis gebracht. Zijn motief is nog niet bekend.</description>
+      <description>Een schutter, die waarschijnlijk uit de extreemrechtse hoek komt, heeft zaterdag in de Poolse stad Krakau zes mensen gedood. De politie heeft daarnaast in de woning van de schutter nog drie andere mensen dood aangetroffen.</description>
       <enclosure url="https://images.fd.nl/907294-907303.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
       <pubDate>Sat, 07 Nov 2026 17:54:16 GMT</pubDate>
       <guid>https://fd.nl/samenleving/1618399/zes-doden-bij-schietpartij-in-centrum-krakau</guid>
@@ -168,7 +198,7 @@
       <title>Chinese Philips-concurrent wil vanuit Rotterdam Europa veroveren</title>
       <link>https://fd.nl/bedrijfsleven/1618238/chinese-philips-concurrent-wil-vanuit-rotterdam-europa-veroveren</link>
       <description>Het medischetechnologiebedrijf United Imaging Healthcare opent een nieuw bezoekerscentrum in Rotterdam. Het bedrijf zet daarmee een nieuwe stap in zijn geplande verovering van de Europese markt. </description>
-      <enclosure url="https://images.fd.nl/870091-905926.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
+      <enclosure length="0" type="image/jpeg" url="https://images.fd.nl/870091-905926.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" />
       <pubDate>Fri, 06 Nov 2026 16:33:21 GMT</pubDate>
       <guid>https://fd.nl/bedrijfsleven/1618238/chinese-philips-concurrent-wil-vanuit-rotterdam-europa-veroveren</guid>
     </item>
@@ -6680,60 +6710,6 @@ de grensbewaking van dichtbij te leren kennen</title>
       <enclosure length="0" type="image/jpeg" url="https://images.fd.nl/886215-887319.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" />
       <pubDate>Fri, 09 Oct 2026 08:00:00 GMT</pubDate>
       <guid>https://fd.nl/economie/1614798/dit-pamflet-neemt-het-nu-eens-op-voor-de-vrije-markt</guid>
-    </item>
-    <item>
-      <title>Zelfsturende kassen stap dichterbij: softwarebedrijf Source neemt Londense Optimal over</title>
-      <link>https://fd.nl/bedrijfsleven/1614976/zelfsturende-kassen-stap-dichterbij-softwarebedrijf-source-neemt-londense-optimal-over</link>
-      <description>Water en voeding krijgen planten met de software van Source nu al zonder tussenkomst van een teler. Met de acquisitie van het Britse bedrijf wordt straks ook het klimaat in de kas automatisch geregeld.</description>
-      <enclosure length="0" type="image/jpeg" url="https://images.fd.nl/889345-890440.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" />
-      <pubDate>Fri, 09 Oct 2026 07:00:05 GMT</pubDate>
-      <guid>https://fd.nl/bedrijfsleven/1614976/zelfsturende-kassen-stap-dichterbij-softwarebedrijf-source-neemt-londense-optimal-over</guid>
-    </item>
-    <item>
-      <title>Trump: geen nieuwe aanvallen op Iran tot tussentijdse verkiezingen</title>
-      <link>https://fd.nl/politiek/1615127/trump-geen-nieuwe-aanvallen-op-iran-tot-tussentijdse-verkiezingen</link>
-      <description>De Amerikaanse president stelt dat er ‘productieve gesprekken’ worden gevoerd met Iran. </description>
-      <pubDate>Fri, 09 Oct 2026 06:37:44 GMT</pubDate>
-      <guid>https://fd.nl/politiek/1615127/trump-geen-nieuwe-aanvallen-op-iran-tot-tussentijdse-verkiezingen</guid>
-    </item>
-    <item>
-      <title>Ebusco krijgt opnieuw noodfinanciering van bijna €6 mln</title>
-      <link>https://fd.nl/bedrijfsleven/1615126/ebusco-krijgt-opnieuw-noodfinanciering-van-bijna-6-mln</link>
-      <description>De Brabantse busbouwer heeft extra financiering nodig om de komende weken overeind te blijven. De fabrikant meldt dat de beschikbare liquiditeit slechts voldoende is voor ‘een korte tijd’.</description>
-      <enclosure length="0" type="image/jpeg" url="https://images.fd.nl/890114-890150.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" />
-      <pubDate>Fri, 09 Oct 2026 06:03:58 GMT</pubDate>
-      <guid>https://fd.nl/bedrijfsleven/1615126/ebusco-krijgt-opnieuw-noodfinanciering-van-bijna-6-mln</guid>
-    </item>
-    <item>
-      <title>Productie industrie stijgt 12% in augustus, grootste toename in vier jaar</title>
-      <link>https://fd.nl/bedrijfsleven/1615125/productie-industrie-stijgt-12-in-augustus-grootste-toename-in-vier-jaar</link>
-      <description>De stijging leunt vooral op een explosieve groei bij bedrijven actief in machineproductie. Die produceerden 45,1% meer dan vorig jaar.</description>
-      <pubDate>Fri, 09 Oct 2026 05:31:07 GMT</pubDate>
-      <guid>https://fd.nl/bedrijfsleven/1615125/productie-industrie-stijgt-12-in-augustus-grootste-toename-in-vier-jaar</guid>
-    </item>
-    <item>
-      <title>Thomas Trum maakt gigantische, onweerstaanbare kunstwerken: ‘Wat ik doe is één groot avontuur’</title>
-      <link>https://fd.nl/samenleving/1614791/thomas-trum-maakt-gigantische-onweerstaanbare-kunstwerken-wat-ik-doe-is-een-groot-avontuur</link>
-      <description>Het werk van de Nederlandse kunstenaar Thomas Trum is even eenvoudig als aantrekkelijk. Minstens zo mooi is de performance die eraan voorafgaat.</description>
-      <enclosure length="0" type="image/jpeg" url="https://images.fd.nl/888674-888876.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" />
-      <pubDate>Fri, 09 Oct 2026 05:00:00 GMT</pubDate>
-      <guid>https://fd.nl/samenleving/1614791/thomas-trum-maakt-gigantische-onweerstaanbare-kunstwerken-wat-ik-doe-is-een-groot-avontuur</guid>
-    </item>
-    <item>
-      <title>Econoom Mariana Mazzucato: ‘Ik ben een luis in de pels van iedereen die beweert goed te willen doen’</title>
-      <link>https://fd.nl/economie/1614715/econoom-mariana-mazzucato-ik-ben-een-luis-in-de-pels-van-iedereen-die-beweert-goed-te-willen-doen</link>
-      <description>Mariana Mazzucato schreef een boek over het algemeen belang, maar schuwt de kritiek op zelfbenoemde ‘purpose-driven’ leiders niet. ‘Dan is mijn vraag: hoe houden we jullie daaraan?’ </description>
-      <enclosure length="0" type="image/jpeg" url="https://images.fd.nl/887288-889374.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" />
-      <pubDate>Fri, 09 Oct 2026 04:00:00 GMT</pubDate>
-      <guid>https://fd.nl/economie/1614715/econoom-mariana-mazzucato-ik-ben-een-luis-in-de-pels-van-iedereen-die-beweert-goed-te-willen-doen</guid>
-    </item>
-    <item>
-      <title>Advocaat Jeroen moet weg na anonieme klachten over grensoverschrijdend gedrag: ‘Dit is karaktermoord’</title>
-      <link>https://fd.nl/samenleving/1614792/advocaat-jeroen-moet-weg-na-anonieme-klachten-over-grensoverschrijdend-gedrag-dit-is-karaktermoord</link>
-      <description>Jeroen is advocaat bij een middelgroot kantoor. Na beschuldigingen van grensoverschrijdend gedrag moet hij vertrekken. In kort geding eist hij €0,5 mln. ‘Er is niets aan de hand.’ </description>
-      <enclosure length="0" type="image/jpeg" url="https://images.fd.nl/879834-889863.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" />
-      <pubDate>Fri, 09 Oct 2026 04:00:00 GMT</pubDate>
-      <guid>https://fd.nl/samenleving/1614792/advocaat-jeroen-moet-weg-na-anonieme-klachten-over-grensoverschrijdend-gedrag-dit-is-karaktermoord</guid>
     </item>
   </channel>
 </rss>
