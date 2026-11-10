@@ -6,15 +6,43 @@
     <description>Gefilterd op: bedrijfsleven, economie, politiek, samenleving, tech-en-innovatie</description>
     <language>nl</language>
     <copyright>2026 Het Financieele Dagblad Amsterdam. This RSS feed is intended solely for personal, non-commercial use. All use of RSS feeds from Het Financieele Dagblad is subject to the General Terms and Conditions for Subscriptions, Services, and Registrations: https://fdmg.nl/wp-content/uploads/AV_Abonnementen.pdf.</copyright>
-    <pubDate>Mon, 09 Nov 2026 19:47:27 GMT</pubDate>
-    <lastBuildDate>Mon, 09 Nov 2026 19:45:58 GMT</lastBuildDate>
+    <pubDate>Tue, 10 Nov 2026 02:32:07 GMT</pubDate>
+    <lastBuildDate>Mon, 09 Nov 2026 23:30:00 GMT</lastBuildDate>
     <webMaster>webmaster@fd.nl</webMaster>
     <ttl>10</ttl>
     <category>Laatste nieuws</category>
     <item>
-      <title>‘Budgettair gesjoemel’ met box 3, maar wel zicht op een Kamermeerderheid</title>
+      <title>AI-bedrijf Databricks investeert $500 mln in vestiging Amsterdam</title>
+      <link>https://fd.nl/bedrijfsleven/1618470/ai-bedrijf-databricks-investeert-500-mln-in-vestiging-amsterdam</link>
+      <description>Het geld gaat naar de uitbreiding van de Amsterdamse vestiging, waar de grootste ontwikkelafdeling van het bedrijf is gevestigd buiten de VS.</description>
+      <pubDate>Mon, 09 Nov 2026 23:30:00 GMT</pubDate>
+      <guid>https://fd.nl/bedrijfsleven/1618470/ai-bedrijf-databricks-investeert-500-mln-in-vestiging-amsterdam</guid>
+    </item>
+    <item>
+      <title>Amsterdamse zeekabelbeveiliger Optics11 haalt €50 mln op</title>
+      <link>https://fd.nl/bedrijfsleven/1618576/amsterdamse-zeekabelbeveiliger-optics11-haalt-50-mln-op</link>
+      <description>Het bedrijf maakt technologie om sabotage van zeekabels en slijtage van stroomkabels op te sporen.</description>
+      <pubDate>Mon, 09 Nov 2026 21:07:27 GMT</pubDate>
+      <guid>https://fd.nl/bedrijfsleven/1618576/amsterdamse-zeekabelbeveiliger-optics11-haalt-50-mln-op</guid>
+    </item>
+    <item>
+      <title>‘Rusland en Oekraïne tonen zich flexibel over veroverd grondgebied’</title>
+      <link>https://fd.nl/politiek/1618577/rusland-en-oekraine-tonen-zich-flexibel-over-veroverd-grondgebied</link>
+      <description>Volgens een Amerikaanse functionaris zijn de landen rekkelijker in hun eisen dan voorheen, wat de VS hoopvol stemmen over de onderhandelingen later deze week.</description>
+      <pubDate>Mon, 09 Nov 2026 20:59:18 GMT</pubDate>
+      <guid>https://fd.nl/politiek/1618577/rusland-en-oekraine-tonen-zich-flexibel-over-veroverd-grondgebied</guid>
+    </item>
+    <item>
+      <title>Amerikaans congres stemt deze week over afzetting van ‘oorlogsminister’ Hegseth</title>
+      <link>https://fd.nl/politiek/1618492/amerikaans-congres-stemt-deze-week-over-afzetting-van-oorlogsminister-hegseth</link>
+      <description>Het initiatief van mede-Republikein Thomas Massie was al aangekondigd, maar zal nu leiden tot een formele stemming.</description>
+      <pubDate>Mon, 09 Nov 2026 20:34:14 GMT</pubDate>
+      <guid>https://fd.nl/politiek/1618492/amerikaans-congres-stemt-deze-week-over-afzetting-van-oorlogsminister-hegseth</guid>
+    </item>
+    <item>
+      <title>‘Budgettair gesjoemel’ met box 3, toch zicht op Kamermeerderheid</title>
       <link>https://fd.nl/politiek/1618481/budgettair-gesjoemel-met-box-3-maar-wel-zicht-op-een-kamermeerderheid</link>
-      <description>Harde woorden over miljardengat dat box 3-plan in de begroting slaat en zorgen over de uitvoering. Maar een Kamermeerderheid lijkt zich achter de versnelde invoering van een vermogenswinstbelasting te scharen. </description>
+      <description>Harde woorden over het miljardengat dat het box 3-plan in de begroting slaat en zorgen over de uitvoering. Maar een Kamermeerderheid lijkt zich achter de versnelde invoering van een vermogenswinstbelasting te scharen. </description>
       <enclosure url="https://images.fd.nl/907987-908130.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
       <pubDate>Mon, 09 Nov 2026 19:45:58 GMT</pubDate>
       <guid>https://fd.nl/politiek/1618481/budgettair-gesjoemel-met-box-3-maar-wel-zicht-op-een-kamermeerderheid</guid>
@@ -120,7 +148,7 @@
       <title>Europa toch aan tafel bij vredesoverleg over Oekraïne</title>
       <link>https://fd.nl/politiek/1618456/europa-toch-aan-tafel-bij-vredesoverleg-over-oekraine</link>
       <description>Europese vertegenwoordigers zullen aanwezig zijn bij vredesoverleg tussen Oekraïne en Rusland in Abu Dhabi. De gesprekken vinden dinsdag en woensdag plaats onder leiding van de Verenigde Staten.</description>
-      <enclosure url="https://images.fd.nl/907726-907870.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
+      <enclosure length="0" type="image/jpeg" url="https://images.fd.nl/907726-907870.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" />
       <pubDate>Mon, 09 Nov 2026 12:33:59 GMT</pubDate>
       <guid>https://fd.nl/politiek/1618456/europa-toch-aan-tafel-bij-vredesoverleg-over-oekraine</guid>
     </item>
@@ -128,7 +156,7 @@
       <title>Nederlands-Duitse railsamenwerking staat bol van de vertragingen</title>
       <link>https://fd.nl/bedrijfsleven/1618013/nederlands-duitse-railsamenwerking-staat-bol-van-de-vertragingen</link>
       <description>Duitsland en Nederland willen intensiever samenwerken op het spoor. Dat moet leiden tot meer treinen en minder reistijd. Maar hoe dan? En per wanneer?</description>
-      <enclosure url="https://images.fd.nl/905324-907735.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
+      <enclosure length="0" type="image/jpeg" url="https://images.fd.nl/905324-907735.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" />
       <pubDate>Mon, 09 Nov 2026 11:21:14 GMT</pubDate>
       <guid>https://fd.nl/bedrijfsleven/1618013/nederlands-duitse-railsamenwerking-staat-bol-van-de-vertragingen</guid>
     </item>
@@ -136,7 +164,7 @@
       <title>Hoe het sprookje van kasteelgemeente Rozendaal ten einde kwam</title>
       <link>https://fd.nl/politiek/1618367/hoe-het-sprookje-van-kasteelgemeente-rozendaal-ten-einde-kwam</link>
       <description>In Rozendaal leven ze lang en gelukkig, maar het sprookje van een zelfstandige gemeente komt voor de 1838 inwoners waarschijnlijk ten einde. </description>
-      <enclosure url="https://images.fd.nl/904836-906319.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
+      <enclosure length="0" type="image/jpeg" url="https://images.fd.nl/904836-906319.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" />
       <pubDate>Mon, 09 Nov 2026 11:05:00 GMT</pubDate>
       <guid>https://fd.nl/politiek/1618367/hoe-het-sprookje-van-kasteelgemeente-rozendaal-ten-einde-kwam</guid>
     </item>
@@ -151,7 +179,7 @@
       <title>Wat als het belastingplan toch sneuvelt? Schade ‘valt reuze mee’</title>
       <link>https://fd.nl/politiek/1618344/wat-als-het-belastingplan-toch-sneuvelt-schade-valt-reuze-mee</link>
       <description>Als de Kamer het belastingplan afschiet, zijn de gevolgen voor de begroting van volgend jaar en voor het fiscaal beleid beperkt, aldus fiscalisten en economen.</description>
-      <enclosure url="https://images.fd.nl/906888-907122.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
+      <enclosure length="0" type="image/jpeg" url="https://images.fd.nl/906888-907122.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" />
       <pubDate>Mon, 09 Nov 2026 10:37:02 GMT</pubDate>
       <guid>https://fd.nl/politiek/1618344/wat-als-het-belastingplan-toch-sneuvelt-schade-valt-reuze-mee</guid>
     </item>
@@ -159,7 +187,7 @@
       <title>Raad van State gematigd positief over bijna gratis kinderopvang</title>
       <link>https://fd.nl/politiek/1618454/raad-van-state-gematigd-positief-over-bijna-gratis-kinderopvang</link>
       <description>Raad adviseert de regering rekening te houden met een aantal opmerkingen voordat het wetsvoorstel bij de Tweede Kamer wordt ingediend.</description>
-      <enclosure url="https://images.fd.nl/907715-907742.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
+      <enclosure length="0" type="image/jpeg" url="https://images.fd.nl/907715-907742.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" />
       <pubDate>Mon, 09 Nov 2026 10:16:23 GMT</pubDate>
       <guid>https://fd.nl/politiek/1618454/raad-van-state-gematigd-positief-over-bijna-gratis-kinderopvang</guid>
     </item>
@@ -167,7 +195,7 @@
       <title>Strukton buigt in slepende zaak rond Haagse Hubertustunnel, heropening aanstaande</title>
       <link>https://fd.nl/bedrijfsleven/1618452/strukton-buigt-in-slepende-zaak-rond-haagse-hubertustunnel-heropening-aanstaande</link>
       <description>Na een vertraagde renovatie, heropent bouwbedrijf Strukton de Hubertustunnel uiterlijk 15 december. Het laat extra financiële eisen onder druk van een rechtsgang van de gemeente vallen.</description>
-      <enclosure url="https://images.fd.nl/907668-907724.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
+      <enclosure length="0" type="image/jpeg" url="https://images.fd.nl/907668-907724.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" />
       <pubDate>Mon, 09 Nov 2026 10:12:36 GMT</pubDate>
       <guid>https://fd.nl/bedrijfsleven/1618452/strukton-buigt-in-slepende-zaak-rond-haagse-hubertustunnel-heropening-aanstaande</guid>
     </item>
