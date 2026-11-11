@@ -6,11 +6,19 @@
     <description>Gefilterd op: bedrijfsleven, economie, politiek, samenleving, tech-en-innovatie</description>
     <language>nl</language>
     <copyright>2026 Het Financieele Dagblad Amsterdam. This RSS feed is intended solely for personal, non-commercial use. All use of RSS feeds from Het Financieele Dagblad is subject to the General Terms and Conditions for Subscriptions, Services, and Registrations: https://fdmg.nl/wp-content/uploads/AV_Abonnementen.pdf.</copyright>
-    <pubDate>Tue, 10 Nov 2026 23:19:02 GMT</pubDate>
-    <lastBuildDate>Tue, 10 Nov 2026 23:01:00 GMT</lastBuildDate>
+    <pubDate>Wed, 11 Nov 2026 02:54:28 GMT</pubDate>
+    <lastBuildDate>Tue, 10 Nov 2026 23:30:00 GMT</lastBuildDate>
     <webMaster>webmaster@fd.nl</webMaster>
     <ttl>10</ttl>
     <category>Laatste nieuws</category>
+    <item>
+      <title>RIVM dreigt laboratoria te moeten sluiten wegens uitbraakgevaar</title>
+      <link>https://fd.nl/samenleving/1617848/rivm-dreigt-laboratoria-te-moeten-sluiten-wegens-uitbraakgevaar</link>
+      <description>De laboratoria, waar wetenschappers onderzoek doen naar zeer besmettelijke ziekteverwekkers, zijn dermate verouderd dat de beheerder van het park het niet langer verantwoord vindt ze nog langer open te houden</description>
+      <enclosure url="https://images.fd.nl/903218-908743.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
+      <pubDate>Tue, 10 Nov 2026 23:30:00 GMT</pubDate>
+      <guid>https://fd.nl/samenleving/1617848/rivm-dreigt-laboratoria-te-moeten-sluiten-wegens-uitbraakgevaar</guid>
+    </item>
     <item>
       <title>Nederland derde in mondiale AI-ranglijst</title>
       <link>https://fd.nl/tech-en-innovatie/1618569/nederland-derde-in-mondiale-ai-ranglijst</link>
@@ -171,7 +179,7 @@
       <title>Audi-ceo zit Brussel in de weg door met Witte Huis te onderhandelen</title>
       <link>https://fd.nl/bedrijfsleven/1618368/audi-ceo-zit-brussel-in-de-weg-door-met-witte-huis-te-onderhandelen</link>
       <description>Er was verbazing alom toen Audi-ceo Gernot Döllner vorige maand tijdens een campagnebijeenkomst van Donald Trump een miljardeninvestering in de VS aankondigde.</description>
-      <enclosure url="https://images.fd.nl/907161-908585.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
+      <enclosure length="0" type="image/jpeg" url="https://images.fd.nl/907161-908585.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" />
       <pubDate>Tue, 10 Nov 2026 13:27:00 GMT</pubDate>
       <guid>https://fd.nl/bedrijfsleven/1618368/audi-ceo-zit-brussel-in-de-weg-door-met-witte-huis-te-onderhandelen</guid>
     </item>
@@ -179,7 +187,7 @@
       <title>Turkije en Australië pleiten voor elektrificatie, maar poken ondertussen ook de wereldwijde kolenhandel op</title>
       <link>https://fd.nl/politiek/1618549/turkije-en-australie-pleiten-voor-elektrificatie-maar-poken-ondertussen-ook-de-wereldwijde-kolenhandel-op</link>
       <description>COP31-voorzitters Turkije en Australië willen landen overhalen om verder te elektrificeren. Tegelijkertijd oogsten zij kritiek omdat beide landen zelf weinig haast maken om het gebruik van kolen af te bouwen. </description>
-      <enclosure url="https://images.fd.nl/908481-908567.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
+      <enclosure length="0" type="image/jpeg" url="https://images.fd.nl/908481-908567.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" />
       <pubDate>Tue, 10 Nov 2026 13:25:39 GMT</pubDate>
       <guid>https://fd.nl/politiek/1618549/turkije-en-australie-pleiten-voor-elektrificatie-maar-poken-ondertussen-ook-de-wereldwijde-kolenhandel-op</guid>
     </item>
@@ -187,7 +195,7 @@
       <title>Anthropic mikt op waardering van $1400 mrd bij beursgang</title>
       <link>https://fd.nl/tech-en-innovatie/1618597/anthropic-mikt-op-waardering-van-1400-mrd-bij-beursgang</link>
       <description>Het AI-bedrijf verwacht maximaal $64,4 mrd op te halen. Het wordt daarmee een van de grootste beursgangen op Wall Street, maar de waardering is lager dan eerder verwacht. </description>
-      <enclosure url="https://images.fd.nl/908577-908830.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
+      <enclosure length="0" type="image/jpeg" url="https://images.fd.nl/908577-908830.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" />
       <pubDate>Tue, 10 Nov 2026 13:24:12 GMT</pubDate>
       <guid>https://fd.nl/tech-en-innovatie/1618597/anthropic-mikt-op-waardering-van-1400-mrd-bij-beursgang</guid>
     </item>
