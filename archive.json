@@ -9814,6 +9814,19 @@
   "pubDate": "Mon, 09 Nov 2026 20:34:14 GMT",
   "title": "Amerikaans congres stemt deze week over afzetting van ‘oorlogsminister’ Hegseth"
  },
+ "1618539": {
+  "description": "Hoe het bij de stemming ook afloopt met het kabinetsplan voor de belasting op sparen en beleggen: het gedoe houdt voorlopig aan. Wat staat spaarders en beleggers te wachten?",
+  "enclosure": {
+   "length": "0",
+   "type": "image/jpeg",
+   "url": "https://images.fd.nl/908270-908815.jpeg?fit=crop&crop=faces&auto=format%2Ccompress&q=45&w=140&h=140&fm=jpg&cs=tinysrgb"
+  },
+  "first_seen": "Wed, 11 Nov 2026 17:58:38 +0000",
+  "last_seen": "Wed, 11 Nov 2026 17:58:38 +0000",
+  "link": "https://fd.nl/politiek/1618539/rust-en-duidelijkheid-in-box-3-nog-even-niet",
+  "pubDate": "Wed, 11 Nov 2026 16:30:01 GMT",
+  "title": "Rust en duidelijkheid in box 3? Nog even niet"
+ },
  "1618547": {
   "description": "De Britse regering speelt steeds openlijker met de gedachte aan een terugkeer naar de EU. Maar bij de komende top tussen Brussel en het VK staan vooral praktische punten op de agenda.",
   "enclosure": {
@@ -9857,7 +9870,7 @@
    "url": "https://images.fd.nl/908554-908556.jpeg?fit=crop&crop=faces&auto=format%2Ccompress&q=45&w=140&h=140&fm=jpg&cs=tinysrgb"
   },
   "first_seen": "Wed, 11 Nov 2026 10:19:27 +0000",
-  "last_seen": "Wed, 11 Nov 2026 10:19:27 +0000",
+  "last_seen": "Wed, 11 Nov 2026 17:58:38 +0000",
   "link": "https://fd.nl/samenleving/1618551/is-trump-onze-eigen-schuld",
   "pubDate": "Wed, 11 Nov 2026 10:00:00 GMT",
   "title": "Is Trump onze eigen schuld?"
@@ -10090,7 +10103,7 @@
    "url": "https://images.fd.nl/908547-908552.jpeg?fit=crop&crop=faces&auto=format%2Ccompress&q=45&w=140&h=140&fm=jpg&cs=tinysrgb"
   },
   "first_seen": "Wed, 11 Nov 2026 10:19:27 +0000",
-  "last_seen": "Wed, 11 Nov 2026 10:19:27 +0000",
+  "last_seen": "Wed, 11 Nov 2026 17:58:38 +0000",
   "link": "https://fd.nl/samenleving/1618596/mypup-ceo-luke-van-der-wardt-ik-zag-ze-kijken-gozer-wat-doe-je",
   "pubDate": "Wed, 11 Nov 2026 08:30:00 GMT",
   "title": "MyPup-ceo Luke van der Wardt: ‘Ik zag ze kijken: gozer, wat doe je!’"
@@ -10165,7 +10178,7 @@
   "description": "De statiegeldmachinebouwer zag de omzet stijgen en haalde nieuwe orders binnen. Toch boekt Envipco de komende maanden een reorganisatielast van €3 mln in. ",
   "enclosure": null,
   "first_seen": "Wed, 11 Nov 2026 10:19:27 +0000",
-  "last_seen": "Wed, 11 Nov 2026 10:19:27 +0000",
+  "last_seen": "Wed, 11 Nov 2026 17:58:38 +0000",
   "link": "https://fd.nl/bedrijfsleven/1618651/reorganisatie-bij-fabrikant-envipco-ondanks-gestegen-omzet",
   "pubDate": "Wed, 11 Nov 2026 08:26:34 GMT",
   "title": "Reorganisatie bij fabrikant Envipco ondanks gestegen omzet"
@@ -10181,9 +10194,13 @@
  },
  "1618663": {
   "description": "Grote vraag naar aandelen van Anthropic zou bankiers aansporen de waardering van Anthropic op te trekken.",
-  "enclosure": null,
+  "enclosure": {
+   "length": "0",
+   "type": "image/jpeg",
+   "url": "https://images.fd.nl/909147-909199.jpeg?fit=crop&crop=faces&auto=format%2Ccompress&q=45&w=140&h=140&fm=jpg&cs=tinysrgb"
+  },
   "first_seen": "Wed, 11 Nov 2026 10:19:27 +0000",
-  "last_seen": "Wed, 11 Nov 2026 10:19:27 +0000",
+  "last_seen": "Wed, 11 Nov 2026 17:58:38 +0000",
   "link": "https://fd.nl/bedrijfsleven/1618663/bankiers-mikken-op-hogere-waardering-van-ai-bedrijf-anthropic-bij-beursgang",
   "pubDate": "Wed, 11 Nov 2026 09:24:39 GMT",
   "title": "Bankiers mikken op hogere waardering van AI-bedrijf Anthropic bij beursgang"
@@ -10260,16 +10277,166 @@
   "title": "Republikeinen blokkeren afzettingsprocedure tegen Hegseth"
  },
  "1618743": {
-  "description": "Het Midkap-fonds voorziet voor 2026 nu een ebit-marge, het bedrijfsresultaat als percentage van de omzet, van ongeveer 21%. Eerder mikte CSG op een marge tussen de 24% en 25%.",
+  "description": "Het Midkap-fonds voorziet voor 2026 nu een operationele winstmarge van ongeveer 21%. Eerder mikte CSG op een marge tussen de 24% en 25%.",
   "enclosure": {
    "length": "0",
    "type": "image/jpeg",
    "url": "https://images.fd.nl/909068-909170.jpeg?fit=crop&crop=faces&auto=format%2Ccompress&q=45&w=140&h=140&fm=jpg&cs=tinysrgb"
   },
   "first_seen": "Wed, 11 Nov 2026 10:19:27 +0000",
-  "last_seen": "Wed, 11 Nov 2026 10:19:27 +0000",
+  "last_seen": "Wed, 11 Nov 2026 17:58:38 +0000",
   "link": "https://fd.nl/bedrijfsleven/1618743/csg-onderuit-op-beurs-na-waarschuwing-over-winstgevendheid",
   "pubDate": "Wed, 11 Nov 2026 08:46:42 GMT",
   "title": "CSG onderuit op beurs na waarschuwing over winstgevendheid"
+ },
+ "1618744": {
+  "description": "In het distributiecentrum van Albert Heijn in Zaandam trekken ze lessen uit de recente hack.  Vanuit het distributiecentrum reconstrueren Martine van Gangelen en Jos Breedveld wat er die dagen gebeurde.",
+  "enclosure": {
+   "length": "0",
+   "type": "image/jpeg",
+   "url": "https://images.fd.nl/907613-909180.jpeg?fit=crop&crop=faces&auto=format%2Ccompress&q=45&w=140&h=140&fm=jpg&cs=tinysrgb"
+  },
+  "first_seen": "Wed, 11 Nov 2026 17:58:38 +0000",
+  "last_seen": "Wed, 11 Nov 2026 17:58:38 +0000",
+  "link": "https://fd.nl/bedrijfsleven/1618744/met-stift-en-kladblok-tuigde-ah-toch-een-beperkte-bevoorrading-op-tijdens-de-hack",
+  "pubDate": "Wed, 11 Nov 2026 11:11:59 GMT",
+  "title": "Met stift en kladblok tuigde AH toch een beperkte bevoorrading op tijdens de hack"
+ },
+ "1618768": {
+  "description": "Machinebouwer Van Aarsen uit Heel wordt verdacht van fraude bij zakendoen in Rusland. Volgens het bedrijf was er niets aan de hand. ",
+  "enclosure": {
+   "length": "0",
+   "type": "image/jpeg",
+   "url": "https://images.fd.nl/909153-909288.jpeg?fit=crop&crop=faces&auto=format%2Ccompress&q=45&w=140&h=140&fm=jpg&cs=tinysrgb"
+  },
+  "first_seen": "Wed, 11 Nov 2026 17:58:38 +0000",
+  "last_seen": "Wed, 11 Nov 2026 17:58:38 +0000",
+  "link": "https://fd.nl/bedrijfsleven/1618768/limburgs-bedrijf-voor-de-rechter-vanwege-steekpenningen-in-rusland-een-ophoging-van-de-offerte-dat-mag",
+  "pubDate": "Wed, 11 Nov 2026 11:04:16 GMT",
+  "title": "Limburgs bedrijf voor de rechter om steekpenningen in Rusland: ‘Een ophoging van de offerte mag’"
+ },
+ "1618770": {
+  "description": "Het energieconcern voerde in de eerste drie kwartalen van 2026 het nettoresultaat op naar €1,8 mrd, bijna 40% meer dan een jaar eerder.",
+  "enclosure": {
+   "length": "0",
+   "type": "image/jpeg",
+   "url": "https://images.fd.nl/909193-909378.jpeg?fit=crop&crop=faces&auto=format%2Ccompress&q=45&w=140&h=140&fm=jpg&cs=tinysrgb"
+  },
+  "first_seen": "Wed, 11 Nov 2026 17:58:38 +0000",
+  "last_seen": "Wed, 11 Nov 2026 17:58:38 +0000",
+  "link": "https://fd.nl/bedrijfsleven/1618770/turbulentie-op-energiemarkten-stuwt-resultaat-van-rwe",
+  "pubDate": "Wed, 11 Nov 2026 13:50:02 GMT",
+  "title": "Turbulentie op energiemarkten stuwt resultaat van RWE"
+ },
+ "1618784": {
+  "description": "Het fusiebedrijf krijgt volgens de markttoezichthouder te veel marktmacht in de verkoop van kruiden en sauzen in het VK. De bedrijven hebben een week de tijd om met oplossingen te komen. ",
+  "enclosure": null,
+  "first_seen": "Wed, 11 Nov 2026 17:58:38 +0000",
+  "last_seen": "Wed, 11 Nov 2026 17:58:38 +0000",
+  "link": "https://fd.nl/bedrijfsleven/1618784/britse-waakhond-kritisch-over-koop-voedseltak-unilever-door-mccormick",
+  "pubDate": "Wed, 11 Nov 2026 10:26:52 GMT",
+  "title": "Britse waakhond kritisch over koop voedseltak Unilever door McCormick"
+ },
+ "1618786": {
+  "description": "Meervoudig olympisch kampioen Teddy Riner wil president van Frankrijk worden. De judoka geldt als iemand met een uitgesproken mening. ",
+  "enclosure": {
+   "length": "0",
+   "type": "image/jpeg",
+   "url": "https://images.fd.nl/909216-909353.jpeg?fit=crop&crop=faces&auto=format%2Ccompress&q=45&w=140&h=140&fm=jpg&cs=tinysrgb"
+  },
+  "first_seen": "Wed, 11 Nov 2026 17:58:38 +0000",
+  "last_seen": "Wed, 11 Nov 2026 17:58:38 +0000",
+  "link": "https://fd.nl/politiek/1618786/frankrijk-in-de-greep-van-presidentsambities-judoheld",
+  "pubDate": "Wed, 11 Nov 2026 15:32:00 GMT",
+  "title": "Frankrijk in de greep van presidentsambities judoheld"
+ },
+ "1618804": {
+  "description": "De winst van het bedrijf steeg het afgelopen boekjaar 140% tot €5,5 mrd. Het aandeel steeg hard na de bekendmaking van de cijfers.",
+  "enclosure": null,
+  "first_seen": "Wed, 11 Nov 2026 17:58:38 +0000",
+  "last_seen": "Wed, 11 Nov 2026 17:58:38 +0000",
+  "link": "https://fd.nl/bedrijfsleven/1618804/siemens-energy-boekt-hogere-winst",
+  "pubDate": "Wed, 11 Nov 2026 13:40:29 GMT",
+  "title": "Siemens Energy boekt hogere winst"
+ },
+ "1618806": {
+  "description": "Zo’n driehonderd scholen zijn woensdagochtend geëvacueerd. Ook honderden scholen in Ierland en Schotland ontvingen de bommelding. ",
+  "enclosure": null,
+  "first_seen": "Wed, 11 Nov 2026 17:58:38 +0000",
+  "last_seen": "Wed, 11 Nov 2026 17:58:38 +0000",
+  "link": "https://fd.nl/samenleving/1618806/valse-bommeldingen-bij-6300-italiaanse-scholen",
+  "pubDate": "Wed, 11 Nov 2026 13:43:21 GMT",
+  "title": "Valse bommeldingen bij 6300 Italiaanse scholen"
+ },
+ "1618893": {
+  "description": "De wet moet consumenten beschermen tegen verborgen kosten en ongewenste abonnementen. Brussel belooft €13,7 mrd aan consumentenbesparingen, de techsector vreest een duur toezichtdoolhof.",
+  "enclosure": {
+   "length": "0",
+   "type": "image/jpeg",
+   "url": "https://images.fd.nl/909334-909415.jpeg?fit=crop&crop=faces&auto=format%2Ccompress&q=45&w=140&h=140&fm=jpg&cs=tinysrgb"
+  },
+  "first_seen": "Wed, 11 Nov 2026 17:58:38 +0000",
+  "last_seen": "Wed, 11 Nov 2026 17:58:38 +0000",
+  "link": "https://fd.nl/economie/1618893/nieuwe-eu-wet-verplicht-menselijk-contact-bij-klantenservice-en-verbiedt-nepkortingen",
+  "pubDate": "Wed, 11 Nov 2026 12:36:52 GMT",
+  "title": "Nieuwe EU-wet verplicht menselijk contact bij klantenservice en verbiedt nepkortingen"
+ },
+ "1618894": {
+  "description": "De linkse oppositiepartijen Pro en Volt hebben een akkoord gesloten met D66 en CDA over steun aan het belastingplan. De grote vraag is nu hoe de andere coalitiepartij, de VVD, reageert.  ",
+  "enclosure": {
+   "length": "0",
+   "type": "image/jpeg",
+   "url": "https://images.fd.nl/909412-909502.jpeg?fit=crop&crop=faces&auto=format%2Ccompress&q=45&w=140&h=140&fm=jpg&cs=tinysrgb"
+  },
+  "first_seen": "Wed, 11 Nov 2026 17:58:38 +0000",
+  "last_seen": "Wed, 11 Nov 2026 17:58:38 +0000",
+  "link": "https://fd.nl/politiek/1618894/pro-sluit-deal-met-deel-van-coalitie-lasten-op-vermogen-omhoog",
+  "pubDate": "Wed, 11 Nov 2026 13:22:02 GMT",
+  "title": "Spanning in coalitie na deal links met D66 en CDA over belastingplan"
+ },
+ "1618899": {
+  "description": "Invest-NL en Angelini Ventures sloten zich ook aan bij de ronde van het Amsterdamse biotechbedrijf, net als terugkerende investeerders zoals Forbion, EQT Life Sciences en Eli Lilly.",
+  "enclosure": null,
+  "first_seen": "Wed, 11 Nov 2026 17:58:38 +0000",
+  "last_seen": "Wed, 11 Nov 2026 17:58:38 +0000",
+  "link": "https://fd.nl/tech-en-innovatie/1618899/nederlands-biotechbedrijf-vectory-haalt-74-5-mln-op-voor-alzheimer-behandeling",
+  "pubDate": "Wed, 11 Nov 2026 16:03:35 GMT",
+  "title": "Nederlands biotechbedrijf Vectory haalt €74,5 mln op voor alzheimer-behandeling"
+ },
+ "1618900": {
+  "description": "Regeringsadviseurs voorzien dat zonder ingrepen de staatsschuld steeds verder uitdijt, en Duitsland in 2040 met een fors financieringstekort zit.",
+  "enclosure": null,
+  "first_seen": "Wed, 11 Nov 2026 17:58:38 +0000",
+  "last_seen": "Wed, 11 Nov 2026 17:58:38 +0000",
+  "link": "https://fd.nl/politiek/1618900/duitse-topeconomen-scherp-de-begrotingsregels-weer-aan",
+  "pubDate": "Wed, 11 Nov 2026 16:22:36 GMT",
+  "title": "Duitse topeconomen: scherp de begrotingsregels weer aan"
+ },
+ "1618901": {
+  "description": "Gesprekken tussen Russische en Oekraïense onderhandelaars in Abu Dhabi om een eind aan de oorlog te maken hebben weinig concrete resultaten opgeleverd.",
+  "enclosure": null,
+  "first_seen": "Wed, 11 Nov 2026 17:58:38 +0000",
+  "last_seen": "Wed, 11 Nov 2026 17:58:38 +0000",
+  "link": "https://fd.nl/politiek/1618901/taaie-gesprekken-over-oekraine-geen-doorbraak-wel-kansen",
+  "pubDate": "Wed, 11 Nov 2026 17:20:24 GMT",
+  "title": "Taaie gesprekken over Oekraïne: geen doorbraak, wel ‘kansen’"
+ },
+ "1618902": {
+  "description": "Nvidia is door de analisten van Morgan Stanley en Baird van het favoriete beleggingsobjectenlijstje geschrapt. ",
+  "enclosure": null,
+  "first_seen": "Wed, 11 Nov 2026 17:58:38 +0000",
+  "last_seen": "Wed, 11 Nov 2026 17:58:38 +0000",
+  "link": "https://fd.nl/bedrijfsleven/1618902/analisten-halen-nvidia-van-favorietenlijst",
+  "pubDate": "Wed, 11 Nov 2026 16:53:19 GMT",
+  "title": "Analisten halen Nvidia van favorietenlijst"
+ },
+ "1618904": {
+  "description": "Jaguar zegt dat zijn Chinese branchegenoot het model van de luxejeep Ti7 heeft afgekeken van de Land Rover Defender.",
+  "enclosure": null,
+  "first_seen": "Wed, 11 Nov 2026 17:58:38 +0000",
+  "last_seen": "Wed, 11 Nov 2026 17:58:38 +0000",
+  "link": "https://fd.nl/bedrijfsleven/1618904/jaguar-land-rover-moet-in-beslag-genomen-byd-data-vernietigen",
+  "pubDate": "Wed, 11 Nov 2026 17:05:40 GMT",
+  "title": "Jaguar Land Rover moet in beslag genomen BYD-data vernietigen"
  }
 }
