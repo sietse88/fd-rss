@@ -303,19 +303,6 @@
   "pubDate": "Wed, 14 Oct 2026 08:30:00 GMT",
   "title": "Het futurisme van de jaren zestig in een interieur"
  },
- "1615397": {
-  "description": "Financiële instellingen hebben met succes gelobbyd voor versoepeling van de regels voor risicotransacties. Alle lichten staan op groen voor meer transacties. ",
-  "enclosure": {
-   "length": "0",
-   "type": "image/jpeg",
-   "url": "https://images.fd.nl/891238-891512.jpeg?fit=crop&crop=faces&auto=format%2Ccompress&q=45&w=140&h=140&fm=jpg&cs=tinysrgb"
-  },
-  "first_seen": "Tue, 13 Oct 2026 01:20:22 +0000",
-  "last_seen": "Tue, 13 Oct 2026 08:05:18 +0000",
-  "link": "https://fd.nl/bedrijfsleven/1615397/ing-draagt-voor-5-mrd-risicos-over-aan-pensioenuitvoerder-pggm",
-  "pubDate": "Mon, 12 Oct 2026 22:30:00 GMT",
-  "title": "ING draagt voor €5 mrd risico’s over aan pensioenuitvoerder PGGM"
- },
  "1615406": {
   "description": "Nu.nl schrijft dat de Consumentenbond en de stichtingen Offlimits en The Firewall een kort geding tegen Meta starten.",
   "enclosure": null,
@@ -537,15 +524,6 @@
   "link": "https://fd.nl/economie/1615492/ai-revolutie-kan-de-wereldeconomie-maken-of-breken-stelt-het-imf",
   "pubDate": "Tue, 13 Oct 2026 02:00:00 GMT",
   "title": "AI-revolutie kan de wereldeconomie maken of breken, stelt het IMF"
- },
- "1615497": {
-  "description": "Deloitte Cyprus hielp gesanctioneerde oligarch jarenlang miljoenen aan belasting te ontduiken.",
-  "enclosure": null,
-  "first_seen": "Tue, 13 Oct 2026 01:20:22 +0000",
-  "last_seen": "Tue, 13 Oct 2026 08:05:18 +0000",
-  "link": "https://fd.nl/bedrijfsleven/1615497/deloitte-hielp-miljardair-roman-abramovitsj-bij-belastingontduiking",
-  "pubDate": "Mon, 12 Oct 2026 19:08:45 GMT",
-  "title": "‘Deloitte hielp miljardair Roman Abramovitsj bij belastingontduiking’"
  },
  "1615545": {
   "description": "Met name brandstof werd duurder.",
@@ -9560,7 +9538,7 @@
    "url": "https://images.fd.nl/908270-908815.jpeg?fit=crop&crop=faces&auto=format%2Ccompress&q=45&w=140&h=140&fm=jpg&cs=tinysrgb"
   },
   "first_seen": "Wed, 11 Nov 2026 17:58:38 +0000",
-  "last_seen": "Thu, 12 Nov 2026 00:27:08 +0000",
+  "last_seen": "Thu, 12 Nov 2026 07:33:39 +0000",
   "link": "https://fd.nl/politiek/1618539/rust-en-duidelijkheid-in-box-3-nog-even-niet",
   "pubDate": "Wed, 11 Nov 2026 16:30:01 GMT",
   "title": "Rust en duidelijkheid in box 3? Nog even niet"
@@ -9630,6 +9608,19 @@
   "link": "https://fd.nl/bedrijfsleven/1618560/chemiebedrijf-vynova-failliet-nederlandse-tak-vraagt-surseance-aan",
   "pubDate": "Tue, 10 Nov 2026 14:21:04 GMT",
   "title": "Chemiebedrijf Vynova failliet, Nederlandse tak vraagt surseance aan"
+ },
+ "1618561": {
+  "description": "De Chinees-Italiaans-Nederlandse regisseur Char Li Chung stoft ‘Romeo en Julia’ af: de hoofdpersonen zijn moslim, net als een groot deel van de cast.",
+  "enclosure": {
+   "length": "0",
+   "type": "image/jpeg",
+   "url": "https://images.fd.nl/908714-908722.jpeg?fit=crop&crop=faces&auto=format%2Ccompress&q=45&w=140&h=140&fm=jpg&cs=tinysrgb"
+  },
+  "first_seen": "Thu, 12 Nov 2026 07:33:39 +0000",
+  "last_seen": "Thu, 12 Nov 2026 07:33:39 +0000",
+  "link": "https://fd.nl/samenleving/1618561/regisseur-char-li-chung-hard-werken-voor-wat-ik-wil-bereiken-zit-in-mijn-bloed",
+  "pubDate": "Thu, 12 Nov 2026 07:30:00 GMT",
+  "title": "Regisseur Char Li Chung: ‘Hard werken voor wat ik wil bereiken zit in mijn bloed’"
  },
  "1618563": {
   "description": "Peja Group vond dat Karel Burger Dirven een lastercampagne voerde tegen het bedrijf. Het begon een kort geding en vorderde dwangsommen van €10.000 per dag. De rechtszaak werd vlak voor de zitting ingetrokken. ",
@@ -10066,6 +10057,19 @@
   "pubDate": "Wed, 11 Nov 2026 13:50:02 GMT",
   "title": "Turbulentie op energiemarkten stuwt resultaat van RWE"
  },
+ "1618772": {
+  "description": "China zet de stad Shenzhen in de etalage tijdens de Apec-top van komende week. De techmetropool is een geoliede exportmotor. Toch loopt niet alles op rolletjes.",
+  "enclosure": {
+   "length": "0",
+   "type": "image/jpeg",
+   "url": "https://images.fd.nl/909139-909422.jpeg?fit=crop&crop=faces&auto=format%2Ccompress&q=45&w=140&h=140&fm=jpg&cs=tinysrgb"
+  },
+  "first_seen": "Thu, 12 Nov 2026 07:33:39 +0000",
+  "last_seen": "Thu, 12 Nov 2026 07:33:39 +0000",
+  "link": "https://fd.nl/economie/1618772/techmekka-shenzhen-je-moet-innoveren-anders-kun-je-hier-niet-overleven",
+  "pubDate": "Thu, 12 Nov 2026 05:00:01 GMT",
+  "title": "Techmekka Shenzhen: ‘Je moet innoveren, anders kun je hier\nniet overleven’"
+ },
  "1618784": {
   "description": "Het fusiebedrijf krijgt volgens de markttoezichthouder te veel marktmacht in de verkoop van kruiden en sauzen in het VK. De bedrijven hebben een week de tijd om met oplossingen te komen. ",
   "enclosure": null,
@@ -10083,7 +10087,7 @@
    "url": "https://images.fd.nl/909216-909353.jpeg?fit=crop&crop=faces&auto=format%2Ccompress&q=45&w=140&h=140&fm=jpg&cs=tinysrgb"
   },
   "first_seen": "Wed, 11 Nov 2026 17:58:38 +0000",
-  "last_seen": "Thu, 12 Nov 2026 00:27:08 +0000",
+  "last_seen": "Thu, 12 Nov 2026 07:33:39 +0000",
   "link": "https://fd.nl/politiek/1618786/frankrijk-in-de-greep-van-presidentsambities-judoheld",
   "pubDate": "Wed, 11 Nov 2026 15:32:00 GMT",
   "title": "Frankrijk in de greep van presidentsambities judoheld"
@@ -10111,10 +10115,10 @@
   "enclosure": {
    "length": "0",
    "type": "image/jpeg",
-   "url": "https://images.fd.nl/909555-909642.jpeg?fit=crop&crop=faces&auto=format%2Ccompress&q=45&w=140&h=140&fm=jpg&cs=tinysrgb"
+   "url": "https://images.fd.nl/f609ce3e5e68c229ce0a65f70720750d81a26566.jpeg?fit=crop&crop=faces&auto=format%2Ccompress&q=45&w=140&h=140&fm=jpg&cs=tinysrgb"
   },
   "first_seen": "Thu, 12 Nov 2026 00:27:08 +0000",
-  "last_seen": "Thu, 12 Nov 2026 00:27:08 +0000",
+  "last_seen": "Thu, 12 Nov 2026 07:33:39 +0000",
   "link": "https://fd.nl/economie/1618809/oeso-ontslagbescherming-remt-productiviteitsgroei-nederland",
   "pubDate": "Wed, 11 Nov 2026 23:01:00 GMT",
   "title": "Oeso: ontslagbescherming remt productiviteitsgroei Nederland"
@@ -10127,7 +10131,7 @@
    "url": "https://images.fd.nl/909718-909733.jpeg?fit=crop&crop=faces&auto=format%2Ccompress&q=45&w=140&h=140&fm=jpg&cs=tinysrgb"
   },
   "first_seen": "Thu, 12 Nov 2026 00:27:08 +0000",
-  "last_seen": "Thu, 12 Nov 2026 00:27:08 +0000",
+  "last_seen": "Thu, 12 Nov 2026 07:33:39 +0000",
   "link": "https://fd.nl/politiek/1618812/vvd-deal-met-pro-gaat-in-tegen-coalitieakkoord",
   "pubDate": "Wed, 11 Nov 2026 18:57:56 GMT",
   "title": "Woedende VVD twijfelt aan toekomst kabinet om belastingdeal met Pro en Volt"
@@ -10136,7 +10140,7 @@
   "description": "De operationele winst van de Duitse verzekeraar Allianz zal uitkomen tussen de €16,4 mrd en €18,6 mrd.",
   "enclosure": null,
   "first_seen": "Thu, 12 Nov 2026 00:27:08 +0000",
-  "last_seen": "Thu, 12 Nov 2026 00:27:08 +0000",
+  "last_seen": "Thu, 12 Nov 2026 07:33:39 +0000",
   "link": "https://fd.nl/bedrijfsleven/1618814/allianz-verhoogt-winstverwachting",
   "pubDate": "Wed, 11 Nov 2026 19:22:03 GMT",
   "title": "Allianz verhoogt winstverwachting"
@@ -10145,7 +10149,7 @@
   "description": "Biotechbedrijf Lakefront heeft de celtherapieactiviteiten inmiddels nagenoeg opgedoekt. Het laatste betrokken personeel vertrekt nog dit jaar.",
   "enclosure": null,
   "first_seen": "Thu, 12 Nov 2026 00:27:08 +0000",
-  "last_seen": "Thu, 12 Nov 2026 00:27:08 +0000",
+  "last_seen": "Thu, 12 Nov 2026 07:33:39 +0000",
   "link": "https://fd.nl/bedrijfsleven/1618853/lakefront-biotherapeutics-gaat-nog-eens-voor-50-mln-aandelen-inkopen",
   "pubDate": "Wed, 11 Nov 2026 21:29:56 GMT",
   "title": "Lakefront Biotherapeutics gaat nog eens voor €50 mln aandelen inkopen"
@@ -10180,7 +10184,7 @@
   "description": "Invest-NL en Angelini Ventures sloten zich ook aan bij de ronde van het Amsterdamse biotechbedrijf, net als terugkerende investeerders zoals Forbion, EQT Life Sciences en Eli Lilly.",
   "enclosure": null,
   "first_seen": "Wed, 11 Nov 2026 17:58:38 +0000",
-  "last_seen": "Thu, 12 Nov 2026 00:27:08 +0000",
+  "last_seen": "Thu, 12 Nov 2026 07:33:39 +0000",
   "link": "https://fd.nl/tech-en-innovatie/1618899/nederlands-biotechbedrijf-vectory-haalt-74-5-mln-op-voor-alzheimer-behandeling",
   "pubDate": "Wed, 11 Nov 2026 16:03:35 GMT",
   "title": "Nederlands biotechbedrijf Vectory haalt €74,5 mln op voor alzheimer-behandeling"
@@ -10189,7 +10193,7 @@
   "description": "Regeringsadviseurs voorzien dat zonder ingrepen de staatsschuld steeds verder uitdijt, en Duitsland in 2040 met een fors financieringstekort zit.",
   "enclosure": null,
   "first_seen": "Wed, 11 Nov 2026 17:58:38 +0000",
-  "last_seen": "Thu, 12 Nov 2026 00:27:08 +0000",
+  "last_seen": "Thu, 12 Nov 2026 07:33:39 +0000",
   "link": "https://fd.nl/politiek/1618900/duitse-topeconomen-scherp-de-begrotingsregels-weer-aan",
   "pubDate": "Wed, 11 Nov 2026 16:22:36 GMT",
   "title": "Duitse topeconomen: scherp de begrotingsregels weer aan"
@@ -10198,7 +10202,7 @@
   "description": "Gesprekken tussen Russische en Oekraïense onderhandelaars in Abu Dhabi om een eind aan de oorlog te maken hebben weinig concrete resultaten opgeleverd.",
   "enclosure": null,
   "first_seen": "Wed, 11 Nov 2026 17:58:38 +0000",
-  "last_seen": "Thu, 12 Nov 2026 00:27:08 +0000",
+  "last_seen": "Thu, 12 Nov 2026 07:33:39 +0000",
   "link": "https://fd.nl/politiek/1618901/taaie-gesprekken-over-oekraine-geen-doorbraak-wel-kansen",
   "pubDate": "Wed, 11 Nov 2026 17:20:24 GMT",
   "title": "Taaie gesprekken over Oekraïne: geen doorbraak, wel ‘kansen’"
@@ -10207,36 +10211,89 @@
   "description": "Nvidia is door de analisten van Morgan Stanley en Baird van het favoriete beleggingsobjectenlijstje geschrapt. ",
   "enclosure": null,
   "first_seen": "Wed, 11 Nov 2026 17:58:38 +0000",
-  "last_seen": "Thu, 12 Nov 2026 00:27:08 +0000",
+  "last_seen": "Thu, 12 Nov 2026 07:33:39 +0000",
   "link": "https://fd.nl/bedrijfsleven/1618902/analisten-halen-nvidia-van-favorietenlijst",
   "pubDate": "Wed, 11 Nov 2026 16:53:19 GMT",
   "title": "Analisten halen Nvidia van favorietenlijst"
+ },
+ "1618903": {
+  "description": "Met de overname krijgt ParkBee er parkeerplaatsen rond vliegvelden en in steden bij, en een extra dienst: vervoer van de parkeerplaats naar de daadwerkelijke bestemming.",
+  "enclosure": null,
+  "first_seen": "Thu, 12 Nov 2026 07:33:39 +0000",
+  "last_seen": "Thu, 12 Nov 2026 07:33:39 +0000",
+  "link": "https://fd.nl/bedrijfsleven/1618903/parkeerplatform-parkbee-koopt-branchegenoot-mobian",
+  "pubDate": "Thu, 12 Nov 2026 05:00:00 GMT",
+  "title": "Parkeerplatform ParkBee koopt branchegenoot Mobian"
  },
  "1618904": {
   "description": "Jaguar zegt dat zijn Chinese branchegenoot het model van de luxejeep Ti7 heeft afgekeken van de Land Rover Defender.",
   "enclosure": null,
   "first_seen": "Wed, 11 Nov 2026 17:58:38 +0000",
-  "last_seen": "Thu, 12 Nov 2026 00:27:08 +0000",
+  "last_seen": "Thu, 12 Nov 2026 07:33:39 +0000",
   "link": "https://fd.nl/bedrijfsleven/1618904/jaguar-land-rover-moet-in-beslag-genomen-byd-data-vernietigen",
   "pubDate": "Wed, 11 Nov 2026 17:05:40 GMT",
   "title": "Jaguar Land Rover moet in beslag genomen BYD-data vernietigen"
+ },
+ "1618905": {
+  "description": "Vandaag in de Dagkoers: links sluit een deal over het belastingplan met D66 en CDA, de Oeso wil het ontslagrecht aanpakken om de Nederlandse productiviteit te redden, en een nieuwe EU-wet geeft je straks recht op een echt mens bij de klantenservice.",
+  "enclosure": {
+   "length": "0",
+   "type": "image/jpeg",
+   "url": "https://images.fd.nl/909682-909685.png?fit=crop&crop=faces&w=140&h=140&fm=jpg&cs=tinysrgb"
+  },
+  "first_seen": "Thu, 12 Nov 2026 07:33:39 +0000",
+  "last_seen": "Thu, 12 Nov 2026 07:33:39 +0000",
+  "link": "https://fd.nl/economie/1618905/belastingplan-splijt-kabinet-jetten",
+  "pubDate": "Thu, 12 Nov 2026 04:00:00 GMT",
+  "title": "Belastingplan splijt kabinet-Jetten"
  },
  "1618908": {
   "description": "Amerikaanse handelaren wachten vol spanning op de beursgang van Anthropic en het rentebesluit van de Federal Reserve.",
   "enclosure": null,
   "first_seen": "Thu, 12 Nov 2026 00:27:08 +0000",
-  "last_seen": "Thu, 12 Nov 2026 00:27:08 +0000",
+  "last_seen": "Thu, 12 Nov 2026 07:33:39 +0000",
   "link": "https://fd.nl/bedrijfsleven/1618908/herstel-van-techaandelen-leidt-tot-groene-cijfers-op-wall-street",
   "pubDate": "Wed, 11 Nov 2026 21:10:06 GMT",
   "title": "Herstel van techaandelen leidt tot groene cijfers op Wall Street"
  },
  "1618911": {
-  "description": "Nvidia-ceo lijkt op weg naar uitgang, rapporteren zakenmedia.",
-  "enclosure": null,
+  "description": "Woensdag kwam via The New York Times naar buiten dat Huang ook een affaire zou hebben gehad met een ondergeschikte.",
+  "enclosure": {
+   "length": "0",
+   "type": "image/jpeg",
+   "url": "https://images.fd.nl/232aca6a7e75f7736591889df4ea249fa4eb422f.jpeg?fit=crop&crop=faces&auto=format%2Ccompress&q=45&w=140&h=140&fm=jpg&cs=tinysrgb"
+  },
   "first_seen": "Thu, 12 Nov 2026 00:27:08 +0000",
-  "last_seen": "Thu, 12 Nov 2026 00:27:08 +0000",
+  "last_seen": "Thu, 12 Nov 2026 07:33:39 +0000",
   "link": "https://fd.nl/bedrijfsleven/1618911/nvidia-overlegt-over-ontslag-huang-na-nieuwe-onthullingen-affaire",
   "pubDate": "Wed, 11 Nov 2026 23:47:54 GMT",
-  "title": "‘Nvidia overlegt over ontslag Huang na nieuwe onthullingen affaire’"
+  "title": "‘Nvidia overweegt ceo Huang te ontslaan na onthullingen over nog een affaire’"
+ },
+ "1618976": {
+  "description": "Het bedrijf boekte over de eerste drie kwartalen een omzet van $6,3 mrd, dat is 77% meer dan in dezelfde periode een jaar eerder.",
+  "enclosure": null,
+  "first_seen": "Thu, 12 Nov 2026 07:33:39 +0000",
+  "last_seen": "Thu, 12 Nov 2026 07:33:39 +0000",
+  "link": "https://fd.nl/bedrijfsleven/1618976/sbm-offshore-verhoogt-zijn-omzetverwachting-opnieuw",
+  "pubDate": "Thu, 12 Nov 2026 06:33:26 GMT",
+  "title": "SBM Offshore verhoogt zijn omzetverwachting opnieuw"
+ },
+ "1619076": {
+  "description": "Colom boekte een verrassende overwinning in de conservatieve staat, waar al sinds 1982 Republikeinse kandidaten de Senaatszetels vullen.",
+  "enclosure": null,
+  "first_seen": "Thu, 12 Nov 2026 07:33:39 +0000",
+  "last_seen": "Thu, 12 Nov 2026 07:33:39 +0000",
+  "link": "https://fd.nl/politiek/1619076/democraten-halen-nipt-verrassende-senaatszege-in-mississippi",
+  "pubDate": "Thu, 12 Nov 2026 06:43:20 GMT",
+  "title": "Democraten boeken nipt verrassende Senaatszege in Mississippi"
+ },
+ "1619077": {
+  "description": "Hoewel een stijging van 27% behoorlijk lijkt, komt dat ook omdat er in oktober 2025 opvallend weinig bedrijven failliet werden verklaard.",
+  "enclosure": null,
+  "first_seen": "Thu, 12 Nov 2026 07:33:39 +0000",
+  "last_seen": "Thu, 12 Nov 2026 07:33:39 +0000",
+  "link": "https://fd.nl/bedrijfsleven/1619077/aantal-faillissementen-in-oktober-met-27-gestegen",
+  "pubDate": "Thu, 12 Nov 2026 07:22:10 GMT",
+  "title": "Aantal faillissementen in oktober met 27% gestegen"
  }
 }
