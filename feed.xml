@@ -6,11 +6,35 @@
     <description>Gefilterd op: bedrijfsleven, economie, politiek, samenleving, tech-en-innovatie</description>
     <language>nl</language>
     <copyright>2026 Het Financieele Dagblad Amsterdam. This RSS feed is intended solely for personal, non-commercial use. All use of RSS feeds from Het Financieele Dagblad is subject to the General Terms and Conditions for Subscriptions, Services, and Registrations: https://fdmg.nl/wp-content/uploads/AV_Abonnementen.pdf.</copyright>
-    <pubDate>Sun, 15 Nov 2026 01:01:23 GMT</pubDate>
-    <lastBuildDate>Sat, 14 Nov 2026 15:17:28 GMT</lastBuildDate>
+    <pubDate>Sun, 15 Nov 2026 07:50:35 GMT</pubDate>
+    <lastBuildDate>Sun, 15 Nov 2026 06:00:00 GMT</lastBuildDate>
     <webMaster>webmaster@fd.nl</webMaster>
     <ttl>10</ttl>
     <category>Laatste nieuws</category>
+    <item>
+      <title>Ethische hackers werden zelf gehackt met AI: ‘De vingerafdrukken zaten overal’</title>
+      <link>https://fd.nl/tech-en-innovatie/1618885/ethische-hackers-werden-zelf-gehackt-met-ai-de-vingerafdrukken-zaten-overal</link>
+      <description>Een Nederlandse organisatie die werkt aan cyberveiligheid kreeg te maken met een AI-cyberaanval. Ze zijn wel wat gewend, maar een dergelijke aanval zagen ze nog niet eerder. </description>
+      <enclosure url="https://images.fd.nl/66f41e3c6c50192b608965add21e0e031971e244.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
+      <pubDate>Sun, 15 Nov 2026 05:10:00 GMT</pubDate>
+      <guid>https://fd.nl/tech-en-innovatie/1618885/ethische-hackers-werden-zelf-gehackt-met-ai-de-vingerafdrukken-zaten-overal</guid>
+    </item>
+    <item>
+      <title>In Zwolle zien ze de afwijzing van de minister als komma, niet als punt</title>
+      <link>https://fd.nl/bedrijfsleven/1618779/in-zwolle-zien-ze-de-afwijzing-van-de-minister-als-komma-niet-als-punt</link>
+      <description>Dat de sluizen bij Kornwerderzand niet verbreed worden, vinden ze hier onbegrijpelijk. ‘Misschien moeten we de minister gewoon nog eens uitleggen dat dit een verdienmodel is.’</description>
+      <enclosure url="https://images.fd.nl/52d1f695b290869a12b1bd57dbc67f9a99b6e98f.png?fit=crop&amp;crop=faces&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
+      <pubDate>Sun, 15 Nov 2026 05:02:00 GMT</pubDate>
+      <guid>https://fd.nl/bedrijfsleven/1618779/in-zwolle-zien-ze-de-afwijzing-van-de-minister-als-komma-niet-als-punt</guid>
+    </item>
+    <item>
+      <title>‘Een hacker nam ons hele bedrijf over’</title>
+      <link>https://fd.nl/samenleving/1618599/een-hacker-nam-ons-hele-bedrijf-over</link>
+      <description>Terwijl hij in een meeting zit, krijgt ondernemer Timothy van Laar een gek mailtje. Of hij het was die zijn wachtwoord had veranderd? Nog geen kwartier later neemt een hacker hun hele bedrijf over.</description>
+      <enclosure url="https://images.fd.nl/63f08d0184e79b49c9e9453768e41f9de122aede.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
+      <pubDate>Sun, 15 Nov 2026 04:00:00 GMT</pubDate>
+      <guid>https://fd.nl/samenleving/1618599/een-hacker-nam-ons-hele-bedrijf-over</guid>
+    </item>
     <item>
       <title>Meta krijgt €805 mln boete in Italië wegens ongeautoriseerde toegang tot telefoongalerijen</title>
       <link>https://fd.nl/politiek/1619539/meta-krijgt-805-mln-boete-in-italie-wegens-ongeautoriseerde-toegang-tot-telefoongalerijen</link>
@@ -158,7 +182,7 @@
       <title>Wie volgt Jensen Huang op als ceo van AI-bedrijf Nvidia? Vijf kandidaten</title>
       <link>https://fd.nl/bedrijfsleven/1619388/wie-volgt-jensen-huang-op-als-ceo-van-ai-bedrijf-nvidia-vijf-kandidaten</link>
       <description>Chipmaker Nvidia is op zoek naar een nieuwe leider. Vicepresident Ian Buck van het bedrijf lijkt de beste kaarten in handen te hebben.</description>
-      <enclosure url="https://images.fd.nl/e186fb9bc336c2c2844776b0ea74a2a43e7b18d6.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
+      <enclosure length="0" type="image/jpeg" url="https://images.fd.nl/e186fb9bc336c2c2844776b0ea74a2a43e7b18d6.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" />
       <pubDate>Fri, 13 Nov 2026 15:04:00 GMT</pubDate>
       <guid>https://fd.nl/bedrijfsleven/1619388/wie-volgt-jensen-huang-op-als-ceo-van-ai-bedrijf-nvidia-vijf-kandidaten</guid>
     </item>
@@ -166,7 +190,7 @@
       <title>Columbia-hoogleraar: ‘Een koophuis is niet voor iedereen’</title>
       <link>https://fd.nl/samenleving/1618545/columbia-hoogleraar-stijn-van-nieuwerburgh-een-koophuis-is-niet-voor-iedereen</link>
       <description>Volgens de Vlaams-Amerikaanse hoogleraar Stijn Van Nieuwerburgh is de Nederlandse woningmarkt vooral gericht op bescherming van zittende huurders en huiseigenaren.</description>
-      <enclosure url="https://images.fd.nl/eea5162eb4a56b6386538a90f730a2277d686c04.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
+      <enclosure length="0" type="image/jpeg" url="https://images.fd.nl/eea5162eb4a56b6386538a90f730a2277d686c04.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" />
       <pubDate>Fri, 13 Nov 2026 15:00:00 GMT</pubDate>
       <guid>https://fd.nl/samenleving/1618545/columbia-hoogleraar-stijn-van-nieuwerburgh-een-koophuis-is-niet-voor-iedereen</guid>
     </item>
@@ -6579,14 +6603,6 @@ voortdurend het Westen de huid vol</title>
       <description>Weinig verdachten worden vervolgd en berecht. Seksuele uitbuiting blijft de meest gemelde vorm van mensenhandel in Nederland.</description>
       <pubDate>Fri, 16 Oct 2026 05:59:14 GMT</pubDate>
       <guid>https://fd.nl/samenleving/1615773/veel-meer-meldingen-van-arbeidsuitbuiting-in-de-land-en-tuinbouwsector-en-de-horeca</guid>
-    </item>
-    <item>
-      <title>Uit de kluiten gewassen beren voor volwassenen</title>
-      <link>https://fd.nl/samenleving/1615703/uit-de-kluiten-gewassen-beren-voor-volwassenen</link>
-      <description>Bearandbunny’s grote beren en konijnen zorgen voor een zachte maar toch esthetisch verantwoorden touch in huis. Madonna heeft er ook een.</description>
-      <enclosure length="0" type="image/jpeg" url="https://images.fd.nl/892787-892799.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" />
-      <pubDate>Fri, 16 Oct 2026 05:00:00 GMT</pubDate>
-      <guid>https://fd.nl/samenleving/1615703/uit-de-kluiten-gewassen-beren-voor-volwassenen</guid>
     </item>
   </channel>
 </rss>
