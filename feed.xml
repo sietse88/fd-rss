@@ -6,18 +6,18 @@
     <description>Gefilterd op: bedrijfsleven, economie, politiek, samenleving, tech-en-innovatie</description>
     <language>nl</language>
     <copyright>2026 Het Financieele Dagblad Amsterdam. This RSS feed is intended solely for personal, non-commercial use. All use of RSS feeds from Het Financieele Dagblad is subject to the General Terms and Conditions for Subscriptions, Services, and Registrations: https://fdmg.nl/wp-content/uploads/AV_Abonnementen.pdf.</copyright>
-    <pubDate>Mon, 16 Nov 2026 00:14:28 GMT</pubDate>
-    <lastBuildDate>Sun, 15 Nov 2026 23:30:00 GMT</lastBuildDate>
+    <pubDate>Mon, 16 Nov 2026 06:40:36 GMT</pubDate>
+    <lastBuildDate>Mon, 16 Nov 2026 05:48:44 GMT</lastBuildDate>
     <webMaster>webmaster@fd.nl</webMaster>
     <ttl>10</ttl>
     <category>Laatste nieuws</category>
     <item>
-      <title>ACM onderzoekt bouwsector op verboden afspraken nu aanbestedingen sterk toenemen</title>
-      <link>https://fd.nl/bedrijfsleven/1619499/acm-onderzoekt-bouwsector-op-verboden-afspraken-nu-aanbestedingen-sterk-toenemen</link>
-      <description>Door de huidige golf van overheidsaanbestedingen, bijvoorbeeld bij de aanleg van wegen en woonwijken, is er meer risico op oneerlijke concurrentie, aldus de mededingingsautoriteit.</description>
-      <enclosure url="https://images.fd.nl/5b8caaabc01b1a5a6ff3e6f25df27bf18562ef45.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
-      <pubDate>Sun, 15 Nov 2026 23:30:00 GMT</pubDate>
-      <guid>https://fd.nl/bedrijfsleven/1619499/acm-onderzoekt-bouwsector-op-verboden-afspraken-nu-aanbestedingen-sterk-toenemen</guid>
+      <title>Ai, ai, ai. Wat als de AI-agent verkeerd belegt?</title>
+      <link>https://fd.nl/samenleving/1619497/ai-ai-ai-wat-als-de-ai-agent-verkeerd-belegt</link>
+      <description>Chatbots rukken op als beleggingsadviseurs en vermogensbeheerders, maar als je geld ineens weg is, hoef je bij OpenAI en Microsoft niet aan te kloppen. </description>
+      <enclosure url="https://images.fd.nl/3d6c89564269a41c0615bb58288b1ef01043c6a8.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
+      <pubDate>Mon, 16 Nov 2026 05:00:00 GMT</pubDate>
+      <guid>https://fd.nl/samenleving/1619497/ai-ai-ai-wat-als-de-ai-agent-verkeerd-belegt</guid>
     </item>
     <item>
       <title>Hengelose ingenieursgroep Engius neemt branchegenoot JVZ over</title>
@@ -25,6 +25,14 @@
       <description>JVZ telt 35 medewerkers in Nijmegen en Deventer. Door de acquisitie groeit Engius uit tot een bedrijf met circa 350 medewerkers en een omzet van €45 mln. </description>
       <pubDate>Sun, 15 Nov 2026 23:30:00 GMT</pubDate>
       <guid>https://fd.nl/bedrijfsleven/1619389/hengelose-ingenieursgroep-engius-neemt-branchegenoot-jvz-over</guid>
+    </item>
+    <item>
+      <title>ACM onderzoekt bouwsector op verboden afspraken nu aanbestedingen sterk toenemen</title>
+      <link>https://fd.nl/bedrijfsleven/1619499/acm-onderzoekt-bouwsector-op-verboden-afspraken-nu-aanbestedingen-sterk-toenemen</link>
+      <description>Door de huidige golf van overheidsaanbestedingen, bijvoorbeeld bij de aanleg van wegen en woonwijken, is er meer risico op oneerlijke concurrentie, aldus de mededingingsautoriteit.</description>
+      <enclosure url="https://images.fd.nl/5b8caaabc01b1a5a6ff3e6f25df27bf18562ef45.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
+      <pubDate>Sun, 15 Nov 2026 23:30:00 GMT</pubDate>
+      <guid>https://fd.nl/bedrijfsleven/1619499/acm-onderzoekt-bouwsector-op-verboden-afspraken-nu-aanbestedingen-sterk-toenemen</guid>
     </item>
     <item>
       <title>‘Jensen Huang werkt aan comeback bij Nvidia’</title>
@@ -144,7 +152,7 @@
       <title>Ethische hackers werden zelf gehackt, met AI: ‘De vingerafdrukken zaten overal’</title>
       <link>https://fd.nl/tech-en-innovatie/1618885/ethische-hackers-werden-zelf-gehackt-met-ai-de-vingerafdrukken-zaten-overal</link>
       <description>Een Nederlandse organisatie die werkt aan cyberveiligheid, kreeg te maken met een AI-cyberaanval. Ze zijn er wel wat gewend, maar een dergelijke aanval zagen ze nog niet eerder. </description>
-      <enclosure url="https://images.fd.nl/66f41e3c6c50192b608965add21e0e031971e244.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
+      <enclosure length="0" type="image/jpeg" url="https://images.fd.nl/66f41e3c6c50192b608965add21e0e031971e244.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" />
       <pubDate>Sun, 15 Nov 2026 05:10:00 GMT</pubDate>
       <guid>https://fd.nl/tech-en-innovatie/1618885/ethische-hackers-werden-zelf-gehackt-met-ai-de-vingerafdrukken-zaten-overal</guid>
     </item>
@@ -152,7 +160,7 @@
       <title>In Zwolle zien ze de afwijzing van de minister als komma, niet als punt</title>
       <link>https://fd.nl/bedrijfsleven/1618779/in-zwolle-zien-ze-de-afwijzing-van-de-minister-als-komma-niet-als-punt</link>
       <description>Dat de sluizen bij Kornwerderzand niet verbreed worden, vinden ze hier onbegrijpelijk. ‘Misschien moeten we de minister gewoon nog eens uitleggen dat dit een verdienmodel is.’</description>
-      <enclosure url="https://images.fd.nl/52d1f695b290869a12b1bd57dbc67f9a99b6e98f.png?fit=crop&amp;crop=faces&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
+      <enclosure length="0" type="image/jpeg" url="https://images.fd.nl/52d1f695b290869a12b1bd57dbc67f9a99b6e98f.png?fit=crop&amp;crop=faces&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" />
       <pubDate>Sun, 15 Nov 2026 05:02:00 GMT</pubDate>
       <guid>https://fd.nl/bedrijfsleven/1618779/in-zwolle-zien-ze-de-afwijzing-van-de-minister-als-komma-niet-als-punt</guid>
     </item>
@@ -160,7 +168,7 @@
       <title>‘Een hacker nam ons hele bedrijf over’</title>
       <link>https://fd.nl/samenleving/1618599/een-hacker-nam-ons-hele-bedrijf-over</link>
       <description>Terwijl hij in een meeting zit, krijgt ondernemer Timothy van Laar een gek mailtje. Of hij het was die zijn wachtwoord had veranderd? Nog geen kwartier later neemt een hacker hun hele bedrijf over.</description>
-      <enclosure url="https://images.fd.nl/63f08d0184e79b49c9e9453768e41f9de122aede.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
+      <enclosure length="0" type="image/jpeg" url="https://images.fd.nl/63f08d0184e79b49c9e9453768e41f9de122aede.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" />
       <pubDate>Sun, 15 Nov 2026 04:00:00 GMT</pubDate>
       <guid>https://fd.nl/samenleving/1618599/een-hacker-nam-ons-hele-bedrijf-over</guid>
     </item>
