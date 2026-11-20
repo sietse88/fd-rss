@@ -6,8 +6,8 @@
     <description>Gefilterd op: bedrijfsleven, economie, politiek, samenleving, tech-en-innovatie</description>
     <language>nl</language>
     <copyright>2026 Het Financieele Dagblad Amsterdam. This RSS feed is intended solely for personal, non-commercial use. All use of RSS feeds from Het Financieele Dagblad is subject to the General Terms and Conditions for Subscriptions, Services, and Registrations: https://fdmg.nl/wp-content/uploads/AV_Abonnementen.pdf.</copyright>
-    <pubDate>Thu, 19 Nov 2026 21:31:38 GMT</pubDate>
-    <lastBuildDate>Thu, 19 Nov 2026 21:23:03 GMT</lastBuildDate>
+    <pubDate>Fri, 20 Nov 2026 02:37:09 GMT</pubDate>
+    <lastBuildDate>Thu, 19 Nov 2026 23:30:00 GMT</lastBuildDate>
     <webMaster>webmaster@fd.nl</webMaster>
     <ttl>10</ttl>
     <category>Laatste nieuws</category>
@@ -142,7 +142,7 @@
       <title>Weet jij hoeveel belasting de staat vangt over de hoofdprijs in de Oudejaarsloterij?</title>
       <link>https://fd.nl/samenleving/1619809/weet-jij-hoeveel-belasting-de-staat-vangt-over-de-hoofdprijs-in-de-oudejaarsloterij</link>
       <description>Test hier je kennis van kerst, klassiekers en 2026 tot dusver.</description>
-      <enclosure url="https://images.fd.nl/a612e642b2afa29d7c50296c87dee601a8685890.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
+      <enclosure length="0" type="image/jpeg" url="https://images.fd.nl/a612e642b2afa29d7c50296c87dee601a8685890.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" />
       <pubDate>Thu, 19 Nov 2026 14:45:00 GMT</pubDate>
       <guid>https://fd.nl/samenleving/1619809/weet-jij-hoeveel-belasting-de-staat-vangt-over-de-hoofdprijs-in-de-oudejaarsloterij</guid>
     </item>
@@ -150,7 +150,7 @@
       <title>Poolse minister Sikorski: ‘Als er afspraken komen die ons niet bevallen, wijzen we die gewoon af’</title>
       <link>https://fd.nl/politiek/1620113/poolse-minister-sikorski-als-er-afspraken-komen-die-ons-niet-bevallen-wijzen-we-die-gewoon-af</link>
       <description>Een deal tussen Moskou en Washington over de hoofden van de Europeanen is volgens de Poolse buitenlandminister Radek Sikorski ondenkbaar. ‘We zijn onmisbaar.’</description>
-      <enclosure url="https://images.fd.nl/ae122e866ec88ed79c76414b5b15b06701be19aa.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" length="0" type="image/jpeg" />
+      <enclosure length="0" type="image/jpeg" url="https://images.fd.nl/ae122e866ec88ed79c76414b5b15b06701be19aa.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" />
       <pubDate>Thu, 19 Nov 2026 14:42:09 GMT</pubDate>
       <guid>https://fd.nl/politiek/1620113/poolse-minister-sikorski-als-er-afspraken-komen-die-ons-niet-bevallen-wijzen-we-die-gewoon-af</guid>
     </item>
@@ -6756,14 +6756,6 @@ voortdurend het Westen de huid vol</title>
       <enclosure length="0" type="image/jpeg" url="https://images.fd.nl/896208-896211.png?fit=crop&amp;crop=faces&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" />
       <pubDate>Wed, 21 Oct 2026 03:00:00 GMT</pubDate>
       <guid>https://fd.nl/economie/1616200/wie-kiest-israel-als-volgende-premier</guid>
-    </item>
-    <item>
-      <title>Haagse cyberbeveiliger hekelt OM over opvragen informatie</title>
-      <link>https://fd.nl/tech-en-innovatie/1616290/haagse-cyberbeveiliger-hekelt-om-over-opvragen-informatie</link>
-      <description>Eye Security zegt dat dergelijke verzoeken toenemen en een extra belasting vormen. Ook zouden ze de vertrouwensrelatie met de klant schaden.</description>
-      <enclosure length="0" type="image/jpeg" url="https://images.fd.nl/895985-896268.jpeg?fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=45&amp;w=140&amp;h=140&amp;fm=jpg&amp;cs=tinysrgb" />
-      <pubDate>Tue, 20 Oct 2026 22:30:00 GMT</pubDate>
-      <guid>https://fd.nl/tech-en-innovatie/1616290/haagse-cyberbeveiliger-hekelt-om-over-opvragen-informatie</guid>
     </item>
   </channel>
 </rss>
