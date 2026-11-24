@@ -285,19 +285,6 @@
   "pubDate": "Wed, 28 Oct 2026 14:55:00 GMT",
   "title": "Eerste vrouwelijke premier Marokko richt blik vooral op buitenland"
  },
- "1616492": {
-  "description": "Ondernemer Anouk Binkhuysen werd door ziekte gedwongen het roer om te gooien. Zodat, in het ergste geval, het bedrijf zonder haar kon voortbestaan.",
-  "enclosure": {
-   "length": "0",
-   "type": "image/jpeg",
-   "url": "https://images.fd.nl/897745-897770.jpeg?fit=crop&crop=faces&auto=format%2Ccompress&q=45&w=140&h=140&fm=jpg&cs=tinysrgb"
-  },
-  "first_seen": "Sun, 25 Oct 2026 04:26:42 +0000",
-  "last_seen": "Mon, 26 Oct 2026 05:18:50 +0000",
-  "link": "https://fd.nl/samenleving/1616492/toen-ik-kanker-kreeg-moest-ik-mezelf-vervangbaar-maken",
-  "pubDate": "Sun, 25 Oct 2026 04:00:00 GMT",
-  "title": "‘Toen ik kanker kreeg, móest ik mezelf vervangbaar maken’"
- },
  "1616498": {
   "description": "Het Amsterdamse durfkapitaalfonds PureTerra heeft €40 mln binnengehaald van het Europese Investeringsfonds en InvestNL. ‘De beperkende factor is kapitaal, niet ideeën.’",
   "enclosure": {
@@ -9390,10 +9377,19 @@
    "url": "https://images.fd.nl/9ef3c8f1043a6881c00352e94a44bd0733664fda.jpeg?fit=crop&crop=faces&auto=format%2Ccompress&q=45&w=140&h=140&fm=jpg&cs=tinysrgb"
   },
   "first_seen": "Mon, 23 Nov 2026 22:48:53 +0000",
-  "last_seen": "Mon, 23 Nov 2026 22:48:53 +0000",
+  "last_seen": "Tue, 24 Nov 2026 06:44:25 +0000",
   "link": "https://fd.nl/bedrijfsleven/1620265/cybersecuritybedrijf-crowdstrike-neemt-zscaler-over-voor-43-9-mrd",
   "pubDate": "Mon, 23 Nov 2026 16:31:35 GMT",
   "title": "Cybersecuritybedrijf CrowdStrike neemt Zscaler over voor $43,9 mrd"
+ },
+ "1620267": {
+  "description": "Volgens schatting van het Integraal Kankercentrum Nederland en het Erasmus MC voorkomen vaccinaties zo’n 12.800 kankerdiagnoses in het leven van de huidige generatie 0- tot 9-jarigen.",
+  "enclosure": null,
+  "first_seen": "Tue, 24 Nov 2026 06:44:25 +0000",
+  "last_seen": "Tue, 24 Nov 2026 06:44:25 +0000",
+  "link": "https://fd.nl/samenleving/1620267/onderzoek-hpv-vaccinatie-op-jonge-leeftijd-kan-duizenden-kankerdiagnoses-voorkomen",
+  "pubDate": "Mon, 23 Nov 2026 23:30:00 GMT",
+  "title": "Onderzoek: HPV-vaccinatie op jonge leeftijd kan duizenden kankerdiagnoses voorkomen"
  },
  "1620268": {
   "description": "Na twee roerige jaren blijven er vier grote bankengroepen over op de Italiaanse markt, met Intesa Sanpaolo op kop.",
@@ -9403,7 +9399,7 @@
    "url": "https://images.fd.nl/c304bfc707d6d245f6850ea64c1c04cec2d8c371.jpeg?fit=crop&crop=faces&auto=format%2Ccompress&q=45&w=140&h=140&fm=jpg&cs=tinysrgb"
   },
   "first_seen": "Mon, 23 Nov 2026 22:48:53 +0000",
-  "last_seen": "Mon, 23 Nov 2026 22:48:53 +0000",
+  "last_seen": "Tue, 24 Nov 2026 06:44:25 +0000",
   "link": "https://fd.nl/bedrijfsleven/1620268/vier-bankgroepen-blijven-over-na-consolidatie-italiaanse-bankensector",
   "pubDate": "Mon, 23 Nov 2026 16:33:08 GMT",
   "title": "Vier bankgroepen blijven over na consolidatie Italiaanse bankensector"
@@ -9416,7 +9412,7 @@
    "url": "https://images.fd.nl/70a8f1eb11b03ba0d132b990e3fe18cf421a0e03.jpeg?fit=crop&crop=faces&auto=format%2Ccompress&q=45&w=140&h=140&fm=jpg&cs=tinysrgb"
   },
   "first_seen": "Mon, 23 Nov 2026 22:48:53 +0000",
-  "last_seen": "Mon, 23 Nov 2026 22:48:53 +0000",
+  "last_seen": "Tue, 24 Nov 2026 06:44:25 +0000",
   "link": "https://fd.nl/bedrijfsleven/1620270/eu-onderzoekt-of-bottelarij-van-coca-cola-zijn-marktpositie-misbruikt",
   "pubDate": "Mon, 23 Nov 2026 16:57:53 GMT",
   "title": "EU onderzoekt of bottelarij van Coca-Cola haar marktpositie misbruikt"
@@ -9425,7 +9421,7 @@
   "description": "Vanaf 2030 moeten de eerste legosteentjes van de band afrollen.",
   "enclosure": null,
   "first_seen": "Mon, 23 Nov 2026 22:48:53 +0000",
-  "last_seen": "Mon, 23 Nov 2026 22:48:53 +0000",
+  "last_seen": "Tue, 24 Nov 2026 06:44:25 +0000",
   "link": "https://fd.nl/bedrijfsleven/1620271/lego-bouwt-voor-1-mrd-portugese-fabriek-om-europese-vraag-bij-te-benen",
   "pubDate": "Mon, 23 Nov 2026 15:44:35 GMT",
   "title": "Lego bouwt voor €1 mrd Portugese fabriek om Europese vraag bij te benen"
@@ -9687,7 +9683,7 @@
    "url": "https://images.fd.nl/6a1ad56a53cdf9cb5325c074472ac307faeb9b1c.jpeg?fit=crop&crop=faces&auto=format%2Ccompress&q=45&w=140&h=140&fm=jpg&cs=tinysrgb"
   },
   "first_seen": "Mon, 23 Nov 2026 22:48:53 +0000",
-  "last_seen": "Mon, 23 Nov 2026 22:48:53 +0000",
+  "last_seen": "Tue, 24 Nov 2026 06:44:25 +0000",
   "link": "https://fd.nl/bedrijfsleven/1620384/arriva-en-transdev-noemen-stakingen-in-streekvervoer-onbegrijpelijk",
   "pubDate": "Mon, 23 Nov 2026 16:07:13 GMT",
   "title": "Arriva en Transdev noemen stakingen in streekvervoer ‘onbegrijpelijk’"
@@ -9700,10 +9696,23 @@
    "url": "https://images.fd.nl/4d3750d38e258359c1d08e3bd05180bc579abde7.jpeg?fit=crop&crop=faces&auto=format%2Ccompress&q=45&w=140&h=140&fm=jpg&cs=tinysrgb"
   },
   "first_seen": "Mon, 23 Nov 2026 22:48:53 +0000",
-  "last_seen": "Mon, 23 Nov 2026 22:48:53 +0000",
+  "last_seen": "Tue, 24 Nov 2026 06:44:25 +0000",
   "link": "https://fd.nl/politiek/1620385/zelfs-na-negen-stemrondes-zit-de-selectie-van-de-nieuwe-vn-chef-nog-muurvast",
   "pubDate": "Mon, 23 Nov 2026 15:50:41 GMT",
   "title": "Zelfs na negen stemrondes zit de selectie van de nieuwe VN-chef nog muurvast"
+ },
+ "1620387": {
+  "description": "Met de fusie van de PvdA en GroenLinks tot Pro is er geen brede linkse volkspartij meer. Regisseur Eddy Terstall en publicist en oud-Kamerlid Zihni Özdil gaan erover in gesprek.  ",
+  "enclosure": {
+   "length": "0",
+   "type": "image/jpeg",
+   "url": "https://images.fd.nl/ae9f539ed469dd42839436accb94455c5af93951.jpeg?fit=crop&crop=faces&auto=format%2Ccompress&q=45&w=140&h=140&fm=jpg&cs=tinysrgb"
+  },
+  "first_seen": "Tue, 24 Nov 2026 06:44:25 +0000",
+  "last_seen": "Tue, 24 Nov 2026 06:44:25 +0000",
+  "link": "https://fd.nl/samenleving/1620387/leeft-het-sociaaldemocratische-gedachtegoed-nog-en-zo-ja-is-het-dan-nog-relevant",
+  "pubDate": "Tue, 24 Nov 2026 05:00:00 GMT",
+  "title": "Leeft het sociaaldemocratische gedachtegoed nog? En zo ja, is het dan nog relevant?"
  },
  "1620393": {
   "description": "Voor zover bekend is er geen sprake van concrete dreiging en gaat het enkel om valse meldingen.",
@@ -9723,6 +9732,15 @@
   "pubDate": "Mon, 23 Nov 2026 13:48:35 GMT",
   "title": "Vastgoedontwikkelaar BPD neemt Blauwhoed over"
  },
+ "1620397": {
+  "description": "Sinds 2022 kunnen scholen extra geld krijgen voor het verbeteren van bijvoorbeeld de lees- en rekenprestaties van leerlingen. Alleen bij basisscholen met achterstanden lijkt het te helpen. ",
+  "enclosure": null,
+  "first_seen": "Tue, 24 Nov 2026 06:44:25 +0000",
+  "last_seen": "Tue, 24 Nov 2026 06:44:25 +0000",
+  "link": "https://fd.nl/politiek/1620397/subsidie-voor-verbeteren-basisvaardigheden-levert-weinig-concreets-op",
+  "pubDate": "Mon, 23 Nov 2026 23:30:00 GMT",
+  "title": "Subsidie voor verbeteren basisvaardigheden levert weinig concreets op"
+ },
  "1620399": {
   "description": "De grootste commerciële verhuurder van Nederland raakt 10% van zijn woningportefeuille kwijt. De deal met BPD volgt na stevige druk van de aandeelhouders van Vesteda.",
   "enclosure": {
@@ -9731,7 +9749,7 @@
    "url": "https://images.fd.nl/5a4dc569d441c5dd4bfb5121e9db187ab8e5fb4f.jpeg?fit=crop&crop=faces&auto=format%2Ccompress&q=45&w=140&h=140&fm=jpg&cs=tinysrgb"
   },
   "first_seen": "Mon, 23 Nov 2026 22:48:53 +0000",
-  "last_seen": "Mon, 23 Nov 2026 22:48:53 +0000",
+  "last_seen": "Tue, 24 Nov 2026 06:44:25 +0000",
   "link": "https://fd.nl/bedrijfsleven/1620399/vesteda-verkoopt-voor-bijna-1-mrd-aan-huurwoningen-aan-bpd",
   "pubDate": "Mon, 23 Nov 2026 18:45:00 GMT",
   "title": "Vesteda verkoopt voor bijna €1 mrd aan huurwoningen aan BPD"
@@ -9744,7 +9762,7 @@
    "url": "https://images.fd.nl/b5726ce8e28921ed68e8441fa5e2d39c73fa0026.jpeg?fit=crop&crop=faces&auto=format%2Ccompress&q=45&w=140&h=140&fm=jpg&cs=tinysrgb"
   },
   "first_seen": "Mon, 23 Nov 2026 22:48:53 +0000",
-  "last_seen": "Mon, 23 Nov 2026 22:48:53 +0000",
+  "last_seen": "Tue, 24 Nov 2026 06:44:25 +0000",
   "link": "https://fd.nl/bedrijfsleven/1620400/ard-jan-kooren-stopt-na-24-jaar-als-ceo-bij-rotterdams-slepersbedrijf-kotug",
   "pubDate": "Mon, 23 Nov 2026 15:27:55 GMT",
   "title": "Ard-Jan Kooren stopt na 24 jaar als ceo bij Rotterdams slepersbedrijf Kotug"
@@ -9757,7 +9775,7 @@
    "url": "https://images.fd.nl/1ce50a75300e90b9ad4ed441e867aa843ec25388.jpeg?fit=crop&crop=faces&auto=format%2Ccompress&q=45&w=140&h=140&fm=jpg&cs=tinysrgb"
   },
   "first_seen": "Mon, 23 Nov 2026 22:48:53 +0000",
-  "last_seen": "Mon, 23 Nov 2026 22:48:53 +0000",
+  "last_seen": "Tue, 24 Nov 2026 06:44:25 +0000",
   "link": "https://fd.nl/politiek/1620401/hoogleraar-van-vuuren-verbreken-internationale-samenwerking-zou-rampzalig-zijn-voor-klimaat",
   "pubDate": "Mon, 23 Nov 2026 17:30:51 GMT",
   "title": "Hoogleraar Van Vuuren: verbreken internationale samenwerking zou ‘rampzalig’ zijn voor klimaat"
@@ -9766,7 +9784,7 @@
   "description": "Uitgekleed voorstel gaat Nederland nog steeds te veel geld kosten, aldus officiële reactie vlak voor de Europese top.",
   "enclosure": null,
   "first_seen": "Mon, 23 Nov 2026 22:48:53 +0000",
-  "last_seen": "Mon, 23 Nov 2026 22:48:53 +0000",
+  "last_seen": "Tue, 24 Nov 2026 06:44:25 +0000",
   "link": "https://fd.nl/politiek/1620403/kabinet-nieuw-voorstel-eu-begroting-nog-te-duur",
   "pubDate": "Mon, 23 Nov 2026 16:17:16 GMT",
   "title": "Kabinet: nieuw voorstel EU-begroting nog te duur"
@@ -9775,7 +9793,7 @@
   "description": "De komende tijd moeten er drie Big Bazars openen in Den Haag, waarvan de eerste begin december al de deuren opent. ",
   "enclosure": null,
   "first_seen": "Mon, 23 Nov 2026 22:48:53 +0000",
-  "last_seen": "Mon, 23 Nov 2026 22:48:53 +0000",
+  "last_seen": "Tue, 24 Nov 2026 06:44:25 +0000",
   "link": "https://fd.nl/bedrijfsleven/1620404/merkrechten-big-bazar-verkocht-koopjesketen-keert-terug",
   "pubDate": "Mon, 23 Nov 2026 16:32:32 GMT",
   "title": "Merkrechten Big Bazar verkocht, koopjesketen keert terug"
@@ -9784,7 +9802,7 @@
   "description": "De Europese Commissie wil in het 22ste sanctiepakket ook de bestaande sancties tegen Russische schepen en banken uitbreiden.",
   "enclosure": null,
   "first_seen": "Mon, 23 Nov 2026 22:48:53 +0000",
-  "last_seen": "Mon, 23 Nov 2026 22:48:53 +0000",
+  "last_seen": "Tue, 24 Nov 2026 06:44:25 +0000",
   "link": "https://fd.nl/politiek/1620407/nieuw-sanctiepakket-mikt-op-russische-oud-strijders-en-sporters",
   "pubDate": "Mon, 23 Nov 2026 17:31:38 GMT",
   "title": "Nieuw sanctiepakket gericht op Russische oud-strijders en sporters"
@@ -9793,7 +9811,7 @@
   "description": "De leider van de sociaaldemocratische partij maakt niet duidelijk welk belastingtarief hij voor ogen heeft. ",
   "enclosure": null,
   "first_seen": "Mon, 23 Nov 2026 22:48:53 +0000",
-  "last_seen": "Mon, 23 Nov 2026 22:48:53 +0000",
+  "last_seen": "Tue, 24 Nov 2026 06:44:25 +0000",
   "link": "https://fd.nl/politiek/1620408/spaanse-premier-wil-multimiljonairstaks-invoeren",
   "pubDate": "Mon, 23 Nov 2026 17:28:18 GMT",
   "title": "Spaanse premier wil multimiljonairstaks invoeren"
@@ -9802,7 +9820,7 @@
   "description": "Drie Russische raketten kwamen vrijdag neer in Navo-lidstaat Polen. Dat voedt de angst nog eens extra dat het westerse militaire bondgenootschap in een oorlog met Rusland belandt.",
   "enclosure": null,
   "first_seen": "Mon, 23 Nov 2026 22:48:53 +0000",
-  "last_seen": "Mon, 23 Nov 2026 22:48:53 +0000",
+  "last_seen": "Tue, 24 Nov 2026 06:44:25 +0000",
   "link": "https://fd.nl/politiek/1620411/navo-stuurt-vliegend-radar-en-commandosysteem-naar-polen-om-russische-raketten",
   "pubDate": "Mon, 23 Nov 2026 20:50:59 GMT",
   "title": "Navo stuurt vliegend radar- en commandosysteem naar Polen om Russische raketten"
@@ -9811,7 +9829,7 @@
   "description": "Rusland rept van ‘mogelijke betrokkenheid van Destinus-personeel bij de aanslagen op de Russische Federatie’ en heeft een officieel informatieverzoek bij het kabinet ingediend. ",
   "enclosure": null,
   "first_seen": "Mon, 23 Nov 2026 22:48:53 +0000",
-  "last_seen": "Mon, 23 Nov 2026 22:48:53 +0000",
+  "last_seen": "Tue, 24 Nov 2026 06:44:25 +0000",
   "link": "https://fd.nl/politiek/1620457/russische-ambassade-in-den-haag-eist-opheldering-over-destinus-in-oekraine",
   "pubDate": "Mon, 23 Nov 2026 21:24:06 GMT",
   "title": "Russische ambassade in Den Haag eist opheldering over Destinus in Oekraïne"
@@ -9820,7 +9838,7 @@
   "description": "Ic-hoofd Diederik Gommers legt zijn functie per direct neer. ",
   "enclosure": null,
   "first_seen": "Mon, 23 Nov 2026 22:48:53 +0000",
-  "last_seen": "Mon, 23 Nov 2026 22:48:53 +0000",
+  "last_seen": "Tue, 24 Nov 2026 06:44:25 +0000",
   "link": "https://fd.nl/samenleving/1620476/inspectie-komt-met-kritisch-rapport-over-werkcultuur-erasmus-mc",
   "pubDate": "Mon, 23 Nov 2026 18:56:36 GMT",
   "title": "Inspectie komt met kritisch rapport over werkcultuur op ic Erasmus MC"
@@ -9829,7 +9847,7 @@
   "description": "Nooit eerder slaagde Oekraïne erin een Russisch schip in de Middellandse Zee tot zinken te brengen.",
   "enclosure": null,
   "first_seen": "Mon, 23 Nov 2026 22:48:53 +0000",
-  "last_seen": "Mon, 23 Nov 2026 22:48:53 +0000",
+  "last_seen": "Tue, 24 Nov 2026 06:44:25 +0000",
   "link": "https://fd.nl/politiek/1620477/oekraine-brengt-twee-russische-schepen-bij-libie-tot-zinken-bevestigt-kyiv",
   "pubDate": "Mon, 23 Nov 2026 18:17:21 GMT",
   "title": "Oekraïne brengt twee Russische schepen bij Libië tot zinken, bevestigt Kyiv"
@@ -9838,7 +9856,7 @@
   "description": "",
   "enclosure": null,
   "first_seen": "Mon, 23 Nov 2026 22:48:53 +0000",
-  "last_seen": "Mon, 23 Nov 2026 22:48:53 +0000",
+  "last_seen": "Tue, 24 Nov 2026 06:44:25 +0000",
   "link": "https://fd.nl/bedrijfsleven/1620479/duitse-industrie-mikt-op-gezamenlijke-inkoop-grondstoffen",
   "pubDate": "Mon, 23 Nov 2026 21:17:14 GMT",
   "title": "Duitse industrie mikt op gezamenlijke inkoop grondstoffen"
@@ -9847,7 +9865,7 @@
   "description": "Aan het einde van de handelsdag eindigde de Nasdaq 6,52% hoger, pluste de Dow Jones 3,01% en steeg de S&P 500 met 4,74%.",
   "enclosure": null,
   "first_seen": "Mon, 23 Nov 2026 22:48:53 +0000",
-  "last_seen": "Mon, 23 Nov 2026 22:48:53 +0000",
+  "last_seen": "Tue, 24 Nov 2026 06:44:25 +0000",
   "link": "https://fd.nl/bedrijfsleven/1620480/jubelstemming-op-wall-street-door-terugkeer-jensen-huang",
   "pubDate": "Mon, 23 Nov 2026 21:09:31 GMT",
   "title": "Jubelstemming op Wall Street door terugkeer Jensen Huang"
